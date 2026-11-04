@@ -1,0 +1,8 @@
+# PERSONA@5: Independent × Pro — 5 maximally diverse personas (for TinyTroupe comparison)
+# Same logic as PERSONA-PRO but only 5 personas instead of 20.
+# Subset: Sarah Johnson, James Mitchell, Maria Rodriguez, David Chen, Patricia O'Brien.
+name: "INDEPENDENT-PRO-5"
+persona_depth: "pro"
+framework: "independent"
+personas_file: "personas.yaml"
+persona_subset: [1, 2, 3, 4, 5]

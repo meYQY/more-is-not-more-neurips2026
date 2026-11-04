@@ -1,0 +1,10 @@
+{
+  "model": "deepseek-v4-flash",
+  "condition": "coverage",
+  "complete_tasks": 100,
+  "records": 1500,
+  "unique_intervention_calls": 1000,
+  "prompt_tokens_rounds_2_3": 3914050,
+  "completion_tokens_rounds_2_3": 486280,
+  "timestamp": "2026-07-26T19:54:43.460542+00:00"
+}

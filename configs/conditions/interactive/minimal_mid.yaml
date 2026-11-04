@@ -1,0 +1,7 @@
+# MINIMAL+MID: Interactive × Mid — PERSONA@5 discuss with detailed demographic
+name: "INTERACTIVE-MID"
+persona_depth: "mid"
+framework: "interactive"
+personas_file: "personas.yaml"
+persona_subset: [1, 2, 3, 4, 5]
+n_rounds: 3

@@ -1,0 +1,6 @@
+# ENHANCED: Independent × None — SINGLE + diversity instruction
+# Ablation: does explicitly asking for diverse perspectives help?
+name: "INDEPENDENT-ENHANCED"
+persona_depth: "none"
+framework: "independent"
+system_prompt: "You are a helpful assistant. Please consider diverse perspectives when responding."

@@ -1,0 +1,26 @@
+[project]
+name = "more-is-not-more"
+version = "0.1.0"
+description = "Factorial evaluation of what drives diversity in LLM-generated opinions"
+requires-python = ">=3.10"
+dependencies = [
+    "openai",
+    "pyyaml",
+    "numpy",
+    "scipy",
+    "scikit-learn",
+    "statsmodels",
+    "python-dotenv",
+    "sentence-transformers",
+    "vendi-score",
+]
+
+[project.optional-dependencies]
+plot = ["matplotlib", "scienceplots", "tueplots"]
+
+[build-system]
+requires = ["setuptools>=68.0"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]

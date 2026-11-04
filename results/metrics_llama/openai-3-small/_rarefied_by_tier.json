@@ -1,0 +1,127 @@
+{
+  "Independent Main": {
+    "independent-none": {
+      "mpd": 0.5352790904872139,
+      "cc_rarefied": 40.291666666666664,
+      "vs_rarefied": 14.840001565535864
+    },
+    "independent-role": {
+      "mpd": 0.5763421434757879,
+      "cc_rarefied": 54.23233333333334,
+      "vs_rarefied": 17.746426133076344
+    },
+    "independent-basic": {
+      "mpd": 0.5945287961287283,
+      "cc_rarefied": 61.12066666666666,
+      "vs_rarefied": 19.457812713781994
+    },
+    "independent-mid": {
+      "mpd": 0.5973591568419386,
+      "cc_rarefied": 61.47233333333334,
+      "vs_rarefied": 19.66398388139407
+    },
+    "independent-pro": {
+      "mpd": 0.615611291895561,
+      "cc_rarefied": 62.61633333333332,
+      "vs_rarefied": 20.791114736477535
+    }
+  },
+  "Independent Ablation": {
+    "independent-none": {
+      "mpd": 0.5368445017653944,
+      "cc_rarefied": 52.785374149659866,
+      "vs_rarefied": 16.705072216922733
+    },
+    "independent-enhanced": {
+      "mpd": 0.5354398848524995,
+      "cc_rarefied": 49.9078231292517,
+      "vs_rarefied": 16.301939443828296
+    },
+    "independent-temp-high": {
+      "mpd": 0.5403684550183572,
+      "cc_rarefied": 54.80510204081633,
+      "vs_rarefied": 17.148321238342596
+    },
+    "independent-dimension": {
+      "mpd": 0.5366412247713087,
+      "cc_rarefied": 49.80612244897959,
+      "vs_rarefied": 16.26361463864644
+    },
+    "independent-random-sys": {
+      "mpd": 0.5435524883322789,
+      "cc_rarefied": 51.85578231292517,
+      "vs_rarefied": 16.62750511055901
+    }
+  },
+  "Sequential": {
+    "sequential-none": {
+      "mpd": 0.5830477297709861,
+      "cc_rarefied": 60.31515151515151,
+      "vs_rarefied": 18.798985918603762
+    },
+    "sequential-role": {
+      "mpd": 0.6554680031805324,
+      "cc_rarefied": 119.44242424242425,
+      "vs_rarefied": 31.597704257387107
+    },
+    "sequential-basic": {
+      "mpd": 0.6397529921524537,
+      "cc_rarefied": 110.44747474747476,
+      "vs_rarefied": 29.21234216497402
+    },
+    "sequential-mid": {
+      "mpd": 0.645521626205284,
+      "cc_rarefied": 111.83265993265992,
+      "vs_rarefied": 29.650510870808297
+    },
+    "sequential-pro": {
+      "mpd": 0.6679691347451575,
+      "cc_rarefied": 119.67676767676768,
+      "vs_rarefied": 32.8829114596049
+    }
+  },
+  "Interactive": {
+    "interactive-none": {
+      "mpd": 0.5585703626591411,
+      "cc_rarefied": 35.51566666666667,
+      "vs_rarefied": 14.372489547888438
+    },
+    "interactive-role": {
+      "mpd": 0.6161254274966999,
+      "cc_rarefied": 47.78066666666668,
+      "vs_rarefied": 18.200963567733766
+    },
+    "interactive-basic": {
+      "mpd": 0.5925953323414682,
+      "cc_rarefied": 38.495,
+      "vs_rarefied": 15.529637181758881
+    },
+    "interactive-mid": {
+      "mpd": 0.6029614362894132,
+      "cc_rarefied": 40.65866666666666,
+      "vs_rarefied": 16.34856221659978
+    },
+    "interactive-pro": {
+      "mpd": 0.6277347639905811,
+      "cc_rarefied": 44.77833333333333,
+      "vs_rarefied": 17.968876902421314
+    }
+  },
+  "Cross-Framework (5-persona)": {
+    "independent-pro-5": {
+      "mpd": NaN,
+      "cc_rarefied": 18.531986531986536,
+      "vs_rarefied": 9.67760266711816
+    },
+    "sequential-pro-5": {
+      "mpd": 0.6582730564001466,
+      "cc_rarefied": 30.501683501683495,
+      "vs_rarefied": 15.314534025802358
+    },
+    "interactive-pro": {
+      "mpd": 0.6271944122451476,
+      "cc_rarefied": 25.090235690235687,
+      "vs_rarefied": 13.006818257116711
+    }
+  }
+}

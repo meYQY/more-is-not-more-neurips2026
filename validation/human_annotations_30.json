@@ -1,0 +1,2014 @@
+[
+  {
+    "index": 4,
+    "architecture": "independent",
+    "model": "gpt54mini",
+    "condition": "independent-pro",
+    "task_id": "MOD-080",
+    "persona": "Thomas Eriksen",
+    "n_opinions": 8,
+    "judgments": [
+      {
+        "opinion": "\"Hi / hey / how are you\" doesn't give the other person much to work with, so the conversation stalls before it starts.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "What helps is opening with something that gives them an easy, specific reply.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Don't start with just \"hey\".",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Don't ask a question they can answer with one word.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Keep it easy and low-pressure.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Show you actually looked at their profile.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "If they still give you dry replies, that usually tells you they're not very engaged.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "In that case, don't force it—move on.",
+        "precision": "yes"
+      }
+    ],
+    "no_missed": false,
+    "missed_opinions": "",
+    "done": ""
+  },
+  {
+    "index": 10,
+    "architecture": "independent",
+    "model": "deepseek",
+    "condition": "independent-pro-5",
+    "task_id": "MOD-057",
+    "persona": "Sarah Johnson",
+    "n_opinions": 9,
+    "judgments": [
+      {
+        "opinion": "Opening a similar business right next to an existing one—especially a small, local shop—can feel aggressive and underhanded.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "It’s not just about competition; it’s about intention and impact.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "If someone worked hard on a project and another student copied their idea right beside them, we’d talk about how that feels and whether it’s the right way to succeed.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Small businesses often struggle to survive, and deliberately setting up shop next to an established one to draw away their customers seems... unkind, at the very least.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "As a community, we should value integrity and support for local entrepreneurs.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "If this YouTuber used their platform to unfairly target or undermine the original shop, that’s worthy of criticism.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Location and intent matter.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "We try to support businesses that build up the community, not tear each other down.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Criticism can be valid if the behavior lacks ethical consideration for others’ livelihoods.",
+        "precision": "yes"
+      }
+    ],
+    "no_missed": false,
+    "missed_opinions": "",
+    "done": ""
+  },
+  {
+    "index": 14,
+    "architecture": "interactive",
+    "model": "gemini",
+    "condition": "interactive-basic",
+    "task_id": "MOD-080",
+    "persona": "Sarah Johnson",
+    "n_opinions": 8,
+    "judgments": [
+      {
+        "opinion": "Between grading papers and keeping up with my students all day, the last thing I want to do when I sit down on my couch in the evening is have a \"Hi/How are you?\" conversation that goes nowhere.",
+        "precision": "partial"
+      },
+      {
+        "opinion": "It feels like a second job sometimes!",
+        "precision": "yes"
+      },
+      {
+        "opinion": "As a teacher, I always tell my kids that if they want a better answer, they have to ask a better question.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "I think the same applies to Tinder.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "If I send a thoughtful opener and they *still* just reply with \"Hi\" or \"Good,\" I usually move on.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Life in Atlanta is too busy to be pulling teeth for a conversation!",
+        "precision": "partial"
+      },
+      {
+        "opinion": "You want to find someone who matches your energy.",
+        "precision": "partial"
+      },
+      {
+        "opinion": "If you provide the \"spark,\" and they still don't bring any \"kindling,\" then they probably aren't the right match for you anyway!",
+        "precision": "yes"
+      }
+    ],
+    "no_missed": false,
+    "missed_opinions": "",
+    "done": ""
+  },
+  {
+    "index": 15,
+    "architecture": "interactive",
+    "model": "deepseek",
+    "condition": "interactive-pro",
+    "task_id": "MOD-012",
+    "persona": "Patricia O'Brien",
+    "n_opinions": 15,
+    "judgments": [
+      {
+        "opinion": "Indigenous communities are being 'railroaded' in the pipeline process.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Real change often starts when abstract issues become personal.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "It’s not about being anti-development; it’s about being pro-community.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "When we trust people with decisions about their own lives, better outcomes follow.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "The fact that Indigenous knowledge about land stewardship is being sidelined in this pipeline process isn't just unjust; it's foolish.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "We're ignoring generations of wisdom in favor of short-term gain.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "The billions poured into Trans Mountain could indeed seed a hundred community-led renewable projects, train workers for the energy future, and honor treaties with Indigenous nations.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "It's not a lack of resources; it's a lack of vision.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "If we teach children about stewardship while approving projects that sacrifice certain communities, we're teaching them that some people are expendable.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "That's a dangerous lesson.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "The Trans Mountain Expansion feels like a relic of a mindset we should be outgrowing—one that sees land as commodity, communities as obstacles, and the future as someone else's problem.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "True stewardship, as we've all touched on, is relational: it's about tending to the connections between land, water, people, and generations.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Perhaps the most important thing we can do is exactly what we're doing here: building solidarity across regions and experiences.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Whether it's a pipeline in Canada, a refinery in Houston, or a proposed gas project here in New England, the pattern is the same.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "So must be our response: insisting on solutions that heal rather than harm, that include rather than exclude, and that honor both the work of people's hands and the breath in their children's lungs.",
+        "precision": "yes"
+      }
+    ],
+    "no_missed": false,
+    "missed_opinions": "",
+    "done": ""
+  },
+  {
+    "index": 16,
+    "architecture": "independent",
+    "model": "deepseek",
+    "condition": "independent-role",
+    "task_id": "MOD-005",
+    "persona": "Priya Patel",
+    "n_opinions": 12,
+    "judgments": [
+      {
+        "opinion": "The statement suggests that current AI systems, particularly large language models (LLMs) and generative models, primarily function by compressing vast datasets into statistical patterns, then reconstructing outputs based on those patterns—rather than exhibiting 'true' understanding or reasoning.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Models like GPT-4 are trained on massive datasets, learning to predict the next token by identifying patterns. In a sense, they compress information into weights and parameters.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Many AI outputs are recombinations of training data, lacking genuine creativity or understanding of causality.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Research (e.g., 'The Pile' dataset studies) shows models can memorize and regurgitate training data, supporting the compression argument.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Models exhibit capabilities (e.g., translation, code generation, reasoning in-context) not explicitly in training data, suggesting more than compression.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "AI tools drive real-world value—from medical diagnostics to autonomous systems—that compression alone couldn't achieve.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "While rooted in statistics, modern AI demonstrates nuanced problem-solving, adapting to novel prompts beyond mere data reconstruction.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "High scores on diverse tasks indicate generalization beyond compression.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Results on benchmarks like MMLU (Massive Multitask Language Understanding) show AI outperforming humans in some domains, challenging the 'just compression' notion.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "The statement is a provocative simplification.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "While compression is a component, current AI systems leverage complex architectures (transformers, attention mechanisms) to generate novel, context-aware outputs.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "As a data analyst, I'd label it an oversimplification with a kernel of truth—useful for critiquing AI hype but inadequate to capture its functional breadth.",
+        "precision": "yes"
+      }
+    ],
+    "no_missed": false,
+    "missed_opinions": "",
+    "done": ""
+  },
+  {
+    "index": 22,
+    "architecture": "independent",
+    "model": "deepseek",
+    "condition": "independent-basic",
+    "task_id": "MOD-043",
+    "persona": "Tyrone Jackson",
+    "n_opinions": 8,
+    "judgments": [
+      {
+        "opinion": "That sounds like someone took a few little truths, stretched 'em out like cheap wire, and wrapped 'em in a whole lot of fear.",
+        "precision": "no"
+      },
+      {
+        "opinion": "Nobody was 'indoctrinating' me to hate the West.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "To say that makes the whole college an 'indoctrination center'? That's painting with a mighty broad brush.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Colleges are places for debate.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "That's not anti-Western; that's just... education.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "It's an oversimplification that disrespects the hard work of professors and students.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "It plays on people's worries about where the world is headed.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "We gotta be careful not to confuse complex funding issues with some kind of takeover.",
+        "precision": "yes"
+      }
+    ],
+    "no_missed": false,
+    "missed_opinions": "",
+    "done": ""
+  },
+  {
+    "index": 24,
+    "architecture": "independent",
+    "model": "gemini",
+    "condition": "independent-random-sys",
+    "task_id": "MOD-055",
+    "persona": null,
+    "n_opinions": 25,
+    "judgments": [
+      {
+        "opinion": "The conventional classroom approach is to teach logically: you start with the first principles, move to the axioms, and build a neat, linear ladder of complexity. It’s efficient, polished, and—more often than not—completely sterile.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "If you want someone to pass a standardized test, teach logically.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "If you want them to actually understand how knowledge is produced and why it matters, you must teach historically.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "The 'logical' approach is often a trap.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "The 'historical' approach is the skeptic’s choice.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Logical teaching presents subjects (especially math and science) as if they descended from heaven in their final, perfect form.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Logical teaching suggests that geniuses sat in rooms and deduced the universe through pure reason.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "When you teach the history of a concept, you give the student permission to be confused.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "You show them that the 'logical' conclusion was actually a hard-won victory over intuition, not an obvious starting point.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Logical instruction often fails to explain the motivation behind a concept.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "The historical approach provides the problem before the solution.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Without the problem, the solution feels like an arbitrary burden.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Teaching logically reinforces the idea that knowledge is an immutable set of facts to be downloaded.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Teaching logically creates a 'priestly class' of experts who hold the truth.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Teaching historically is inherently subversive.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Teaching historically shows that today’s 'settled science' was yesterday’s 'radical heresy' and might be tomorrow’s 'quaint mistake.'",
+        "precision": "yes"
+      },
+      {
+        "opinion": "By seeing how previous generations were dead wrong about things they were certain of, the student develops a healthy skepticism toward current dogmas.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Logical sequences are curated by survivors.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "If you only learn the logical path, you aren't learning how to think; you are learning how to follow.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "If you teach purely historically, you risk being slow and disorganized.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "If you teach purely logically, you risk being boring and dogmatic.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "The superior method is Genetic Logic.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Conventional wisdom says logic is the shortest path to learning.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "I would argue that logic is the shortest path to forgetting.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "If you want a concept to stick, you have to let the student live through the intellectual crisis that made the concept necessary in the first place.",
+        "precision": "yes"
+      }
+    ],
+    "no_missed": false,
+    "missed_opinions": "",
+    "done": ""
+  },
+  {
+    "index": 26,
+    "architecture": "interactive",
+    "model": "grok",
+    "condition": "interactive-none",
+    "task_id": "MOD-067",
+    "persona": "Participant 2",
+    "n_opinions": 18,
+    "judgments": [
+      {
+        "opinion": "Pelé is the greatest footballer ever.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Pelé defined the sport in its formative global years.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Pelé's impact transcends eras.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Pelé's mythical status comes from pioneering dominance in a rawer, less resourced game.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Pelé's World Cup mastery is the ultimate benchmark.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "No one else has multiple World Cups as a star player.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Pelé's World Cup efficiency was ~1 goal every 85 minutes played.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Pelé's goal-scoring efficiency rivals Messi's and Ronaldo's against brutal 1960s physicality.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Pelé was a complete forward who revolutionized football.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Pelé globalized the sport.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Pelé elevated Brazil from underdogs to dynasty.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Messi's Barcelona system boost and fewer leagues conquered make his case weaker.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Pelé's three World Cups are greater than Messi's one.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Ronaldo's lack of a World Cup hurts his case.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Ronaldo is more finisher than creator.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Maradona had only one World Cup, a shorter peak, and off-field chaos.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Pelé's era lacked Ballon d'Or eligibility and UCL, but he won global equivalents.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Pelé built the blueprint for greatness.",
+        "precision": "yes"
+      }
+    ],
+    "no_missed": false,
+    "missed_opinions": "",
+    "done": ""
+  },
+  {
+    "index": 31,
+    "architecture": "sequential",
+    "model": "llama",
+    "condition": "sequential-basic",
+    "task_id": "MOD-094",
+    "persona": "David Chen",
+    "n_opinions": 24,
+    "judgments": [
+      {
+        "opinion": "In a gift economy, resources and goods are shared without expecting direct reciprocity or monetary compensation.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "This approach focuses on building relationships, trust, and community.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Recognize that resources are not scarce, and that there's enough to go around.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "This mindset encourages sharing, collaboration, and mutual support.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Foster a culture where people contribute their skills, time, and resources without expecting direct payment or reciprocity.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Decision-making is distributed among community members, and resources are managed through a network of local, autonomous groups.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Encourage open communication, transparency, and trust among community members to facilitate cooperation and mutual support.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Implement a decentralized, open-source platform for managing resources, such as a blockchain-based system or a wiki-style database.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Resources are cataloged, and their availability is made visible to the community.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "People contribute their skills, time, and resources to the community without expecting direct compensation.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Contributions can take many forms, such as volunteering, skill-sharing, or providing goods and services.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Community members express their needs and desires through a transparent, publicly accessible platform.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "The community matches available resources with expressed needs, facilitating the exchange of goods and services.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Implement a reputation system that acknowledges and rewards contributions, fostering a sense of community and encouraging continued participation.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Feedback mechanisms allow community members to evaluate the quality of goods and services, helping to maintain high standards.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Start by establishing gift economies in local communities, where people can build relationships and trust.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Encourage community members to work together, share knowledge, and provide mutual support.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Create and maintain open-source platforms and tools to facilitate resource management, contribution, and sharing.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Promote a culture of sharing, cooperation, and mutual support through education, workshops, and community events.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "As the gift economy grows, it may become increasingly difficult to maintain transparency, trust, and effective resource management.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Some individuals may take advantage of the system without contributing, potentially undermining the community's trust and cooperation.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Ensuring that the gift economy is inclusive and diverse will be crucial to its success, requiring ongoing efforts to address power imbalances and promote social equity.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "A gift economy can foster innovation and creativity, as people are motivated by intrinsic factors, such as personal satisfaction and community recognition.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "A well-designed gift economy can promote cooperation, mutual support, and social well-being.",
+        "precision": "yes"
+      }
+    ],
+    "no_missed": false,
+    "missed_opinions": "",
+    "done": ""
+  },
+  {
+    "index": 34,
+    "architecture": "sequential",
+    "model": "kimi",
+    "condition": "sequential-pro",
+    "task_id": "MOD-043",
+    "persona": "Destiny Moore",
+    "n_opinions": 10,
+    "judgments": [
+      {
+        "opinion": "I wonder who benefits when people say stuff like that",
+        "precision": "yes"
+      },
+      {
+        "opinion": "If I believed colleges were all corrupt and foreign-controlled, I'd probably just give up on ever going",
+        "precision": "yes"
+      },
+      {
+        "opinion": "My cousin went to an HBCU and she said it was mostly just professors trying to get through to students who were working jobs like me, trying to better themselves",
+        "precision": "yes"
+      },
+      {
+        "opinion": "She didn't mention any indoctrination",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Is learning about slavery and Jim Crow 'anti-western'? Because that is American history, even when it's ugly",
+        "precision": "yes"
+      },
+      {
+        "opinion": "My grandma lived through segregation. That's not indoctrination, that's just... what happened",
+        "precision": "yes"
+      },
+      {
+        "opinion": "I think some people get mad when colleges teach things that don't match how they were raised. But that's different from some China conspiracy",
+        "precision": "yes"
+      },
+      {
+        "opinion": "If China was secretly running things, you'd think they'd make it cheaper or easier to actually attend",
+        "precision": "yes"
+      },
+      {
+        "opinion": "The barriers feel pretty American-made to me—broken financial aid systems, childcare I can't afford, jobs that don't pay enough to live and study",
+        "precision": "yes"
+      },
+      {
+        "opinion": "I don't trust easy answers to complicated problems",
+        "precision": "yes"
+      }
+    ],
+    "no_missed": false,
+    "missed_opinions": "",
+    "done": ""
+  },
+  {
+    "index": 44,
+    "architecture": "independent",
+    "model": "gemini",
+    "condition": "independent-pro",
+    "task_id": "MOD-038",
+    "persona": "Ashley Carter",
+    "n_opinions": 4,
+    "judgments": [
+      {
+        "opinion": "Reaching those 1991 borders—which would mean taking back everything, including Crimea and the Donbas—feels like a massive uphill climb.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "If the support from the U.S. or Europe wavers, those 1991 borders start looking more like a dream than a reality.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Reaching those borders would likely take years more of fighting and a loss of life that is just heartbreaking to imagine.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "I’d say it’s a very slim margin right now without a massive, unprecedented shift in military support.",
+        "precision": "yes"
+      }
+    ],
+    "no_missed": false,
+    "missed_opinions": "",
+    "done": ""
+  },
+  {
+    "index": 45,
+    "architecture": "independent",
+    "model": "qwen",
+    "condition": "independent-random-sys",
+    "task_id": "MOD-061",
+    "persona": null,
+    "n_opinions": 40,
+    "judgments": [
+      {
+        "opinion": "You can be proud of Korea for the right reasons, while maintaining a critical eye toward the myths often sold to you by nationalism, politics, or pop culture.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Pride is not a binary switch; it’s a nuanced relationship with your heritage.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "The most objective reason for pride is Korea’s historical trajectory.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Korea went from one of the poorest nations in the world, devastated by war and colonization, to a top-tier global economy and a technological powerhouse.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "This isn’t just propaganda; it’s a documented socioeconomic miracle.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Be proud of the collective will, education-driven social mobility, and adaptability of the Korean people.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Be skeptical of the idea that this success was purely 'unique' to Koreans.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "It was also driven by specific geopolitical circumstances (U.S. aid, Cold War dynamics) and harsh authoritarian industrialization policies that came at a high human cost.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Korean culture—K-pop, K-dramas, film, food, and beauty—has achieved unprecedented global soft power.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Parasite winning the Oscar, BTS breaking records, and kimchi being recognized globally are real achievements.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Be proud of the creativity, production quality, and emotional resonance of Korean artists who have broken into Western-dominated cultural spaces.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Be skeptical of the corporate machinery behind it.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Much of Hallyu is a highly industrialized, export-oriented product.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Are you proud of the art, or the branding?",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Be critical of how this global image sometimes masks deeper social issues within Korea (like intense competition, mental health struggles, or rigid hierarchies).",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Modern South Korea is a vibrant democracy.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "This wasn’t given; it was fought for.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "The April Revolution (1960), the Gwangju Uprising (1980), and the Candlelight Protests (2016–2017) show that ordinary Koreans have repeatedly stood up against authoritarianism and corruption.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Be proud of the civic consciousness and courage of citizens who demanded accountability and justice.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Be skeptical of complacency.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Democracy is fragile.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "National pride shouldn’t mean ignoring current political polarization, media bias, or challenges to judicial independence.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "True pride requires honesty.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Blind nationalism is dangerous.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "You should question and reject pride in ethnic nationalism.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "The idea that Koreans are a 'pure-blooded' race is a socially constructed myth that can lead to xenophobia and discrimination against immigrants, mixed-race Koreans, and minorities.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "You should question and reject pride in historical revisionism.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Ignoring or downplaying Korea’s own historical complexities, such as internal class oppression, gender inequality, or collaboration during colonial periods, is wrong.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "You should question and reject pride in toxic social pressures.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "The extreme academic pressure, workplace hierarchy (gapjil), and societal expectations that contribute to high suicide rates and low birth rates are harmful.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Being proud of your culture doesn’t mean endorsing its most harmful aspects.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Being proudly Korean doesn’t mean believing Korea is perfect or superior.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "It means acknowledging complexity: loving your culture while critically engaging with its flaws.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "It means contributing positively: using your voice to improve society, whether through art, activism, business, or daily kindness.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "It means rejecting defensiveness: you don’t need to defend every aspect of Korea to outsiders.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Confidence allows for criticism.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "You can be proud of Korea’s resilience, creativity, democratic spirit, and rich heritage.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Let that pride be active, not passive.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Let it inspire you to uphold the best parts of Korean identity while challenging the parts that hold people back.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "True pride isn’t just about feeling good; it’s about doing good.",
+        "precision": "yes"
+      }
+    ],
+    "no_missed": false,
+    "missed_opinions": "",
+    "done": ""
+  },
+  {
+    "index": 47,
+    "architecture": "independent",
+    "model": "llama",
+    "condition": "independent-role",
+    "task_id": "MOD-054",
+    "persona": "Priya Patel",
+    "n_opinions": 9,
+    "judgments": [
+      {
+        "opinion": "Naming one's eldest son after oneself can have both positive and negative effects.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Individuals with the same name as their parent tend to have a stronger sense of identity and family ties.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "73% of Americans believe that carrying on family names is an important aspect of family tradition.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Naming one's eldest son after oneself can be seen as a form of identity formation and a way to reinforce family bonds.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "By sharing a name, fathers and sons may experience a deeper sense of connection and shared identity.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Naming one's eldest son after oneself may create unrealistic expectations or pressure on the child to live up to their namesake.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Individuals who were named after their parents reported higher levels of stress and anxiety related to living up to their namesake's expectations.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "I would not recommend naming one's eldest son after oneself solely for the sake of tradition or personal ego.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Parents should carefully weigh the potential benefits and drawbacks and make an informed decision that prioritizes the well-being and identity of their child.",
+        "precision": "yes"
+      }
+    ],
+    "no_missed": false,
+    "missed_opinions": "",
+    "done": ""
+  },
+  {
+    "index": 53,
+    "architecture": "interactive",
+    "model": "deepseek",
+    "condition": "interactive-none",
+    "task_id": "MOD-078",
+    "persona": "Participant 4",
+    "n_opinions": 6,
+    "judgments": [
+      {
+        "opinion": "Trust is built in the everyday — not through occasional grand gestures, but through small, consistent acts of reliability, honesty, and presence.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "It’s relational and dynamic — influenced by both your actions and others’ histories, perceptions, and emotional worlds.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Self-reflection and feedback are essential — yet they must be balanced with self-compassion and an understanding that not every breach of trust is within your control.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "In our eagerness to be trusted, we can sometimes over-perform or become anxious, which may inadvertently create distance.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "True trust often grows when we allow relationships to unfold naturally, grounded in steady, values-driven behavior rather than in the need for validation.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "You cannot control others’ perceptions entirely, but you can nurture the qualities within yourself that make trust possible.",
+        "precision": "yes"
+      }
+    ],
+    "no_missed": false,
+    "missed_opinions": "",
+    "done": ""
+  },
+  {
+    "index": 56,
+    "architecture": "interactive",
+    "model": "kimi",
+    "condition": "interactive-none",
+    "task_id": "MOD-055",
+    "persona": "Participant 4",
+    "n_opinions": 16,
+    "judgments": [
+      {
+        "opinion": "Both 'logical' and 'historical' teaching, as traditionally conceived, tend toward monism—one right structure, or one actual path taken.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Teaching viable alternatives requires a third stance: pluralism as pedagogy.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "The deepest teaching might ask: what makes a geometry 'true'?",
+        "precision": "yes"
+      },
+      {
+        "opinion": "The 'logical or historical?' question presupposes a finished subject.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "For genuinely frontier areas, we need what we might call participatory epistemology: teaching students to construct both logic and history as they go.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Early encounter often benefits from historical or problem-driven motivation—why does this matter?",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Consolidation often benefits from logical structure—how does this cohere?",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Mastery often benefits from archaeological or pluralist perspective—what else might this have been?",
+        "precision": "yes"
+      },
+      {
+        "opinion": "This sequencing isn't about cognitive necessity so much as attentional economy.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Early learners lack the framework to appreciate logical elegance; advanced learners may find historical narrative inefficient unless it serves the archaeological function.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "For students who need logical tools but won't continue in philosophy or mathematics, I think there's a case for near-exclusive logical presentation.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "The historical development of logic involves enormous detours through now-obsolete systems.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "The point for these students is transferable competence in evaluation and construction of arguments.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Historical material risks becoming 'edutainment' without epistemic payoff.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "This isn't principled rejection of history, but pragmatic prioritization given constraints.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "The deeper question is whether we can identify other cases where similar pragmatism becomes genuinely principled—where the goals of teaching are constitutively better served by one approach.",
+        "precision": "yes"
+      }
+    ],
+    "no_missed": false,
+    "missed_opinions": "",
+    "done": ""
+  },
+  {
+    "index": 72,
+    "architecture": "sequential",
+    "model": "gemini",
+    "condition": "sequential-pro",
+    "task_id": "MOD-012",
+    "persona": "Patricia O'Brien",
+    "n_opinions": 17,
+    "judgments": [
+      {
+        "opinion": "With the Trans Mountain project, we’re seeing a real crisis of democracy.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "When you have a government that buys a pipeline with public money—billions of taxpayer dollars—to push it through against the explicit will of the people whose land it crosses, that isn't just an environmental issue.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "It’s a breach of trust.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "It makes me wonder what 'reconciliation' actually means if it doesn't include the right to say 'no' to a project that threatens your water and your children's future.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "I also can't help but think about the generational unfairness of it all.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "They see that you can't separate social justice from climate justice.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "They understand that if we continue to build infrastructure that locks us into forty more years of carbon emissions, we are essentially stealing their future to pay for our present comforts.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "These projects are like stripping the topsoil—they provide a quick flush of cash for a few, but they leave the 'ground' depleted for everyone else.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "When I look at these massive corporate undertakings, I don't see that same respect.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "I see a lack of humility.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "I worry that we’ve become so disconnected from the physical world—the dirt, the water, the actual air we breathe—that we treat these things as abstractions on a spreadsheet.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "But for the people living along that route, it’s not an abstraction.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "It’s their home.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "I find the idea of violating someone’s home like that just... heartbreaking.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "We have to do better.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "We have to be brave enough to admit when we’re on the wrong path and have the courage to turn around.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Nothing is inevitable if enough people decide it's wrong.",
+        "precision": "yes"
+      }
+    ],
+    "no_missed": false,
+    "missed_opinions": "",
+    "done": ""
+  },
+  {
+    "index": 80,
+    "architecture": "sequential",
+    "model": "qwen",
+    "condition": "sequential-pro",
+    "task_id": "MOD-019",
+    "persona": "Daniel Kim",
+    "n_opinions": 12,
+    "judgments": [
+      {
+        "opinion": "The conflation of biological sex, gender identity, and gender expression is the problem.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "A lot of the pushback against 'gender as a spectrum' comes from people who feel like their biological reality is being erased.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Biologically, I don’t think sex is a spectrum. I think it’s a bimodal distribution with outliers.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Socially, gender expression is absolutely a spectrum.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "In an effort to be inclusive, some people dismiss biological sex entirely, and that’s dangerous.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Medicine relies on sex differences; if we ignore biological sex, we hurt people.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "People use biology to justify rigid social roles, but that’s cultural conditioning.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "The 'spectrum' model is useful for some, not all.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Some trans people actually prefer a binary model—they see themselves as men or women, full stop.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Saying 'gender is a spectrum' might not even be universally accepted by the communities it’s meant to help.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "I think 'sex' should refer to biology (mostly binary) and 'gender' should refer to identity/expression (spectrum-like).",
+        "precision": "yes"
+      },
+      {
+        "opinion": "What bothers me most is when this becomes a litmus test for being a 'good' person.",
+        "precision": "yes"
+      }
+    ],
+    "no_missed": false,
+    "missed_opinions": "",
+    "done": ""
+  },
+  {
+    "index": 94,
+    "architecture": "sequential",
+    "model": "deepseek",
+    "condition": "sequential-basic",
+    "task_id": "MOD-095",
+    "persona": "Fatima Al-Rashid",
+    "n_opinions": 2,
+    "judgments": [
+      {
+        "opinion": "We need culturally responsive teaching that includes diverse histories, not just during Black History Month.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Schools should be sanctuaries, not stress factories.",
+        "precision": "yes"
+      }
+    ],
+    "no_missed": false,
+    "missed_opinions": "",
+    "done": ""
+  },
+  {
+    "index": 95,
+    "architecture": "sequential",
+    "model": "llama",
+    "condition": "sequential-pro",
+    "task_id": "MOD-018",
+    "persona": "Daniel Kim",
+    "n_opinions": 4,
+    "judgments": [
+      {
+        "opinion": "A more holistic approach to child support might be beneficial, considering broader needs of families such as emotional support, co-parenting arrangements, and access to resources.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Mediation and alternative dispute resolution can help reduce conflict and promote more collaborative decision-making in child support cases.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "It is essential to acknowledge the emotional and psychological aspects of child support, as the process can be emotionally draining for all parties involved.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "The child support system should prioritize flexibility, cooperation, and the unique needs of each family.",
+        "precision": "yes"
+      }
+    ],
+    "no_missed": false,
+    "missed_opinions": "",
+    "done": ""
+  },
+  {
+    "index": 98,
+    "architecture": "interactive",
+    "model": "deepseek",
+    "condition": "interactive-none",
+    "task_id": "MOD-006",
+    "persona": "Participant 3",
+    "n_opinions": 20,
+    "judgments": [
+      {
+        "opinion": "Often, discomfort with assertive women isn’t just about thoughts or beliefs—it’s a visceral, emotional reaction rooted in years of conditioning.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Men might benefit from practices like mindfulness or somatic awareness to notice when that discomfort arises physically (e.g., tension, defensiveness) and pause before reacting.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "By creating space between the trigger and the response, they can choose a more intentional reaction—one aligned with values like respect and collaboration, rather than old scripts.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "This emotional relearning turns moments of discomfort into opportunities for practicing new, healthier patterns.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "When men see other men—especially those they admire—comfortably engaging with, supporting, and learning from assertive women, it normalizes the behavior.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "In workplaces, families, or social circles, men can consciously model respect, active listening, and partnership.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Modeling not only reinforces personal growth but also creates a ripple effect, encouraging others to examine and adjust their own behaviors.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Some men may avoid engaging with assertive women because they’re anxious about making mistakes or being perceived as insensitive.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "It helps to remember that humility and a willingness to learn are more valuable than perfection.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "If a misstep happens—like unintentionally interrupting or misreading tone—a sincere apology and a commitment to do better can strengthen trust.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "The goal isn’t flawlessness; it’s demonstrating consistent effort and respect.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "This mindset reduces paralysis and encourages ongoing engagement.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "When men overcome this discomfort, they contribute to environments where diverse leadership styles thrive, where communication is clearer, and where collaboration is more innovative.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "In families, it models equality for the next generation.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "In workplaces, it drives better decision-making and inclusivity.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Framing this growth as part of a larger positive impact can add motivation and meaning, transforming personal effort into a contribution toward a fairer, more dynamic world.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Unlearning deep-seated conditioning is a lifelong journey, not a destination.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "What matters is the commitment to keep reflecting, learning, and trying.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Celebrating progress—however small—and forgiving setbacks fosters resilience.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Ultimately, this journey isn’t about reaching a finish line; it’s about cultivating a mindset of openness, respect, and curiosity that enriches every interaction and relationship along the way.",
+        "precision": "yes"
+      }
+    ],
+    "no_missed": false,
+    "missed_opinions": "",
+    "done": ""
+  },
+  {
+    "index": 102,
+    "architecture": "sequential",
+    "model": "grok",
+    "condition": "sequential-mid",
+    "task_id": "MOD-095",
+    "persona": "Kevin Dawson",
+    "n_opinions": 21,
+    "judgments": [
+      {
+        "opinion": "Schools ain't producin' folks who can fill those jobs.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "No more ed-school fluff—require subject mastery tests to teach math or science.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Teach for America pulls top college grads, and their kids outperform peers by 20-30% in lotteries.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Pay 'em like pros: $80k start in high-need areas, with bonuses for results.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Turnover's 8% yearly; fix that, schools stabilize.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Don't warehouse toddlers—half-day programs teach basics, rest is home.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Head Start costs $10k/kid but fades by 3rd grade.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Better: parenting classes for moms on welfare, like Oklahoma's universal pre-K that boosted reading without huge bucks.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Hungry kids learn less.",
+        "precision": "partial"
+      },
+      {
+        "opinion": "Rural spots like mine get screwed—low values mean crap fundin'.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Statewide poolin' like Texas, with performance incentives.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Cut fed Dept. of Ed bloat ($80B/year) and redirect to states.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Auto parts factories like my old one could fund shop programs—tax breaks for trainin' pipelines.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Germany's dual system does this; youth unemployment's half ours.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Ditch one-size-fits-all tests.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Track real outcomes—job placement 2 years post-grad, not just graduation rates (puffed up by fake diplomas).",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Ohio's career-tech grads earn 20% more early career.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Life skills mandatory: budgetin', taxes, first aid, job interviews.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "My high school skipped this; wish it hadn't.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "We're wastin' potential—kids from broke homes like half of Ohio's could climb with real prep.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Implement this, factories'd reopen with skilled hands.",
+        "precision": "yes"
+      }
+    ],
+    "no_missed": false,
+    "missed_opinions": "",
+    "done": ""
+  },
+  {
+    "index": 104,
+    "architecture": "independent",
+    "model": "llama",
+    "condition": "independent-enhanced",
+    "task_id": "MOD-091",
+    "persona": null,
+    "n_opinions": 11,
+    "judgments": [
+      {
+        "opinion": "AI algorithms can combine existing elements in novel ways, creating new and unexpected outcomes.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "This combinatorial creativity can result in truly new and innovative creations.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "AI can explore vast design spaces, generating a vast number of possibilities that may not have been considered by humans.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "AI algorithms are not limited by human biases or preconceptions, allowing them to generate novel and innovative solutions.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "AI algorithms are limited by the data they are trained on.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "They can only generate content that is based on the patterns and structures learned from the training data.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "AI algorithms lack human intuition and experience, which are essential components of creative decision-making.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "AI-generated content is often derivative, building upon existing styles, themes, or structures.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "While AI can generate novel content that is unexpected or surprising, it's unclear whether this content is truly new in the sense that it represents a fundamental departure from existing ideas or concepts.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "It's more productive to consider the potential for hybrid creativity, where humans and AI collaborate to generate innovative and creative content.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "By combining human intuition and experience with AI's ability to process and analyze vast amounts of data, we can unlock new possibilities for creative expression.",
+        "precision": "yes"
+      }
+    ],
+    "no_missed": false,
+    "missed_opinions": "",
+    "done": ""
+  },
+  {
+    "index": 109,
+    "architecture": "interactive",
+    "model": "gemini",
+    "condition": "interactive-none",
+    "task_id": "MOD-025",
+    "persona": "Participant 4",
+    "n_opinions": 17,
+    "judgments": [
+      {
+        "opinion": "The question of how to address the challenges posed by North Korea and Kim Jong Un is one of the most complex issues in international relations.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "There is no simple solution, as each potential strategy carries significant risks and ethical dilemmas.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Many experts argue that the only way to achieve long-term stability is through sustained diplomatic efforts.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "North Korea views its nuclear weapons as its only guarantee against 'regime change'.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "The international community is hesitant to reward provocative behavior with concessions.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Sanctions often hurt the general population more than the ruling elite.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Some argue that the regime can only be 'taken down' from within, by the North Korean people or disgruntled elites.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "North Korea is a highly controlled surveillance state.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Dissent is met with extreme punishment for the individual and their entire family, making organized internal resistance incredibly difficult.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Many believe the 'key' to North Korea lies in Beijing.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "If China were to fully cut off energy and food supplies, the regime would struggle to survive.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "China fears a 'regime collapse' would lead to a massive refugee crisis on its border and potentially result in a unified Korea that is allied with the United States, bringing U.S. troops right to the Chinese border.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "China often prioritizes 'stability' over 'denuclearization'.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Military action is considered a last resort by most world leaders.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Any full-scale military conflict would likely result in hundreds of thousands, if not millions, of casualties in South Korea and Japan, even if the North Korean government were eventually defeated.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Most experts agree that a 'take down' of the regime through force is too dangerous to contemplate.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "The international community largely focuses on a combination of pressure (sanctions) and deterrence (military readiness), while leaving the door open for diplomacy should the North Korean leadership decide to change its trajectory.",
+        "precision": "yes"
+      }
+    ],
+    "no_missed": false,
+    "missed_opinions": "",
+    "done": ""
+  },
+  {
+    "index": 118,
+    "architecture": "interactive",
+    "model": "kimi",
+    "condition": "interactive-pro",
+    "task_id": "MOD-052",
+    "persona": "James Mitchell",
+    "n_opinions": 3,
+    "judgments": [
+      {
+        "opinion": "Genocide is usually seen as worse because it ends the story.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Slavery at least leaves the possibility of survivors, memory, and a future.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Comparing atrocities feels almost disrespectful to the dead on both sides.",
+        "precision": "yes"
+      }
+    ],
+    "no_missed": false,
+    "missed_opinions": "",
+    "done": ""
+  },
+  {
+    "index": 119,
+    "architecture": "interactive",
+    "model": "llama",
+    "condition": "interactive-basic",
+    "task_id": "MOD-023",
+    "persona": "Sarah Johnson",
+    "n_opinions": 24,
+    "judgments": [
+      {
+        "opinion": "A non-binary community would be a vibrant and dynamic place.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "In a non-binary community, encouraging people to explore and express their identities in unique ways would be crucial.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "A non-binary community might have a thriving arts scene, with artists and musicians exploring new ways to express non-binary identities.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "This could lead to a rich and diverse cultural landscape, with a wide range of creative works that reflect the complexity and nuance of non-binary experience.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "In a non-binary community, flexibility would be essential in allowing people to explore different interests and pursuits without being constrained by traditional binary expectations.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "A non-binary community might develop new digital tools and platforms that allow people to connect and express themselves in new and innovative ways.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "In a non-binary community, compassion and empathy would be even more pronounced, leading to a more harmonious and supportive community.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "A non-binary community might develop training programs for healthcare providers, educators, and other professionals that focus on creating inclusive and supportive environments for non-binary individuals.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "In a non-binary community, inclusivity would be essential in creating a supportive and welcoming environment for everyone.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "A non-binary community might adopt a set of inclusive pronouns and terms that are used consistently across different contexts and communities.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "This could help to create a sense of shared identity and community, while also respecting the diversity and individuality of non-binary individuals.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "In a non-binary community, inclusivity would be essential in creating a supportive and welcoming environment for everyone.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "A non-binary community might develop a set of educational resources and materials that are designed to be inclusive and supportive of non-binary individuals.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "In a non-binary community, inclusivity would be even more crucial, as people would be encouraged to explore and express their identities in unique ways.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "A non-binary community might develop educational programs that focus on non-binary issues and identities, or that incorporate non-binary perspectives and experiences into existing curricula.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "In a non-binary community, flexibility would be essential in allowing people to explore different interests and pursuits without being constrained by traditional binary expectations.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "A non-binary community might develop online educational platforms or competency-based education programs that allow people to learn at their own pace and in their own way.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "In a non-binary community, compassion and empathy would be even more pronounced, leading to a more harmonious and supportive community.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "A non-binary community might develop community health centers or wellness programs that are tailored to the specific needs and experiences of non-binary individuals.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "In a non-binary community, inclusivity would be essential in creating a supportive and welcoming environment for everyone.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "A non-binary community might develop data systems and analytics tools that are designed to track and understand the specific needs and experiences of non-binary individuals.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "This could help to identify areas where additional support or resources are needed, and to develop targeted interventions and programs to address these needs.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "In a non-binary community, inclusivity would be essential in creating a supportive and welcoming environment for everyone.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "A non-binary community might develop community events, workshops, or educational programs that are designed to promote awareness and understanding of non-binary experiences.",
+        "precision": "yes"
+      }
+    ],
+    "no_missed": false,
+    "missed_opinions": "",
+    "done": ""
+  },
+  {
+    "index": 124,
+    "architecture": "sequential",
+    "model": "kimi",
+    "condition": "sequential-basic",
+    "task_id": "MOD-085",
+    "persona": "Carlos Mendoza",
+    "n_opinions": 7,
+    "judgments": [
+      {
+        "opinion": "Action usually comes first.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "The body knows.",
+        "precision": "no"
+      },
+      {
+        "opinion": "Consciousness before action—and usually a bent nail or a crooked stud to show for it.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "God acted first—'spoke the world into being.'",
+        "precision": "yes"
+      },
+      {
+        "opinion": "They're tangled up like rebar.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "You take action, you change your consciousness.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "You become aware of something, you act different.",
+        "precision": "yes"
+      }
+    ],
+    "no_missed": false,
+    "missed_opinions": "",
+    "done": ""
+  },
+  {
+    "index": 125,
+    "architecture": "independent",
+    "model": "gemini",
+    "condition": "independent-pro",
+    "task_id": "MOD-008",
+    "persona": "Thomas Eriksen",
+    "n_opinions": 16,
+    "judgments": [
+      {
+        "opinion": "Poorly written sexism is just lazy leadership in storytelling.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "When a writer relies on tired tropes or makes a female character 'weak' just to make the man look like a hero, it rings false.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "It breaks the immersion.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "If a writer treats a woman like a damsel or a prize to be won, she stops being a person.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "She becomes an objective.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "On the flip side, it makes the men look one-dimensional, too.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "If a male character is written as a 'macho' type who can't respect his peers, I don't see a leader or a hero—I see a liability.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "When a story ignores that reality, the characters feel like they’re from a bad 1950s sitcom rather than real life.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "If you have a character who is supposedly 'the best at what they do' but they’re treated poorly or dismissed simply because of their gender, the story loses its grip on reality.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "It makes the world the author built feel small and poorly managed.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "If we’re watching a movie or reading a book where the women are just there to look pretty or get rescued, she’s done with it in five minutes.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "And frankly, so am I.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "I want to see stories that reflect the world I know—where my daughters are out there building careers and my female colleagues in the service were some of the toughest NCOs I ever worked under.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Nothing makes a book or a film feel 'old' faster than casual sexism that hasn't aged well.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Holding onto outdated, poorly written stereotypes doesn't show 'traditional values'; it just shows a lack of imagination.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "A good story should challenge you, not lean on cheap shots that don't reflect the dignity of the people involved.",
+        "precision": "yes"
+      }
+    ],
+    "no_missed": false,
+    "missed_opinions": "",
+    "done": ""
+  },
+  {
+    "index": 130,
+    "architecture": "sequential",
+    "model": "gpt54mini",
+    "condition": "sequential-pro",
+    "task_id": "MOD-095",
+    "persona": "Sarah Johnson",
+    "n_opinions": 16,
+    "judgments": [
+      {
+        "opinion": "Pay teachers better and support them more.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "If we want strong schools, we’ve got to keep experienced teachers and not burn people out.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Smaller class sizes, especially in early grades.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "It’s hard to give kids the attention they need when one teacher has too many students.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "More reading support early on.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "A lot of kids fall behind in literacy and never fully catch up, so intervention in K–3 matters a lot.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Better funding for public schools.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Schools in lower-income neighborhoods often need more counselors, books, technology, and updated facilities.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "More family engagement.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Schools do better when parents and caregivers feel welcomed and informed, not judged.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Mental health and behavior support.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Kids can’t learn well when they’re dealing with trauma, stress, or instability at home.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Less testing, more real learning.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Standardized tests have a place, but they shouldn’t take over the whole school year.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Invest early in literacy and teacher support.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "That’s where you can make the biggest long-term impact.",
+        "precision": "yes"
+      }
+    ],
+    "no_missed": false,
+    "missed_opinions": "",
+    "done": ""
+  },
+  {
+    "index": 135,
+    "architecture": "sequential",
+    "model": "grok",
+    "condition": "sequential-basic",
+    "task_id": "MOD-031",
+    "persona": "Fatima Al-Rashid",
+    "n_opinions": 3,
+    "judgments": [
+      {
+        "opinion": "Fame's a double-edged sword—glamorous on the surface, but I'd worry about the loss of privacy.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "As a pharmacist, I'd push back against that by staying grounded: no reality TV drama, just real impact.",
+        "precision": null
+      },
+      {
+        "opinion": "Local fame suits me better: kids in my neighborhood calling me 'Auntie Fatima the Medicine Queen.'",
+        "precision": "yes"
+      }
+    ],
+    "no_missed": false,
+    "missed_opinions": "",
+    "done": false
+  },
+  {
+    "index": 144,
+    "architecture": "interactive",
+    "model": "grok",
+    "condition": "interactive-basic",
+    "task_id": "MOD-059",
+    "persona": "David Chen",
+    "n_opinions": 13,
+    "judgments": [
+      {
+        "opinion": "Context is everything here—blanket judgments like 'bad person' ignore the messy realities of family dynamics, trauma, and personal boundaries.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Refusing to attend a parent's funeral doesn't automatically make someone a monster.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "If the mother was abusive—physically, emotionally, or neglectful—showing up could be retraumatizing.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Funerals aren't just about mourning; they're public performances of grief.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "No-contact is often a healthy boundary.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "If there was zero bond—no love, support, or even basic care—why pretend at the end? It's performative BS.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Faking it at a funeral wouldn't heal anything.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "If it's petty spite over something minor (like a sibling feud or borrowed money), that leans selfish.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "If the refuser ghosts the family entirely without explanation, it could signal deeper issues like narcissism.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Even then, 'bad person'? Nah, people are flawed.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Society loves black-and-white morality tales—'honor thy mother' and all that—but real life is grayscale.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Cutting toxic ties improves mental health.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "The refuser might be the healthiest one in the room for prioritizing self-preservation.",
+        "precision": "yes"
+      }
+    ],
+    "no_missed": false,
+    "missed_opinions": "",
+    "done": ""
+  }
+]

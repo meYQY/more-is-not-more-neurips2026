@@ -1,0 +1,222 @@
+{
+  "timestamp": "2026-05-03T10:33:50.082953+00:00",
+  "config": {
+    "n_tasks": 20,
+    "tasks": [
+      "MOD-004",
+      "MOD-005",
+      "MOD-012",
+      "MOD-014",
+      "MOD-015",
+      "MOD-018",
+      "MOD-028",
+      "MOD-029",
+      "MOD-030",
+      "MOD-032",
+      "MOD-036",
+      "MOD-055",
+      "MOD-065",
+      "MOD-070",
+      "MOD-072",
+      "MOD-076",
+      "MOD-078",
+      "MOD-082",
+      "MOD-087",
+      "MOD-095"
+    ],
+    "seed": 42,
+    "extraction_model": "kimi-k2.5",
+    "baseline_model": "deepseek-chat",
+    "embedder": "bge-small"
+  },
+  "condition_mpd": {
+    "deepseek": {
+      "independent-basic": 0.42850963253750807,
+      "independent-dimension": 0.3554770672982592,
+      "independent-enhanced": 0.35500842568672736,
+      "independent-mid": 0.41960560396763763,
+      "independent-none": 0.3460437401765885,
+      "independent-pro": 0.44028429577070893,
+      "independent-pro-5": 0.4319346624309139,
+      "independent-random-sys": 0.38596377385276337,
+      "independent-role": 0.41281447792698794,
+      "independent-temp-high": 0.3474388410867289,
+      "interactive-basic": 0.43666148821877143,
+      "interactive-mid": 0.42692784543046824,
+      "interactive-none": 0.3684819221549123,
+      "interactive-pro": 0.4584419924075627,
+      "interactive-role": 0.4294743117731964,
+      "sequential-basic": 0.4482645358622629,
+      "sequential-mid": 0.44102797025080653,
+      "sequential-none": 0.3933819556957272,
+      "sequential-pro": 0.460233301153764,
+      "sequential-role": 0.44266868584453734
+    },
+    "kimi": {
+      "independent-basic": 0.4030217857345497,
+      "independent-dimension": 0.33507653198391857,
+      "independent-enhanced": 0.33256839014663264,
+      "independent-mid": 0.39820781847220216,
+      "independent-none": 0.33060464848876037,
+      "independent-pro": 0.4193286871926346,
+      "independent-pro-5": 0.4093412464524893,
+      "independent-random-sys": 0.3594487155987083,
+      "independent-role": 0.3809406325247583,
+      "independent-temp-high": 0.3275382198435291,
+      "interactive-basic": 0.41321174856355186,
+      "interactive-mid": 0.40763972871568577,
+      "interactive-none": 0.34051190845840906,
+      "interactive-pro": 0.4398201108670935,
+      "interactive-role": 0.4004285581826914,
+      "sequential-basic": 0.42795611826627383,
+      "sequential-mid": 0.4195585105911997,
+      "sequential-none": 0.3681112253591656,
+      "sequential-pro": 0.4375800180927566,
+      "sequential-role": 0.41522834857939717
+    },
+    "conditions_used": [
+      "independent-basic",
+      "independent-dimension",
+      "independent-enhanced",
+      "independent-mid",
+      "independent-none",
+      "independent-pro",
+      "independent-pro-5",
+      "independent-random-sys",
+      "independent-role",
+      "independent-temp-high",
+      "interactive-basic",
+      "interactive-mid",
+      "interactive-none",
+      "interactive-pro",
+      "interactive-role",
+      "sequential-basic",
+      "sequential-mid",
+      "sequential-none",
+      "sequential-pro",
+      "sequential-role"
+    ]
+  },
+  "spearman": {
+    "rho": 0.9864661654135337,
+    "p_value": 1.377568120919191e-15,
+    "n_conditions": 20
+  },
+  "pearson": {
+    "r": 0.9945318976208154,
+    "p_value": 4.06926320253212e-19
+  },
+  "record_jaccard": {
+    "mean": 0.5716221561547372,
+    "median": 0.5871212121212122,
+    "min": 0.0,
+    "max": 1.0,
+    "std": 0.2453354926119174,
+    "n": 142,
+    "by_architecture": {
+      "independent": {
+        "mean": 0.6082639163710472,
+        "n": 48
+      },
+      "interactive": {
+        "mean": 0.4992135416330406,
+        "n": 46
+      },
+      "sequential": {
+        "mean": 0.6043719848550531,
+        "n": 48
+      }
+    },
+    "granularity": {
+      "deepseek_mean": 12.34,
+      "kimi_mean": 13.326666666666666
+    }
+  },
+  "granularity": {
+    "per_condition": {
+      "independent-basic": {
+        "deepseek": 149.95,
+        "kimi": 148.65
+      },
+      "independent-dimension": {
+        "deepseek": 276.5,
+        "kimi": 272.8
+      },
+      "independent-enhanced": {
+        "deepseek": 301.95,
+        "kimi": 298.85
+      },
+      "independent-mid": {
+        "deepseek": 142.5,
+        "kimi": 143.9
+      },
+      "independent-none": {
+        "deepseek": 261.9,
+        "kimi": 267.95
+      },
+      "independent-pro": {
+        "deepseek": 173.05,
+        "kimi": 171.55
+      },
+      "independent-pro-5": {
+        "deepseek": 45.95,
+        "kimi": 46.05
+      },
+      "independent-random-sys": {
+        "deepseek": 286.25,
+        "kimi": 280.25
+      },
+      "independent-role": {
+        "deepseek": 136.8,
+        "kimi": 133.8
+      },
+      "independent-temp-high": {
+        "deepseek": 265.05,
+        "kimi": 267.45
+      },
+      "interactive-basic": {
+        "deepseek": 121.3,
+        "kimi": 124.35
+      },
+      "interactive-mid": {
+        "deepseek": 118.45,
+        "kimi": 130.5
+      },
+      "interactive-none": {
+        "deepseek": 202.15,
+        "kimi": 213.45
+      },
+      "interactive-pro": {
+        "deepseek": 152.25,
+        "kimi": 161.55
+      },
+      "interactive-role": {
+        "deepseek": 135.6,
+        "kimi": 139.25
+      },
+      "sequential-basic": {
+        "deepseek": 472.4,
+        "kimi": 487.2
+      },
+      "sequential-mid": {
+        "deepseek": 467.1,
+        "kimi": 480.0
+      },
+      "sequential-none": {
+        "deepseek": 283.45,
+        "kimi": 267.05
+      },
+      "sequential-pro": {
+        "deepseek": 579.65,
+        "kimi": 578.1
+      },
+      "sequential-role": {
+        "deepseek": 847.75,
+        "kimi": 829.8
+      }
+    },
+    "overall_deepseek_mean": 271.0,
+    "overall_kimi_mean": 272.12500000000006,
+    "ratio": 1.0041512915129154
+  }
+}

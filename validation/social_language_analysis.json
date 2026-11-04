@@ -1,0 +1,182 @@
+{
+  "description": "Social/procedural language frequency analysis by architecture and condition",
+  "method": "Regex pattern matching for acknowledgment, agreement, and conversational phrases in raw LLM responses",
+  "sample": {
+    "n_tasks": 10,
+    "tasks": [
+      "MOD-004",
+      "MOD-014",
+      "MOD-015",
+      "MOD-018",
+      "MOD-029",
+      "MOD-032",
+      "MOD-036",
+      "MOD-082",
+      "MOD-087",
+      "MOD-095"
+    ],
+    "seed": 42
+  },
+  "patterns_used": [
+    "\\bi agree\\b",
+    "\\bthat'?s a (?:great|good|fair|excellent|interesting|important|valid) point\\b",
+    "\\byou'?re (?:right|absolutely right|correct)\\b",
+    "\\bbuilding on (?:what|your|that)\\b",
+    "\\bas \\w+ (?:mentioned|said|noted|pointed out|suggested|observed)\\b",
+    "\\bgreat (?:point|observation|insight|question)\\b",
+    "\\bi(?:'d| would) like to (?:add|build|respond|echo)\\b",
+    "\\bthank(?:s| you)\\b",
+    "\\bi appreciate (?:your|that|the)\\b",
+    "\\bthat resonates\\b",
+    "\\byou (?:raise|make|bring up|touch on|highlight)\\b",
+    "\\bto (?:echo|piggyback|add to) (?:what|your)\\b",
+    "\\bwell said\\b",
+    "\\bi couldn'?t agree more\\b",
+    "\\babsolutely[,.]"
+  ],
+  "per_architecture": {
+    "independent": {
+      "n_responses": 1850,
+      "social_phrases_per_resp": 0.015,
+      "pct_with_social": 1.5,
+      "action_char_pct": 17.1,
+      "mean_resp_len": 2263.0
+    },
+    "interactive": {
+      "n_responses": 750,
+      "social_phrases_per_resp": 0.633,
+      "pct_with_social": 40.5,
+      "action_char_pct": 5.1,
+      "mean_resp_len": 2329.0
+    },
+    "sequential": {
+      "n_responses": 2730,
+      "social_phrases_per_resp": 0.066,
+      "pct_with_social": 6.3,
+      "action_char_pct": 7.0,
+      "mean_resp_len": 1844.0
+    }
+  },
+  "per_condition": {
+    "independent-basic": {
+      "n_responses": 200,
+      "social_phrases_per_resp": 0.025,
+      "pct_with_social": 2.5,
+      "action_char_pct": 4.4
+    },
+    "independent-dimension": {
+      "n_responses": 200,
+      "social_phrases_per_resp": 0.005,
+      "pct_with_social": 0.5,
+      "action_char_pct": 27.4
+    },
+    "independent-enhanced": {
+      "n_responses": 200,
+      "social_phrases_per_resp": 0.01,
+      "pct_with_social": 1.0,
+      "action_char_pct": 22.2
+    },
+    "independent-mid": {
+      "n_responses": 200,
+      "social_phrases_per_resp": 0.01,
+      "pct_with_social": 1.0,
+      "action_char_pct": 2.7
+    },
+    "independent-none": {
+      "n_responses": 200,
+      "social_phrases_per_resp": 0.0,
+      "pct_with_social": 0.0,
+      "action_char_pct": 32.7
+    },
+    "independent-pro": {
+      "n_responses": 200,
+      "social_phrases_per_resp": 0.06,
+      "pct_with_social": 6.0,
+      "action_char_pct": 4.3
+    },
+    "independent-pro-5": {
+      "n_responses": 50,
+      "social_phrases_per_resp": 0.04,
+      "pct_with_social": 4.0,
+      "action_char_pct": 3.6
+    },
+    "independent-random-sys": {
+      "n_responses": 200,
+      "social_phrases_per_resp": 0.02,
+      "pct_with_social": 2.0,
+      "action_char_pct": 24.4
+    },
+    "independent-role": {
+      "n_responses": 200,
+      "social_phrases_per_resp": 0.0,
+      "pct_with_social": 0.0,
+      "action_char_pct": 7.1
+    },
+    "independent-temp-high": {
+      "n_responses": 200,
+      "social_phrases_per_resp": 0.0,
+      "pct_with_social": 0.0,
+      "action_char_pct": 32.3
+    },
+    "interactive-basic": {
+      "n_responses": 150,
+      "social_phrases_per_resp": 0.58,
+      "pct_with_social": 41.3,
+      "action_char_pct": 1.1
+    },
+    "interactive-mid": {
+      "n_responses": 150,
+      "social_phrases_per_resp": 0.813,
+      "pct_with_social": 49.3,
+      "action_char_pct": 0.8
+    },
+    "interactive-none": {
+      "n_responses": 150,
+      "social_phrases_per_resp": 0.793,
+      "pct_with_social": 46.7,
+      "action_char_pct": 15.6
+    },
+    "interactive-pro": {
+      "n_responses": 150,
+      "social_phrases_per_resp": 0.687,
+      "pct_with_social": 41.3,
+      "action_char_pct": 0.7
+    },
+    "interactive-role": {
+      "n_responses": 150,
+      "social_phrases_per_resp": 0.293,
+      "pct_with_social": 24.0,
+      "action_char_pct": 7.2
+    },
+    "sequential-basic": {
+      "n_responses": 600,
+      "social_phrases_per_resp": 0.058,
+      "pct_with_social": 5.5,
+      "action_char_pct": 4.4
+    },
+    "sequential-mid": {
+      "n_responses": 600,
+      "social_phrases_per_resp": 0.028,
+      "pct_with_social": 2.8,
+      "action_char_pct": 2.7
+    },
+    "sequential-none": {
+      "n_responses": 150,
+      "social_phrases_per_resp": 0.18,
+      "pct_with_social": 16.7,
+      "action_char_pct": 32.9
+    },
+    "sequential-pro": {
+      "n_responses": 600,
+      "social_phrases_per_resp": 0.052,
+      "pct_with_social": 4.8,
+      "action_char_pct": 3.1
+    },
+    "sequential-role": {
+      "n_responses": 780,
+      "social_phrases_per_resp": 0.09,
+      "pct_with_social": 8.7,
+      "action_char_pct": 10.4
+    }
+  }
+}

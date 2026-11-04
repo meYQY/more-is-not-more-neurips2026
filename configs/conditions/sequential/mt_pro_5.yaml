@@ -1,0 +1,7 @@
+# MT-PRO-5: Sequential × Pro — 5 maximally diverse personas (matched with Interactive)
+# Same 5 personas as INDEPENDENT-PRO-5 and INTERACTIVE-PRO.
+name: "SEQUENTIAL-PRO-5"
+persona_depth: "pro"
+framework: "sequential"
+personas_file: "personas.yaml"
+persona_subset: [1, 2, 3, 4, 5]

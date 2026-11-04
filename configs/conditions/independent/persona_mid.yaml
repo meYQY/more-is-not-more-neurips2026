@@ -1,0 +1,5 @@
+# PERSONA-MID: Independent × Mid — 20 personas with detailed demographic
+name: "INDEPENDENT-MID"
+persona_depth: "mid"
+framework: "independent"
+personas_file: "personas.yaml"

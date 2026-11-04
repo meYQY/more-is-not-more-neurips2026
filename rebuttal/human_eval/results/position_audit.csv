@@ -1,0 +1,4 @@
+contrast,n,other_on_a,other_on_b,other_chosen_a,directional_a,other_rate_a,other_chosen_b,directional_b,other_rate_b,paired_mcnemar_p
+overall,168,84,84,25,56,0.4464285714,22,60,0.3666666667,0.6636238098
+role_basic,84,42,42,14,28,0.5,10,28,0.3571428571,0.3876953125
+role_pro,84,42,42,11,28,0.3928571429,12,32,0.375,1.0

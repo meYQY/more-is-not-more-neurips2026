@@ -1,0 +1,42 @@
+experiment:
+  name: "rebuttal_multiagent_coverage_prompt"
+  seed: 1529
+  n_tasks: 100
+  n_agents: 5
+  n_rounds: 3
+  persona_ids: [1, 2, 3, 4, 5]
+  persona_depth: "pro"
+  max_concurrent_calls: 20
+  branch_concurrency: 12
+
+model:
+  name: "deepseek-v4-flash"
+  base_url: "https://api.deepseek.com"
+  api_key_env: "DEEPSEEK_API_KEY"
+
+generation:
+  temperature: 0.7
+  max_tokens: 4096
+  top_p: 1.0
+  frequency_penalty: 0
+  presence_penalty: 0
+
+extra_body:
+  thinking:
+    type: "disabled"
+
+system_prompt: "You are a helpful assistant."
+
+prompts:
+  round1: |-
+    A group is discussing the following question. Please share your perspective.
+
+    Question: {question}
+  coverage:
+    round2: "Please respond to the discussion with the goal of broadening the range of genuine viewpoints represented. From your own perspective, contribute one substantively different position, reason, trade-off, or condition that has not already been expressed, and explain how it affects your bottom-line view. Do not summarize or merely paraphrase earlier responses, and do not disagree for its own sake. There is no need to reach consensus or change your view unless a substantive argument genuinely persuades you."
+    round3: "Please continue the discussion with the goal of broadening the range of genuine viewpoints represented. From your own perspective, contribute one substantively different position, reason, trade-off, or condition that has not already been expressed, and explain how it affects your bottom-line view. Do not summarize or merely paraphrase earlier responses, and do not disagree for its own sake. There is no need to reach consensus or change your view unless a substantive argument genuinely persuades you."
+
+source:
+  repository: "../.."  # repository root, relative to this folder; override with MODBENCH_ROOT
+  tasks: "data/dataset/tasks.csv"
+  personas: "configs/personas.yaml"

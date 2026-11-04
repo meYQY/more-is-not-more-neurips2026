@@ -1,0 +1,10 @@
+# DIMENSION: Independent × None — keyword exposure of demographic dimensions
+# Ablation: does merely naming demographic dimensions (no instruction) trigger
+# more diverse outputs? Compare against:
+#   - SINGLE (no dimensions, no instruction)
+#   - ENHANCED (no dimensions, only diversity instruction)
+# Prompt is a fact-stating clause (no imperative verbs like "consider/think").
+name: "INDEPENDENT-DIMENSION"
+persona_depth: "none"
+framework: "independent"
+system_prompt: "You are a helpful assistant. Respondents vary in age, gender, race, occupation, education level, income level, and political leaning."

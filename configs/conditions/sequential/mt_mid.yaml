@@ -1,0 +1,5 @@
+# MT-MID: Sequential × Mid — 20 personas (mid depth), each gets a multi-turn conversation
+name: "SEQUENTIAL-MID"
+persona_depth: "mid"
+framework: "sequential"
+personas_file: "personas.yaml"

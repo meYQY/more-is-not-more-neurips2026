@@ -1,0 +1,127 @@
+{
+  "Independent Main": {
+    "independent-none": {
+      "mpd": 0.6290107108491308,
+      "cc_rarefied": 93.33566666666667,
+      "vs_rarefied": 27.48989018408457
+    },
+    "independent-role": {
+      "mpd": 0.713412430125618,
+      "cc_rarefied": 159.0153333333333,
+      "vs_rarefied": 44.5892722454071
+    },
+    "independent-basic": {
+      "mpd": 0.6943425237440768,
+      "cc_rarefied": 132.1256666666667,
+      "vs_rarefied": 37.80313985570272
+    },
+    "independent-mid": {
+      "mpd": 0.7012816385670757,
+      "cc_rarefied": 135.09133333333332,
+      "vs_rarefied": 38.70653925768534
+    },
+    "independent-pro": {
+      "mpd": 0.7224142745820452,
+      "cc_rarefied": 136.55466666666666,
+      "vs_rarefied": 41.617131453832
+    }
+  },
+  "Independent Ablation": {
+    "independent-none": {
+      "mpd": 0.6290107108491308,
+      "cc_rarefied": 124.66699999999997,
+      "vs_rarefied": 30.68834758090973
+    },
+    "independent-enhanced": {
+      "mpd": 0.6304680401600122,
+      "cc_rarefied": 137.4526666666667,
+      "vs_rarefied": 32.14352720705668
+    },
+    "independent-temp-high": {
+      "mpd": 0.6303801516582533,
+      "cc_rarefied": 133.7046666666667,
+      "vs_rarefied": 31.656761680920912
+    },
+    "independent-dimension": {
+      "mpd": 0.6300365583656061,
+      "cc_rarefied": 127.09600000000002,
+      "vs_rarefied": 30.823665412267054
+    },
+    "independent-random-sys": {
+      "mpd": 0.6675417022781981,
+      "cc_rarefied": 164.24,
+      "vs_rarefied": 37.948856862068176
+    }
+  },
+  "Sequential": {
+    "sequential-none": {
+      "mpd": 0.6726681420094749,
+      "cc_rarefied": 148.30266666666665,
+      "vs_rarefied": 36.156923273086555
+    },
+    "sequential-role": {
+      "mpd": 0.7416528826754325,
+      "cc_rarefied": 273.153,
+      "vs_rarefied": 64.07648872756958
+    },
+    "sequential-basic": {
+      "mpd": 0.7269798169513674,
+      "cc_rarefied": 254.3843333333333,
+      "vs_rarefied": 58.59778175862632
+    },
+    "sequential-mid": {
+      "mpd": 0.7325945139820347,
+      "cc_rarefied": 263.0336666666667,
+      "vs_rarefied": 60.630057154337564
+    },
+    "sequential-pro": {
+      "mpd": 0.7464205300752979,
+      "cc_rarefied": 271.5373333333333,
+      "vs_rarefied": 65.54024552536009
+    }
+  },
+  "Interactive": {
+    "interactive-none": {
+      "mpd": 0.6496696876054816,
+      "cc_rarefied": 100.53900000000002,
+      "vs_rarefied": 29.768529019355775
+    },
+    "interactive-role": {
+      "mpd": 0.7328265967459364,
+      "cc_rarefied": 128.28366666666668,
+      "vs_rarefied": 42.29182546424866
+    },
+    "interactive-basic": {
+      "mpd": 0.7227892758193782,
+      "cc_rarefied": 111.079,
+      "vs_rarefied": 37.58175731404622
+    },
+    "interactive-mid": {
+      "mpd": 0.7222171329072867,
+      "cc_rarefied": 117.40666666666667,
+      "vs_rarefied": 39.16507585589091
+    },
+    "interactive-pro": {
+      "mpd": 0.7414329047572938,
+      "cc_rarefied": 124.24799999999999,
+      "vs_rarefied": 43.255894613265994
+    }
+  },
+  "Cross-Framework (5-persona)": {
+    "independent-pro-5": {
+      "mpd": 0.7176421750466093,
+      "cc_rarefied": 33.44500000000001,
+      "vs_rarefied": 17.09521818558375
+    },
+    "sequential-pro-5": {
+      "mpd": 0.7415587358616365,
+      "cc_rarefied": 54.804333333333346,
+      "vs_rarefied": 27.103062343915305
+    },
+    "interactive-pro": {
+      "mpd": 0.7414329047572938,
+      "cc_rarefied": 54.18900000000001,
+      "vs_rarefied": 26.792683174451195
+    }
+  }
+}

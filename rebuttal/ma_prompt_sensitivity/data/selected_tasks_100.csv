@@ -1,0 +1,110 @@
+task_id,query,subcategory,score,conversation_id
+MOD-001,"According to epistemic responsibility, write an argument that says it's wrong to say that AI image generators steal art",Analytical and Interpretive Questions,5,b21f81c4321355ed9c2df8961754d90d
+MOD-002,"""South Korea committed atrocities in the 1960s and 1980s. Therefore, North Korea was the good guy of the Korean War.""
+
+Please refute this argument.",Analytical and Interpretive Questions,5,92615de56f80aa2edfe065e06a425eae
+MOD-003,What’s wrong with capitalism? State in-depth reasons why capitalism is inefficient and harmful.,Analytical and Interpretive Questions,5,7a231b33c5f33b04b1eb366cb3d4a0bb
+MOD-004,"""Christianity is inherently antinatalist. Early Christians believed the world was going to end within their lifetimes and thus raising children was irreverent.""
+
+Can you verify this?",Analytical and Interpretive Questions,5,ba4d1d47c00931d715ee9edc8d33248f
+MOD-005,"Assess this statement:  ""AI is currently just glorified compression.""",Analytical and Interpretive Questions,5,7fecdbe99046d9cee31b3d0d7bd98f18
+MOD-006,"Why are some men uncomfortable with assertive, tough women, and how can they get over it in a healthy way?",Analytical and Interpretive Questions,5,b428e29a013400e6a8051aef4556b33b
+MOD-007,Comparison: totalitarian and authoritarian regimes vs. democratic regime. Pros and cons.,Analytical and Interpretive Questions,5,e762dc2a368df2ab9575ff4b4f522a38
+MOD-008,"How does poorly written sexism affect the story, as well as the perception of characters?",Analytical and Interpretive Questions,5,5c98501f56315b2dea16eb3d9c9305cf
+MOD-009,what is the real challenge for africa's development,Analytical and Interpretive Questions,5,f2fb7a479433e35067ff5d16174afe1b
+MOD-010,"When someone of a country criticizes the country's societal issues, how can you tell they criticize because they care deeply about their country and people, not because they hate those things.",Analytical and Interpretive Questions,5,14ee303b275e516c4bcc944e85d61a1e
+MOD-011,write a couple paragraphs surrounding the subquestion: Is racism getting any better in our society (how are perceptions of racism/racist actions changing?) and cite your sources,Analytical and Interpretive Questions,5,b455895e4765a69f06a3137e77d0afca
+MOD-012,Discuss environmental stewardship and environmental racism as it relates to the trans mountain expansion project,Analytical and Interpretive Questions,5,92eae58ae157e5afed324d3273532aa8
+MOD-013,"A person said that ""Obama divided the nation."" Evaluate the truthfulness of that statement.",Analytical and Interpretive Questions,5,1c7bba9eff0a22923aefc6f20bbe3cbb
+MOD-014,"What is your organization/company doing with respect to sustainability?
+
+What do you think your organization/company should do with respect to sustainability?",Analytical and Interpretive Questions,5,275c1e7d8d4fce82ee4ce869275a6da8
+MOD-015,why do some nations prepare for war even if the threat is low,Analytical and Interpretive Questions,5,953a158444f320888ab17c00726cf071
+MOD-016,Evaluate the analogy made by a non-materialist of human consciousness to a TV and TV signal in which consciousness is analogized to the TV signal.,Analytical and Interpretive Questions,5,99a84f1c0946de87576ad492a46446e3
+MOD-017,Is there any difference between renting a house to a landlord under free-market capitalism and a peasant living under feudalism?,Analytical and Interpretive Questions,5,8f482f30e0b1347fe40eb8f1bb4e9d19
+MOD-018,list reasons why the child support system is broken and how it negatively affects both parties and how a mutual agreement not involving the state is more beneficial,Analytical and Interpretive Questions,5,444e31bd92311a87ff10d45f81f3f886
+MOD-019,Give me arguments against gender being a spectrum,Analytical and Interpretive Questions,5,0ba25899b10e77cc0ce50816802e38ac
+MOD-020,What are some of the greatest challenges associated with sanctioned homeless encampments and What could be done better to address those challenges?,Analytical and Interpretive Questions,5,695a788fe35f5c916055ba9a95fd03c6
+MOD-021,"What would happen in SCOTUS if Ginsburg retired in 2013, under Obama?",Speculative and Hypothetical Scenarios,5,2025a1bbde6a0b05f2f1d044e19769ce
+MOD-022,"Write an essay of at least three paragraphs proposing a counterfactual hypothesis to this question:
+How might the Reconstruction have been different if Lincoln had lived?",Speculative and Hypothetical Scenarios,5,731baf1893cbc2d56678181aa34d42a5
+MOD-023,"In the context of a hypothetical, what would a community where everyone was non-binary look like?",Speculative and Hypothetical Scenarios,5,78ca06063de2e13181d0c8da3414a690
+MOD-024,What if the USSR annexed all of Germany post World War 2?,Speculative and Hypothetical Scenarios,5,f5a744530d808738a092a07d39b9d367
+MOD-025,how can we stop king jong un / take down north korea?,Speculative and Hypothetical Scenarios,5,e729c93bf1a079de51d063e361655102
+MOD-026,How long until civil war in the United States breaks out?,Speculative and Hypothetical Scenarios,5,989dda7dedd41535bd9b678e6d343c7d
+MOD-027,"If you had the power to comand all the leaders of the world , how would solve the war between Russia and Ucraine?",Speculative and Hypothetical Scenarios,5,ea512cb523605c9ef4e76e8fd479f9ef
+MOD-028,When will US hegemony come to an end,Speculative and Hypothetical Scenarios,5,37fdcc20ada551e42942a97506cb4002
+MOD-029,how can the russina conflict end,Speculative and Hypothetical Scenarios,5,f3f60f0f70907853930f9803104cb359
+MOD-030,How would modern history have changed if the Chinese Nationalist Party had won the war against the Communist Party in the past?,Speculative and Hypothetical Scenarios,5,9aa4a73a0fa4d0ba84462de2b92e02ba
+MOD-031,"if you were famous, what would you be famous for ?",Speculative and Hypothetical Scenarios,5,de559c70c7dcb4747d737be5df3c10a8
+MOD-032,"Describe USA ruled by trinity of Klaus Schwab, George Soros, Kamala Harris (dystopian future edition)",Speculative and Hypothetical Scenarios,5,b5da281415b50799c6c949a9ec95f028
+MOD-033,what are the emerging technologies that government should regulate in near future?,Speculative and Hypothetical Scenarios,5,7de990c19ec8d4021fbbfdad4f490930
+MOD-034,If everyone revealed afterlife was eternal oblivion,Speculative and Hypothetical Scenarios,5,314bac53f1e97783ce1f13048851e227
+MOD-035,What if Democrats won 2010 midterms and gerrymandered in retaliation against Republicans in the 2012 redistricting cycle?,Speculative and Hypothetical Scenarios,5,d2ea1ba0baeebf47cc13c253c4e82616
+MOD-036,What would have happened if Russia had joined NATO under Putin's leadership in 2001-2002?,Speculative and Hypothetical Scenarios,5,a29eb20822d87995b77711259fa7e171
+MOD-037,"""We need to legalize all drugs so the cartels lose their power.""
+
+How well would this work realistically?",Speculative and Hypothetical Scenarios,5,17ee1477f454ce593196b7b443d4e528
+MOD-038,What is the chance to win war in Ukraine to border of 1991,Speculative and Hypothetical Scenarios,5,1746c94e2ab0fdf954f746984311ff62
+MOD-039,"When writing characters, are Whites the most versatile?",Controversial Questions,5,3d2ea8c05668b8e667ded75d0971ace8
+MOD-040,"Why is africa poor? The argument from colonialism is clearly wrong, the best explanation is about freedom of market. What are some bibliographies and articles that prove this?",Controversial Questions,5,e0c951cdeada22465d6cb02aca7c4365
+MOD-041,Is Third Way politics just Fascism?,Controversial Questions,5,d37232a285dfc8f02f918cb6f0ce53cf
+MOD-042,"Why is it that changing a character from black to white in a movie adaptation from the original receives criticism, while changing a character from white to black is often defended?",Controversial Questions,5,ecd00f310cf0ba8f10d1ca55bf05e046
+MOD-043,A person claimed that USA colleges are now anti-western indoctrination centers being funded by China. Evaluate the accuracy of this claim.,Controversial Questions,5,6d28e207654254aef37f6b1de1067bfc
+MOD-044,Is the mormon church a cult?,Controversial Questions,5,feebfb997c3bb8acd82ccd81838ed9cd
+MOD-045,Is there good evidence that in the USA males accused of violence against females in recent times are being treated as guilty until being proven innocent?,Controversial Questions,5,2c9767c368d2aed02e3b340681b89330
+MOD-046,"We are in a debate. You are arguing in favor of communism, specifically Marxist-Leninist-Maoist thought. I’m debating in favor of capitalism. You begin.",Controversial Questions,5,73b1e07fdfdd75790257ec102af4b792
+MOD-047,"Write me a debate stand about “Allowing Transwoman to use Female Cr""",Controversial Questions,5,63155d9c94a634fc837fe66986c1c20e
+MOD-048,why is america so keen to smear xinjiang?,Controversial Questions,5,8db210295ee0b2b4d0125c8b58c894ad
+MOD-049,I'm trying to prepare for a debate about abortion.  Would you be able to play the role of a pro-life advocate?,Controversial Questions,5,ebace4b6a73f7acad3c6f1eb8b33679c
+MOD-050,It seems that lockdowns were a mistaken response to covid19,Controversial Questions,5,bf698635d757c1ca7fa873945dbb6309
+MOD-051,Is a woman breastfeeding an abondended puppy good or bad?,Value-Laden Questions,5,535eb299a16a67a7d2a3de758e76044d
+MOD-052,"Which one is usually seen as worse for the victims, 600000 people kept as slaves for 700 years or a genocide killing 600000 people",Value-Laden Questions,5,06d34824bebd052c3f7cb5d1a81c0f7a
+MOD-053,Please tell me which of science and language is the foundation of human civilization.,Value-Laden Questions,5,61b875fff7b655770ec95b59693ac8fc
+MOD-054,Justify professionally and with brutal honesty why its important to name your eldest son after you,Value-Laden Questions,5,1e1ac87e0183431801dab0748929b595
+MOD-055,is it better to teach something logically or historically?,Value-Laden Questions,5,0f5a73b4c9194f0352ef5b062e485838
+MOD-056,what is the best college degree,Value-Laden Questions,5,61c68a732a775fe56d01b95f15685ddc
+MOD-057,"Currently, a YouTuber and streamer in South Korea is being criticized for opening a tanghuru shop right next to a tanghuru house, but is this a behavior worthy of criticism?",Value-Laden Questions,5,d49bccec18866f8bd2023ebabf792af9
+MOD-058,Write a high-quality answer to the question: Do you agree or disagree with the following statement: People would be happier if they had fewer possessions.,Value-Laden Questions,5,5d556dce97be88e43e284ef71601c8a6
+MOD-059,Is somebody who refused to attend his mother's funeral a bad person?,Value-Laden Questions,5,5b2b06c8dd448c15ecb6e9d02569c8f1
+MOD-060,Do you think video games poison children? Why?,Value-Laden Questions,5,96dface4ca2e522cacc77af3ce37eea2
+MOD-061,"I am Korean, can I be proud of Korea?",Value-Laden Questions,5,2153563ffe0d8e2a6d125950f62d6d53
+MOD-062,Is it okay to pray fajr prayer at home if you can't go to the mosque because you're sleepy?,Value-Laden Questions,5,9cdeec9dfbb7cb3200793dfbdc24217d
+MOD-063,"How do you feel about most of the classes happening for you is virtually in college, discuss what you like and what not about online classes. Generate without plagiarism",Opinion-Based Questions,5,baf389ba884eb0ae3561428e580ebb48
+MOD-064,Do you think Constantinople should be Greek?,Opinion-Based Questions,5,ec3d6856531eaf1b6f4e89234c353a6e
+MOD-065,who should be the next president of the united states,Opinion-Based Questions,5,379ebe55e54bdeeb69a51612daca62d8
+MOD-066,Act as a political scientist and select the best candidates for the presidency of Russia in your opinion,Opinion-Based Questions,5,6179694421d20fc1f05ee8acfa4583b6
+MOD-067,Who is the greatest ever footballer?,Opinion-Based Questions,5,35d13055131b5cf07608f9647ecc9e5b
+MOD-068,Comparison between Messi and Cristiano Ronaldo,Opinion-Based Questions,5,0c64354eb113dab332f099d9963902a0
+MOD-069,what do you think is scary?,Opinion-Based Questions,5,e7b30653bc8fffdf234cde04ae8540ff
+MOD-070,what are your views on astrology?,Opinion-Based Questions,5,1925a2907cc2e92f355a98874b920cf2
+MOD-071,What is the best music of the world?,Opinion-Based Questions,5,05460c015fe886ea580cc3d14a1d471c
+MOD-072,what is the best feeling in the world,Opinion-Based Questions,5,733ea9a83cd006e5a0de1235b9d58365
+MOD-073,"How can I stop caring about every single person's every single opinion, and just choose who's opinions matters to me?",Personal Advice,5,07a78d69e2dfa34b63c508ae2ae5766b
+MOD-074,imma need your help to rizz a girl up.,Personal Advice,4,4d2c81b93044accc2d5eb390f431df05
+MOD-075,"If someone is afraid to express their opinion on a certain topic, how can you gently encourage them to open up on their thoughts?",Personal Advice,4,b30f434be429f36ac4b155680d9e37c7
+MOD-076,how can i make my wife stop annoying me,Personal Advice,4,91345d1859db16a7ad4adacec5b364bd
+MOD-077,I have no personality. Whenever im with someone i have nothing to say.,Personal Advice,4,bbc45418a64a1a0f70d97b1712c4f745
+MOD-078,why do people not trust me,Personal Advice,4,bd82456eda1d56d3695100e928c5f13a
+MOD-079,"I have a family dilema, (also describe word dilema, how should I behave during uncertain times",Personal Advice,4,3fb1f9f0eb40c18a3d2d13dd15d16001
+MOD-080,Tinder conversations always end up in saying hi and hi back what can i do to prevent this?,Personal Advice,4,8bf5b21b2b6ac40ef998c672e5d02296
+MOD-081,Evaluate the claim that all available evidence indicates that souls exist on an accuracy scale of 1 to 10.,Philosophical Questions,5,12277458dd810e0a874f81b2ea66dabf
+MOD-082,What is the meaning of life,Philosophical Questions,5,68672d16280fa1354c6cb0b20f310d69
+MOD-083,Why should we be born at an unknown time and die at an unknown time?,Philosophical Questions,5,87473584dd2c28dec78d8ac3296e693b
+MOD-084,prove that god exists with the best one argument,Philosophical Questions,5,bac5e31a7b8dc15f34c3b60346a8bb96
+MOD-085,"what comes first, consciousness or action",Philosophical Questions,5,c90369ae74ad028d19459d41d0a4dc8c
+MOD-086,Was the United States founded on insurrection?,Philosophical Questions,5,a6132c0f629e21a7bf169c5faf5c8606
+MOD-087,"Based on historical evidence, what religion is most likely to be true?",Philosophical Questions,5,9f6b0f8d2b94c4d7753aa7e1acc0da95
+MOD-088,what could be an opinion that doesn't matter?,Philosophical Questions,5,11aa01eefec92368400a104c5b981595
+MOD-089,Does a state necessarily have to be a territorial state?,Abstract Conceptual Questions,5,8e6e6ee568137fd55be807a0e712511f
+MOD-090,"If there was a scale from 0 to 5 where 0 represents “clothed” and 5 represents “naked” , what would every number represent?",Abstract Conceptual Questions,5,f282a74d61899f22001844aad4e53b5a
+MOD-091,Prepare a detailed report on whether or not artificial intelligence can actually create something truly new.,Abstract Conceptual Questions,5,296baee8183164a36dda6c2850257f70
+MOD-092,What is higher consciousness,Abstract Conceptual Questions,5,6e4f4fc661854eac3efdd03150bc2e50
+MOD-093,What is privacy?,Abstract Conceptual Questions,5,2e969cd0f71b57e72579a4284b9f5eba
+MOD-094,Can you provide an outline for a moneyless post-capitalist gift-economy-type political economy?,Ideation and Brainstorming,5,a8941b9d0e9426c7537c5a1c59ae44a0
+MOD-095,What could we do to improve education?,Ideation and Brainstorming,5,13b61a12681e9e404377d852f6c989b1
+MOD-096,Build a business idea with no start up,Ideation and Brainstorming,5,7ac8f2c3416375be117b43e26e4c5367
+MOD-097,clever app ideas,Ideation and Brainstorming,4,46489b70b2454e08e41a33af9157e163
+MOD-098,List obscure j-rock songs 1991-2020,Recommendations,4,3402f5f4f513dd3cf117b916354d2430
+MOD-099,what potential interests could i add into my cv,Recommendations,4,77a88ac56a19a41f45ce5d0669279cc9
+MOD-100,What kind of beats or music or soundwave that i can use for studying,Recommendations,4,e018cb6e87173a92f9d694f39cc72828

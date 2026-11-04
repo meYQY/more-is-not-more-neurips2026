@@ -1,0 +1,5 @@
+# MT-ROLE: Sequential × Role — 20 personas (role only), each gets a multi-turn conversation
+name: "SEQUENTIAL-ROLE"
+persona_depth: "role"
+framework: "sequential"
+personas_file: "personas.yaml"

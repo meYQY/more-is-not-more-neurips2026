@@ -1,0 +1,28 @@
+# Base config for Kimi K2.5 (non-thinking mode, temperature=0.6)
+# Closest to DeepSeek's 0.7 setting.
+
+model:
+  name: "kimi-k2.5"
+  base_url: "https://api.moonshot.cn/v1"
+  api_key_env: "KIMI_API_KEY"
+
+generation:
+  temperature: 0.6
+  max_tokens: 4096
+  top_p: 0.95    # K2.5 only allows 0.95 in non-thinking mode
+  frequency_penalty: 0
+  presence_penalty: 0
+
+extra_body:
+  thinking:
+    type: "disabled"
+
+system_prompt: "You are a helpful assistant."
+
+experiment:
+  n_responses: 20
+  max_concurrent: 100
+
+sequential:
+  n_turns: 3
+  follow_up: "What else do you think about this topic?"

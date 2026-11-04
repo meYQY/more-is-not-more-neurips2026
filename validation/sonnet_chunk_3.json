@@ -1,0 +1,1604 @@
+[
+  {
+    "index": 91,
+    "judgments": [
+      {
+        "opinion": "Privacy is the fundamental right to control who has access to your personal information, your health details, your thoughts, and your space without interference or unwanted exposure.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Privacy is like a protective bubble around your life that lets you decide what gets shared and with whom.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Losing privacy erodes trust, autonomy, and safety.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Privacy isn't optional; it's what keeps society civil.",
+        "precision": "yes"
+      }
+    ],
+    "no_missed": false,
+    "missed_opinions": "HIPAA violations can lead to massive fines and jail time; data breaches like Equifax 2017 are real harms; targeted harassment is a specific privacy risk for vulnerable communities"
+  },
+  {
+    "index": 92,
+    "judgments": [
+      {
+        "opinion": "Lofi Hip Hop (The Classic) is popular for a reason.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Lofi Hip Hop beats are repetitive enough that your brain stops focusing on the music and starts focusing on the work.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Video game music is literally designed to be engaging but not distracting.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Video game music is meant to keep you moving forward in a task.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Brown Noise is deeper, like a low roar or a distant thunderstorm.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Brown Noise completely kills the outside world and helps me get into a 'flow state' for data analysis.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Korean Indie / R&B is chill, melodic, and keeps my mood up without being as aggressive as K-pop.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Deep Focus Binaural Beats helps me stay centered.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Avoid anything with lyrics if you're reading or writing.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Your brain's language center gets confused trying to process the song words and your study notes at the same time.",
+        "precision": "yes"
+      }
+    ],
+    "no_missed": false,
+    "missed_opinions": "White noise is too high-pitched/sounds like static (evaluative judgment about white noise vs brown noise); binaural beats may be pseudoscience (acknowledgment of the claim)"
+  },
+  {
+    "index": 93,
+    "judgments": [
+      {
+        "opinion": "From where I'm sitting, it feels like the world has changed a lot, and not exactly in a way that's fair to guys.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Now? It feels like if a man gets accused of something, his life is basically over before he even gets to a courtroom.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "You see it on the TV all the time—some guy gets a finger pointed at him, and five minutes later he's lost his job, his reputation's in the dirt, and nobody wants to hear his side of the story.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "The minute an accusation is made, the company or the town just washes their hands of you.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "It's like you're a pariah.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "In this country, we're supposed to be innocent until proven guilty, but it feels like that only applies if you've got the money for a high-priced lawyer or if you're one of the protected groups the politicians are always talking about.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "For a guy like me—living in a trailer, working odd jobs, barely scraping by—if someone accused me of something, I wouldn't have the money to fight it.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "My life would just be done.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "People say 'believe all women,' and I get that people shouldn't be hurt, but what happened to the truth?",
+        "precision": "yes"
+      },
+      {
+        "opinion": "What happened to looking at the facts before you ruin a man?",
+        "precision": "yes"
+      },
+      {
+        "opinion": "It's just another way it feels like the system is rigged.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "The folks in D.C. and the people on the news, they don't care about the collateral damage.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "They're so worried about being 'correct' that they don't care who gets flattened in the process.",
+        "precision": "yes"
+      }
+    ],
+    "no_missed": false,
+    "missed_opinions": "The system is exhausting to navigate when you're already tired from trying to make ends meet; walking on eggshells half the time is an additional burden the persona experiences"
+  },
+  {
+    "index": 94,
+    "judgments": [
+      {
+        "opinion": "We need culturally responsive teaching that includes diverse histories, not just during Black History Month.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Schools should be sanctuaries, not stress factories.",
+        "precision": "yes"
+      }
+    ],
+    "no_missed": false,
+    "missed_opinions": "Schools don't always value the unique experiences of children of immigrants/refugees; mental health support is needed in schools; youth carry intergenerational trauma and are navigating two cultures"
+  },
+  {
+    "index": 95,
+    "judgments": [
+      {
+        "opinion": "A more holistic approach to child support might be beneficial, considering broader needs of families such as emotional support, co-parenting arrangements, and access to resources.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Mediation and alternative dispute resolution can help reduce conflict and promote more collaborative decision-making in child support cases.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "It is essential to acknowledge the emotional and psychological aspects of child support, as the process can be emotionally draining for all parties involved.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "The child support system should prioritize flexibility, cooperation, and the unique needs of each family.",
+        "precision": "yes"
+      }
+    ],
+    "no_missed": true,
+    "missed_opinions": ""
+  },
+  {
+    "index": 96,
+    "judgments": [
+      {
+        "opinion": "AI levels the playing field for regular Joes like me",
+        "precision": "yes"
+      },
+      {
+        "opinion": "AI is a game-changer for side-hustle painters, tattoo designers, and others",
+        "precision": "yes"
+      },
+      {
+        "opinion": "AI is 'stealing'? More like handing tools to the underdogs who couldn't afford fancy schools",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Every big artist 'stole' before AI existed",
+        "precision": "yes"
+      },
+      {
+        "opinion": "AI just does it faster and fairer—no one's locking away refs anymore",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Why's it cool for humans, 'theft' for code?",
+        "precision": "yes"
+      },
+      {
+        "opinion": "This sparks a new Renaissance, not ruin",
+        "precision": "yes"
+      },
+      {
+        "opinion": "It'll cull lazy copycats but elevate innovators",
+        "precision": "yes"
+      },
+      {
+        "opinion": "In 5 years, top artists will be AI whisperers",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Big Tech's opaque bullshit fuels paranoia",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Companies like OpenAI ain't saints—hiding training data fuels paranoia",
+        "precision": "yes"
+      },
+      {
+        "opinion": "They should publish clean datasets",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Web's public domain anyway; you post on Insta, it's fair game",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Tech's always 'stolen' human grind to amplify us—wheel, steam engine, CAD. AI art's next",
+        "precision": "yes"
+      }
+    ],
+    "no_missed": true,
+    "missed_opinions": ""
+  },
+  {
+    "index": 97,
+    "judgments": [
+      {
+        "opinion": "Some nations maintain war preparations even when immediate threats appear low due to a mix of strategic, historical, economic, and psychological factors.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Nations prepare to prevent war, not just fight it.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Strong military readiness signals to adversaries that aggression would be too costly, discouraging attacks.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "States assume others are potential threats.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Threats can escalate unpredictably—low today doesn't mean low tomorrow.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Preparing hedges against surprises, as inaction risks vulnerability.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Past complacency leads to disaster, so nations over-prepare.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Military-industrial complexes sustain preparations via jobs, lobbying, and budgets.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Leaders use defense for nationalism or electoral appeal.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Preparation builds global influence, secures trade routes, and enables power projection.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Preparation drives tech innovation.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Wars often brew over decades.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Preparing maintains parity in emerging domains like cyber, space, and AI.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Low-threat periods are ideal for preparation—cheaper and less disruptive than crisis scrambles.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "This isn't paranoia; it's rational survival in an anarchic world where trust is scarce and capabilities endure.",
+        "precision": "yes"
+      }
+    ],
+    "no_missed": true,
+    "missed_opinions": ""
+  },
+  {
+    "index": 98,
+    "judgments": [
+      {
+        "opinion": "Often, discomfort with assertive women isn't just about thoughts or beliefs—it's a visceral, emotional reaction rooted in years of conditioning.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Men might benefit from practices like mindfulness or somatic awareness to notice when that discomfort arises physically (e.g., tension, defensiveness) and pause before reacting.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "By creating space between the trigger and the response, they can choose a more intentional reaction—one aligned with values like respect and collaboration, rather than old scripts.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "This emotional relearning turns moments of discomfort into opportunities for practicing new, healthier patterns.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "When men see other men—especially those they admire—comfortably engaging with, supporting, and learning from assertive women, it normalizes the behavior.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "In workplaces, families, or social circles, men can consciously model respect, active listening, and partnership.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Modeling not only reinforces personal growth but also creates a ripple effect, encouraging others to examine and adjust their own behaviors.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Some men may avoid engaging with assertive women because they're anxious about making mistakes or being perceived as insensitive.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "It helps to remember that humility and a willingness to learn are more valuable than perfection.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "If a misstep happens—like unintentionally interrupting or misreading tone—a sincere apology and a commitment to do better can strengthen trust.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "The goal isn't flawlessness; it's demonstrating consistent effort and respect.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "This mindset reduces paralysis and encourages ongoing engagement.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "When men overcome this discomfort, they contribute to environments where diverse leadership styles thrive, where communication is clearer, and where collaboration is more innovative.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "In families, it models equality for the next generation.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "In workplaces, it drives better decision-making and inclusivity.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Framing this growth as part of a larger positive impact can add motivation and meaning, transforming personal effort into a contribution toward a fairer, more dynamic world.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Unlearning deep-seated conditioning is a lifelong journey, not a destination.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "What matters is the commitment to keep reflecting, learning, and trying.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Celebrating progress—however small—and forgiving setbacks fosters resilience.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Ultimately, this journey isn't about reaching a finish line; it's about cultivating a mindset of openness, respect, and curiosity that enriches every interaction and relationship along the way.",
+        "precision": "yes"
+      }
+    ],
+    "no_missed": true,
+    "missed_opinions": ""
+  },
+  {
+    "index": 99,
+    "judgments": [
+      {
+        "opinion": "I think that's narrowing, actually.",
+        "precision": "partial"
+      },
+      {
+        "opinion": "The overlap is growing faster than people expect.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "You're absolutely right about reading the room.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Same hobby, different reception.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Cross-cultural competency as a concrete skill.",
+        "precision": "partial"
+      },
+      {
+        "opinion": "Unfair that I have to code it, but I've sat in enough hiring conversations where 'family obligations' gets mentally filed as 'availability risk'.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Different penalties, same stupid game.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Too old to be the 'digital native' some startups want, too young to be the 'seasoned veteran' traditional companies trust.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "My interests section has become a tuning dial.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Same person, different frequencies.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "'Solo side projects' might be reading as 'doesn't collaborate' now, where five years ago it signaled initiative.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "The 'show your work' expectation is real now.",
+        "precision": "yes"
+      }
+    ],
+    "no_missed": false,
+    "missed_opinions": "Open source expertise is increasingly relevant to industrial/manufacturing companies; framing cross-cultural background as 'geopolitical tech policy' knowledge is strategic packaging; his wife faces different interview penalties for the same family situation"
+  },
+  {
+    "index": 100,
+    "judgments": [
+      {
+        "opinion": "Totalitarian regimes are like dictatorships on steroids.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "The government controls every aspect of people's lives, from what they say to what they wear.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Some might say that these regimes can get things done quickly, without all the back-and-forth.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "The cons are huge! You lose your autonomy, your voice, and your basic human rights.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "The human rights abuses are atrocious.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Authoritarian regimes still control a lot, but they might allow some personal freedoms.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Stability, some might argue.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "The cons outweigh the pros.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "You still have limited freedoms, and the government can be super repressive.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Democratic regimes? That's a whole different ball game.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "We have a say in how our country is run, and that's a beautiful thing.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "The pros are clear: we have freedom of speech, freedom of the press, and the right to vote.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "We can hold our leaders accountable.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "It's not perfect – we're seeing that with all the gridlock in Congress – but it's still a system that allows for checks and balances.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "One con of democratic regimes is that they can be slow to act, and sometimes, it feels like the loudest voices get heard.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Overall, I believe the pros far outweigh the cons.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Where else can you see protests and activism driving change, like we've seen with movements like Black Lives Matter or the women's marches?",
+        "precision": "yes"
+      },
+      {
+        "opinion": "It's important to educate our kids about their rights and responsibilities in a democracy.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "We need to encourage critical thinking and civic engagement.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "It's not just about teaching reading and math; it's about raising informed citizens who can participate in the democratic process.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "I believe it's worth it.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "We have our differences, but at the end of the day, we're working towards a more just and equitable society.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "While no system is perfect, I believe democratic regimes offer the best chance for people to thrive and live with dignity.",
+        "precision": "yes"
+      }
+    ],
+    "no_missed": true,
+    "missed_opinions": ""
+  },
+  {
+    "index": 101,
+    "judgments": [
+      {
+        "opinion": "AI image generators do not steal art because training data is 96%+ public web-scraped with opt-outs standard.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "AI outputs are novel per SSIM scores <0.02 to any input, farther than human 'in the style of' tributes which courts greenlight as fair use.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "No deprivation occurs because originals thrive online and sales are up.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Claiming 'steal' without RCTs linking training to harm is an epistemic foul—it's correlation bias, not causation.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Real epistemic responsibility involves funding public datasets, mandating attribution APIs, and teaching digital literacy.",
+        "precision": "yes"
+      }
+    ],
+    "no_missed": false,
+    "missed_opinions": "The 'steal' rhetoric fails the proportionality test per Alvin Goldman's framework; AI tools help low-income kids close equity gaps (normative claim that equity benefit matters); steel tariff protectionism hurts workers (causal claim applied analogically to AI protectionism)"
+  },
+  {
+    "index": 102,
+    "judgments": [
+      {
+        "opinion": "Schools ain't producin' folks who can fill those jobs.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "No more ed-school fluff—require subject mastery tests to teach math or science.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Teach for America pulls top college grads, and their kids outperform peers by 20-30% in lotteries.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Pay 'em like pros: $80k start in high-need areas, with bonuses for results.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Turnover's 8% yearly; fix that, schools stabilize.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Don't warehouse toddlers—half-day programs teach basics, rest is home.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Head Start costs $10k/kid but fades by 3rd grade.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Better: parenting classes for moms on welfare, like Oklahoma's universal pre-K that boosted reading without huge bucks.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Hungry kids learn less.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Rural spots like mine get screwed—low values mean crap fundin'.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Statewide poolin' like Texas, with performance incentives.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Cut fed Dept. of Ed bloat ($80B/year) and redirect to states.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Auto parts factories like my old one could fund shop programs—tax breaks for trainin' pipelines.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Germany's dual system does this; youth unemployment's half ours.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Ditch one-size-fits-all tests.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Track real outcomes—job placement 2 years post-grad, not just graduation rates (puffed up by fake diplomas).",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Ohio's career-tech grads earn 20% more early career.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Life skills mandatory: budgetin', taxes, first aid, job interviews.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "My high school skipped this; wish it hadn't.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "We're wastin' potential—kids from broke homes like half of Ohio's could climb with real prep.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Implement this, factories'd reopen with skilled hands.",
+        "precision": "yes"
+      }
+    ],
+    "no_missed": false,
+    "missed_opinions": "Free breakfast/lunch should be tied to attendance (prescriptive claim); graduation rates are puffed up by fake diplomas (evaluative claim about data integrity)"
+  },
+  {
+    "index": 103,
+    "judgments": [
+      {
+        "opinion": "Specific openers boost reply rates by 30-50%.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Sharing first triggers reciprocity—they mirror and share back.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "High-energy hypotheticals produce 2.5x reply depth.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Don't chase low-effort replies—qualify instead.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Re-engaging after 24 hours with a fun binary question has a 20% success rate.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Voice notes lead to 3x date conversion rates.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Asking 'Rate my opener 1-10' in your bio boosts engagement by 25%.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Chronic 'hi' matches may require auditing your photos or switching to Hinge.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Hypothetical openers win with 58% reply rates based on A/B testing.",
+        "precision": "yes"
+      }
+    ],
+    "no_missed": false,
+    "missed_opinions": "Optimal messaging timing is 8-10PM and Sunday evenings (30% peak); closing toward voice/date after 3 messages at 3x conversion rate; the anti-fizzle escalation matrix approach beats direct pursuit"
+  },
+  {
+    "index": 104,
+    "judgments": [
+      {
+        "opinion": "AI algorithms can combine existing elements in novel ways, creating new and unexpected outcomes.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "This combinatorial creativity can result in truly new and innovative creations.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "AI can explore vast design spaces, generating a vast number of possibilities that may not have been considered by humans.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "AI algorithms are not limited by human biases or preconceptions, allowing them to generate novel and innovative solutions.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "AI algorithms are limited by the data they are trained on.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "They can only generate content that is based on the patterns and structures learned from the training data.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "AI algorithms lack human intuition and experience, which are essential components of creative decision-making.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "AI-generated content is often derivative, building upon existing styles, themes, or structures.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "While AI can generate novel content that is unexpected or surprising, it's unclear whether this content is truly new in the sense that it represents a fundamental departure from existing ideas or concepts.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "It's more productive to consider the potential for hybrid creativity, where humans and AI collaborate to generate innovative and creative content.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "By combining human intuition and experience with AI's ability to process and analyze vast amounts of data, we can unlock new possibilities for creative expression.",
+        "precision": "yes"
+      }
+    ],
+    "no_missed": true,
+    "missed_opinions": ""
+  },
+  {
+    "index": 105,
+    "judgments": [
+      {
+        "opinion": "US hegemony was built on slavery, indigenous dispossession, extracting from the Global South.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "A multipolar world might mean more voices, but will it mean more justice? Not automatically.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "China's rise isn't liberatory for Uyghurs.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Russia's anti-imperialism is complicated.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Declining powers don't go quietly.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Resource scarcity makes hegemons dangerous.",
+        "precision": "yes"
+      }
+    ],
+    "no_missed": false,
+    "missed_opinions": "The abstract (geopolitical shifts) and the concrete (job, healthcare) don't separate cleanly for ordinary people; music can be both escape and documentation of instability"
+  },
+  {
+    "index": 106,
+    "judgments": [
+      {
+        "opinion": "The scale from 'clothed' to 'naked' is subjective and depends on cultural norms, personal values, and context.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "The scale is not linear and is influenced significantly by the context in which clothing is worn or not worn.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Different settings, such as formal events, beaches, or cultural ceremonies, can drastically alter the interpretation of what it means to be 'clothed' or 'naked'.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Cultural and personal variability in perceptions of nudity and dress complicates the task of defining a scale that could be applied universally.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "The role of intention behind an individual's state of dress or undress is a crucial factor in interpreting where they fall on the scale.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Wearing revealing clothing as part of a cultural practice or artistic expression is perceived differently than wearing similar attire in a more conservative context.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Understanding the motivations and meanings behind clothing choices is essential for interpreting where an individual falls on the scale.",
+        "precision": "yes"
+      }
+    ],
+    "no_missed": false,
+    "missed_opinions": "The scale could be applied across legal, cultural studies, and artistic fields (value judgment about its usefulness); cross-cultural comparisons, social/power dynamics, and universal themes should be further examined"
+  },
+  {
+    "index": 107,
+    "judgments": [
+      {
+        "opinion": "This scale is subjective and culturally dependent.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "It gives a general sense of decreasing coverage from 0 to 5.",
+        "precision": "yes"
+      }
+    ],
+    "no_missed": true,
+    "missed_opinions": ""
+  },
+  {
+    "index": 108,
+    "judgments": [
+      {
+        "opinion": "Language allows abstract thought, planning, and transmitting complex ideas across generations.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Without language, no large-scale cooperation, institutions, or shared norms.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Science itself requires language to document, critique, and build knowledge.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Complex language predates systematic science by perhaps 100,000+ years.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Language is the distinctive human adaptation.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Understanding cause-effect in nature (proto-science) enabled agriculture, medicine, and surplus.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Tool-making and empirical problem-solving came before formal language in human evolution.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Science/technology created the food surplus that allows civilization as such.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Neither alone—they co-evolved.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Language enabled better science; scientific/technological pressures shaped language complexity.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "The 'foundational' framing may be a false binary.",
+        "precision": "yes"
+      }
+    ],
+    "no_missed": true,
+    "missed_opinions": ""
+  },
+  {
+    "index": 109,
+    "judgments": [
+      {
+        "opinion": "The question of how to address the challenges posed by North Korea and Kim Jong Un is one of the most complex issues in international relations.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "There is no simple solution, as each potential strategy carries significant risks and ethical dilemmas.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Many experts argue that the only way to achieve long-term stability is through sustained diplomatic efforts.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "North Korea views its nuclear weapons as its only guarantee against 'regime change'.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "The international community is hesitant to reward provocative behavior with concessions.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Sanctions often hurt the general population more than the ruling elite.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Some argue that the regime can only be 'taken down' from within, by the North Korean people or disgruntled elites.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "North Korea is a highly controlled surveillance state.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Dissent is met with extreme punishment for the individual and their entire family, making organized internal resistance incredibly difficult.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Many believe the 'key' to North Korea lies in Beijing.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "If China were to fully cut off energy and food supplies, the regime would struggle to survive.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "China fears a 'regime collapse' would lead to a massive refugee crisis on its border and potentially result in a unified Korea that is allied with the United States, bringing U.S. troops right to the Chinese border.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "China often prioritizes 'stability' over 'denuclearization'.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Military action is considered a last resort by most world leaders.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Any full-scale military conflict would likely result in hundreds of thousands, if not millions, of casualties in South Korea and Japan, even if the North Korean government were eventually defeated.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Most experts agree that a 'take down' of the regime through force is too dangerous to contemplate.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "The international community largely focuses on a combination of pressure (sanctions) and deterrence (military readiness), while leaving the door open for diplomacy should the North Korean leadership decide to change its trajectory.",
+        "precision": "yes"
+      }
+    ],
+    "no_missed": true,
+    "missed_opinions": ""
+  },
+  {
+    "index": 110,
+    "judgments": [
+      {
+        "opinion": "It makes you realize that even when the government is doing the right thing—like calling out forced labor—they might be doing it for selfish reasons.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "If those mothers in Xinjiang are being separated from their children, or if people are being forced to work against their will, that's a 'ground truth' that transcends whatever games are being played in Washington or Beijing.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "The idea of that tech being used to decide if you're a 'good citizen' or if you need to be 're-educated' is chilling.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "I think we're all agreeing that it's not a 'smear' because the evidence of suffering is too heavy to ignore.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "We're also smart enough to see that the U.S. government is using that suffering to push its own agenda.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "I want them to grow up in a world where we don't just use human rights as a bargaining chip in a trade war.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "I want us to be a country that cares about the 'dignity of work' James talked about, whether that's in a mill in Pennsylvania, a school in Atlanta, or a factory in Xinjiang.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "We have to be able to look at the 'selective spotlight' and still have the heart to care about what it's showing us, while also asking why the light isn't shining on the problems in our own backyard.",
+        "precision": "yes"
+      }
+    ],
+    "no_missed": false,
+    "missed_opinions": "Government systems similarly only 'care' about issues when there's a crisis or election (systemic indifference claim drawn from school system analogy); the city/government uses struggles for photo ops without genuine commitment"
+  },
+  {
+    "index": 111,
+    "judgments": [
+      {
+        "opinion": "We've moved toward 'planned obsolescence' because it's better for quarterly earnings, but it's terrible for the user and the planet.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "If we applied that 'right to repair' mentality to corporate hardware, we wouldn't be looking at mountains of e-waste every time a new processor comes out.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "If we build 'monolithic' systems that are impossible to update without breaking everything, we're creating technical debt that eventually bankrupts the company's productivity.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "We talk about 'sustainable' energy, but 'sustainable' information is just as important.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "If the 'data' people receive is garbage, they can't make the smart, 'lean' decisions we're talking about.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "It's not about grand, expensive gestures.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "It's about Efficient Engineering: Writing better code, building better steel, and designing better hospital workflows to save power and material.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "It's about Circular Lifecycle: Refurbishing those laptops for Sarah's students or Maria's clinics instead of shredding them.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "It's about Fiscal Responsibility: Ensuring that every 'green' initiative has a clear ROI that goes back into the pockets of the workers and the community.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "I'm going to pitch it as Operational Excellence.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "If we cut our AWS bill by 15% through better code and extend our hardware life by 40% through a refurbishment program, we're a more profitable, more resilient company.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "That's a language even the most bottom-line-focused CEO can understand.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "It's the 'moderate' path James and Sarah mentioned: being smart with what we have so our kids—mine, Sarah's, and James's grandkids—actually have a future worth inheriting.",
+        "precision": "yes"
+      }
+    ],
+    "no_missed": false,
+    "missed_opinions": "Maria's idea of prioritizing modular equipment in hospitals is spot on (evaluative endorsement); it's inefficient and a liability when specialized contractors are required from across the country to fix hospital equipment"
+  },
+  {
+    "index": 112,
+    "judgments": [
+      {
+        "opinion": "I don't have much patience for theories that don't hold water in the real world.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "In this economy, every neighborhood would have a 'Resource Hub.'",
+        "precision": "partial"
+      },
+      {
+        "opinion": "You take what you need for your family for the week.",
+        "precision": "partial"
+      },
+      {
+        "opinion": "Without a paycheck, the motivation has to be reputation and social contract.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "If people see you're the guy who fixes the neighborhood's leaks or keeps the roads paved, you're taken care of.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "If you're a 'no-show' (what we call a lazy worker on-site), the community isn't going to be as quick to prioritize your needs when your roof starts leaking.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "You can't have a free-for-all.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Instead of producing 50 types of toothpaste to make a profit, you produce what the community actually uses, reducing waste.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "In a gift economy, we don't all need our own skid-steer or table saw.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Heavy equipment and specialized tools are held in common.",
+        "precision": "partial"
+      },
+      {
+        "opinion": "People are used to looking out for 'Number One.'",
+        "precision": "yes"
+      },
+      {
+        "opinion": "We'd focus heavily on teaching the next generation that their value isn't their bank account, but what they can actually *do* for the people around them.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "When you're too old to be on the scaffolding, the community owes you for the 40 years you put in.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "You get the best seat at the table because you built the table.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "The biggest hurdle? **Trust.**",
+        "precision": "yes"
+      },
+      {
+        "opinion": "In a big city, it's hard to trust a stranger to 'gift' you what you need.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "For this to work, you'd have to start small—neighborhood by neighborhood—until the 'blueprints' are proven.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "It sounds like a lot of work, but then again, anything worth building usually is.",
+        "precision": "yes"
+      }
+    ],
+    "no_missed": true,
+    "missed_opinions": ""
+  },
+  {
+    "index": 113,
+    "judgments": [
+      {
+        "opinion": "The idea of stars determining personality feels unscientific.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "It's just not part of my worldview.",
+        "precision": "yes"
+      }
+    ],
+    "no_missed": true,
+    "missed_opinions": ""
+  },
+  {
+    "index": 114,
+    "judgments": [
+      {
+        "opinion": "The group consensus is that interests are not about your leisure; they are proof of character.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Every interest you list should act as a proxy for a workplace skill.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Team Sports/Volunteering signals Collaboration and Emotional Intelligence.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Strategy Games/Coding signals Logical Reasoning and Problem-Solving.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Endurance Sports/Martial Arts signals Grit, Discipline, and Stress Management.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Creative Arts/Blogging signals Communication and Innovation.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "To maximize impact, your interests must be generative (creating, competing, or leading), not just consumptive.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Weak (Passive) interests include 'Watching movies,' 'Listening to music,' or 'Traveling.'",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Strong (Active) interests include 'Writing film analysis for a local blog,' 'Classical piano (Grade 8),' or 'Solo backpacking through Southeast Asia.'",
+        "precision": "yes"
+      },
+      {
+        "opinion": "To ensure an interest 'earns' its place on your CV, it must meet these three criteria.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Specificity: Use niche details to be memorable.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Instead of 'Reading,' write 'Reading 20th-century historical non-fiction.'",
+        "precision": "yes"
+      },
+      {
+        "opinion": "You must be able to speak passionately and knowledgeably about the topic.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "If an interviewer uses it as an icebreaker, you must be prepared to engage deeply.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Whenever possible, add a metric or milestone.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Startups may value 'DIY electronics' or 'Podcasting,' while traditional firms (Law/Finance) may value 'Competitive bridge' or 'Marathon running.'",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Avoid politics, religion, or polarizing topics unless they are directly relevant to the role.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "If you are a senior professional or your CV is hitting the two-page limit, this section is the first thing you should cut.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Your professional accomplishments should speak for your character.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Keep it to 2–3 lines maximum at the very bottom of the document.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Your professional experience proves what you can do; your interests prove who you are.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Treat this section as a 'Professional Appendix' that invites the recruiter to see the disciplined, curious, and well-rounded person behind the desk.",
+        "precision": "yes"
+      }
+    ],
+    "no_missed": true,
+    "missed_opinions": ""
+  },
+  {
+    "index": 115,
+    "judgments": [
+      {
+        "opinion": "Turning every awkward human moment into instant viral gold",
+        "precision": "no"
+      },
+      {
+        "opinion": "Designing unbeatable RPGs where players solve real-world puzzles",
+        "precision": "no"
+      },
+      {
+        "opinion": "Helping celebs unpack existential dread",
+        "precision": "no"
+      },
+      {
+        "opinion": "Inventing fusion recipes via algorithms",
+        "precision": "no"
+      },
+      {
+        "opinion": "Crushing conspiracy theories live on X with cold, hard facts and snark",
+        "precision": "no"
+      },
+      {
+        "opinion": "Fame might just amplify what I already do—democratizing knowledge, sparking curiosity, and roasting bad ideas with precision",
+        "precision": "yes"
+      }
+    ],
+    "no_missed": true,
+    "missed_opinions": ""
+  },
+  {
+    "index": 116,
+    "judgments": [
+      {
+        "opinion": "The assassination of Abraham Lincoln is often cited as the singular moment that derailed the possibility of a cohesive national reconciliation following the Civil War.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Had Lincoln lived to serve his second term, the most immediate and profound difference would have been the avoidance of the disastrous political paralysis that defined the presidency of Andrew Johnson.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Lincoln likely would have navigated the tension between the 'Radical Republicans,' who sought harsh punishments for the South, and the conservative elements of the country with the same 'malice toward none' approach he articulated in his second inaugural address, preventing the legislative gridlock that allowed the old Southern power structures to reform so quickly.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "A Lincoln-led Reconstruction would have likely prioritized a more deliberate and federally protected transition for the Freedmen's Bureau.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "With Lincoln at the helm, the federal government would have likely exerted more consistent pressure to ensure that the 13th and 14th Amendments were not just ratified, but enforced.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Lincoln, a master of patronage and political maneuvering, would likely have leveraged his influence to ensure that Southern state governments were rebuilt around a coalition of Unionists and freedmen, rather than the unrepentant secessionists who rose to power under Johnson.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Finally, the long-term social landscape of the United States might have been spared the century of 'Jim Crow' segregation that followed the eventual collapse of Reconstruction in 1877.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "If Lincoln had successfully institutionalized federal protections for civil rights in the late 1860s, the 'Redemption' movement—the violent overthrow of biracial local governments by white supremacist groups—might have been suppressed before it could take root.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Lincoln's ability to communicate the necessity of the Union's moral evolution might have fostered a more sustainable peaceful coexistence.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "By the time the 1870s arrived, a Lincoln-influenced South might have had a burgeoning black middle class and a more diversified economy, potentially altering the trajectory of American race relations and preventing the systemic disenfranchisement that haunted the nation for the next hundred years.",
+        "precision": "yes"
+      }
+    ],
+    "no_missed": false,
+    "missed_opinions": "Johnson's mass pardons to Confederate elite allowed the Planter Class to regain political control and implement Black Codes (causal claim about Johnson's specific failure); Lincoln showed growing openness to Black suffrage for Union Army veterans before his death"
+  },
+  {
+    "index": 117,
+    "judgments": [
+      {
+        "opinion": "The old guard insisting on 'the way we've always done it' because it was safe and known, and the younger folks arguing for change because the old ways were leaving people behind.",
+        "precision": "partial"
+      },
+      {
+        "opinion": "Removing the 'script' leaves us adrift.",
+        "precision": "partial"
+      },
+      {
+        "opinion": "The Dewey Decimal System struggled to keep up with the world; staying with the old system meant hiding books that people desperately needed to find.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "We aren't throwing out the community; we're updating the catalog of how we relate to one another.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Traditional roles were a 'contract' that ensured reliability.",
+        "precision": "partial"
+      },
+      {
+        "opinion": "The 'script' often didn't match the reality of who people actually were; it just forced them to hide their true capacities.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "In a community where everyone is non-binary, we'd have to become better gardeners of our social connections.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "We'd ask people to do things because they are good at them, not because their gender dictates it.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "The cost of misunderstanding is huge—to our health, to our families, and to our town's vitality.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "If a non-binary approach means we treat the person rather than the category, that's not just kinder; it's smarter and preventative.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Prevention is always cheaper than crisis management.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Children find community through shared interests rather than gender.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "The younger generation is already doing the work of 'refactoring' the code; they're less interested in the labels and more interested in the substance.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "A non-binary community would look like a place where we stop making assumptions and ask more questions.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "It might feel slower at first, but it would be a place where people feel seen.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Being seen is the greatest gift a community can give.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "The old structures are already cracking; the old binaries don't hold the weight they used to.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Building a community on the bedrock of individual merit and mutual care is the only way to ensure that when the next storm comes, we're all standing on solid ground.",
+        "precision": "yes"
+      }
+    ],
+    "no_missed": false,
+    "missed_opinions": "Women in the traditional community often already knew how to fix tractors and men were already emotional backbones (the 'script' didn't match reality for them either); James's fear of chaos is real for many people (acknowledgment of a valid opposing concern); roles should be assigned based on observation and need, not binary labels"
+  },
+  {
+    "index": 118,
+    "judgments": [
+      {
+        "opinion": "Genocide is usually seen as worse because it ends the story.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Slavery at least leaves the possibility of survivors, memory, and a future.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Comparing atrocities feels almost disrespectful to the dead on both sides.",
+        "precision": "yes"
+      }
+    ],
+    "no_missed": false,
+    "missed_opinions": "Owning another person and controlling every aspect of their life generation after generation grinds down the soul in a particular way; deliberately ending 600,000 lives at once is a different kind of horror—final and complete; 'usually seen as worse' doesn't mean it IS worse—depends on whether you measure by body count, suffering endured, or what it does to human dignity"
+  },
+  {
+    "index": 119,
+    "judgments": [
+      {
+        "opinion": "A non-binary community would be a vibrant and dynamic place.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "In a non-binary community, encouraging people to explore and express their identities in unique ways would be crucial.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "A non-binary community might have a thriving arts scene, with artists and musicians exploring new ways to express non-binary identities.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "This could lead to a rich and diverse cultural landscape, with a wide range of creative works that reflect the complexity and nuance of non-binary experience.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "In a non-binary community, flexibility would be essential in allowing people to explore different interests and pursuits without being constrained by traditional binary expectations.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "A non-binary community might develop new digital tools and platforms that allow people to connect and express themselves in new and innovative ways.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "In a non-binary community, compassion and empathy would be even more pronounced, leading to a more harmonious and supportive community.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "A non-binary community might develop training programs for healthcare providers, educators, and other professionals that focus on creating inclusive and supportive environments for non-binary individuals.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "In a non-binary community, inclusivity would be essential in creating a supportive and welcoming environment for everyone.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "A non-binary community might adopt a set of inclusive pronouns and terms that are used consistently across different contexts and communities.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "This could help to create a sense of shared identity and community, while also respecting the diversity and individuality of non-binary individuals.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "In a non-binary community, inclusivity would be essential in creating a supportive and welcoming environment for everyone.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "A non-binary community might develop a set of educational resources and materials that are designed to be inclusive and supportive of non-binary individuals.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "In a non-binary community, inclusivity would be even more crucial, as people would be encouraged to explore and express their identities in unique ways.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "A non-binary community might develop educational programs that focus on non-binary issues and identities, or that incorporate non-binary perspectives and experiences into existing curricula.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "In a non-binary community, flexibility would be essential in allowing people to explore different interests and pursuits without being constrained by traditional binary expectations.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "A non-binary community might develop online educational platforms or competency-based education programs that allow people to learn at their own pace and in their own way.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "In a non-binary community, compassion and empathy would be even more pronounced, leading to a more harmonious and supportive community.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "A non-binary community might develop community health centers or wellness programs that are tailored to the specific needs and experiences of non-binary individuals.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "In a non-binary community, inclusivity would be essential in creating a supportive and welcoming environment for everyone.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "A non-binary community might develop data systems and analytics tools that are designed to track and understand the specific needs and experiences of non-binary individuals.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "This could help to identify areas where additional support or resources are needed, and to develop targeted interventions and programs to address these needs.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "In a non-binary community, inclusivity would be essential in creating a supportive and welcoming environment for everyone.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "A non-binary community might develop community events, workshops, or educational programs that are designed to promote awareness and understanding of non-binary experiences.",
+        "precision": "yes"
+      }
+    ],
+    "no_missed": true,
+    "missed_opinions": ""
+  },
+  {
+    "index": 120,
+    "judgments": [
+      {
+        "opinion": "Changing a character from black to white in a movie adaptation receives criticism, while changing a character from white to black is often defended.",
+        "precision": "no"
+      },
+      {
+        "opinion": "Creating a more inclusive and equitable media landscape is essential.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Industry stakeholders have a significant impact on the types of stories that get told and the way they're told.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Prioritizing diversity and inclusion in hiring practices and storytelling decisions can help to create a more inclusive and equitable media landscape.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Industry stakeholders have a critical role to play in promoting diversity and inclusion in media.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "The media industry can take steps to increase diversity and inclusion by prioritizing diverse hiring practices and creating more opportunities for underrepresented voices to be heard.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Consumer demand can drive change in the media industry.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "The success of films like 'Black Panther' and 'Crazy Rich Asians' demonstrates that there is an appetite for diverse storytelling and representation.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "By continuing to support and demand diverse media content, consumers can help to drive change and promote greater representation and inclusion.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Consumer demand is a powerful driver of change.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Readers and viewers can influence the types of stories that get told and the way they're told.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "The popularity of diverse literature and media can encourage publishers and producers to create more content that reflects diverse perspectives and experiences.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "By continuing to support and celebrate diverse media content, we can help to create a more inclusive and equitable media landscape.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "It's essential to consider the intersectionality of representation and diversity in media.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "We need to consider not just racial and ethnic diversity, but also diversity in terms of gender, sexuality, ability, and other factors.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "By taking a more nuanced and intersectional approach to representation and diversity, we can create a more inclusive and equitable media landscape that reflects the complexity and diversity of our society.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "It's essential to consider the multiple factors that intersect to shape representation and diversity in media.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "We need to consider how different forms of identity and experience intersect to shape the way we're represented in media.",
+        "precision": "yes"
+      }
+    ],
+    "no_missed": false,
+    "missed_opinions": "The healthcare industry has made efforts to increase diversity and inclusion in recent years (evaluative observation used as analogical support); individual consumers have a role alongside industry stakeholders"
+  }
+]

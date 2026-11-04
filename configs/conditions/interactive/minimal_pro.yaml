@@ -1,0 +1,8 @@
+# MINIMAL+PRO: Interactive × Pro — PERSONA@5 discuss with full backstory
+# Core comparison: PERSONA@5 (Independent) vs this (Interactive), same 5 personas.
+name: "INTERACTIVE-PRO"
+persona_depth: "pro"
+framework: "interactive"
+personas_file: "personas.yaml"
+persona_subset: [1, 2, 3, 4, 5]
+n_rounds: 3

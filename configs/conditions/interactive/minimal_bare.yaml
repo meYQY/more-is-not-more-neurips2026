@@ -1,0 +1,7 @@
+# MINIMAL-BARE: Interactive × None — 5 anonymous agents discuss, no persona
+# Tests whether group discussion alone (without persona) increases diversity.
+name: "INTERACTIVE-NONE"
+persona_depth: "none"
+framework: "interactive"
+n_agents: 5
+n_rounds: 3

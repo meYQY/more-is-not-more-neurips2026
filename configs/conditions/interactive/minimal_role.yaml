@@ -1,0 +1,7 @@
+# MINIMAL+ROLE: Interactive × Role — PERSONA@5 discuss with role-only persona
+name: "INTERACTIVE-ROLE"
+persona_depth: "role"
+framework: "interactive"
+personas_file: "personas.yaml"
+persona_subset: [1, 2, 3, 4, 5]
+n_rounds: 3

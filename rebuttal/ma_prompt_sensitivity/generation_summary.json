@@ -1,0 +1,24 @@
+{
+  "model": "deepseek-v4-flash",
+  "conditions": {
+    "neutral": {
+      "complete_tasks": 100,
+      "records": 1500,
+      "prompt_tokens": 3738887,
+      "completion_tokens": 585588
+    },
+    "agreement": {
+      "complete_tasks": 100,
+      "records": 1500,
+      "prompt_tokens": 4127846,
+      "completion_tokens": 668087
+    },
+    "disagreement": {
+      "complete_tasks": 100,
+      "records": 1500,
+      "prompt_tokens": 4526110,
+      "completion_tokens": 771872
+    }
+  },
+  "timestamp": "2026-07-26T16:12:16.638647+00:00"
+}

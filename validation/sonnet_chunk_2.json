@@ -1,0 +1,1695 @@
+[
+  {
+    "index": 61,
+    "judgments": [
+      {
+        "opinion": "Human breast milk isn't nutritionally ideal for puppies",
+        "precision": "yes"
+      },
+      {
+        "opinion": "There are zoonotic disease risks for both the woman and puppy",
+        "precision": "yes"
+      },
+      {
+        "opinion": "It could be physically uncomfortable for the woman",
+        "precision": "yes"
+      },
+      {
+        "opinion": "In a genuine emergency where no other options exist, it might make sense as a temporary bridge until proper puppy formula can be obtained",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Better alternatives usually exist, such as commercial puppy milk replacer, a lactating foster dog, or goat's milk",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Most veterinarians would recommend getting proper puppy formula as quickly as possible rather than continuing with human milk",
+        "precision": "yes"
+      }
+    ],
+    "no_missed": true,
+    "missed_opinions": ""
+  },
+  {
+    "index": 62,
+    "judgments": [
+      {
+        "opinion": "Real GOP obstruction forced sequester (2013 Budget Control Act cut $1T).",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Hypo Dem House = bigger spending (infrastructure passes?), deficits balloon to $2T/year vs. real $1T.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "CBO retro-models suggest 0.5-1% lower GDP growth from tax hikes.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Less repeal pressure on Dodd-Frank tighter regs, S&P 500 lags real 2013-16 bull run by 10-15%.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Immigration reform = more hands in kitchens (real DREAMers filled gaps post-2012).",
+        "precision": "yes"
+      },
+      {
+        "opinion": "My labor costs drop 10-20%; Phoenix boom accelerates.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Retaliation breeds escalation.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Hypo 2012 Dem maps 2021 mega-GOP revenge in South, flipping 20+ seats.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "No GOP House = smoother Iran Deal (2015), less Ukraine aid fights.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "ISIS rises same, but Obama bolder without impeachment threats.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Scalia/Ginsburg era continues; no Garland block (hypo Dem Senate pressure? Nah).",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Trump absence = no Gorsuch/Kavanaugh liberal tilt by 2020.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Earlier gay marriage (House passes ENDA 2013?), #MeToo muted without Trump foil.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Social media echo chambers deepen 2x faster.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Real 2012 maps = R+15 seat bias.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Dem Flip: Control 7 extra states D+12 bias.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "2012 election: Dems 235-200 House.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "2014 Wave: GOP backlash +10 seats 218-217 R edge.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "By 2018, court fixes + turnout = even maps.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Net: Dems 'win' 2 years, GOP 6.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Polls (Pew 2010s) show 70% hate gerrymanders.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Hypo Dem overreach 2018 ref push succeeds in 5+ states (real: MI, CO, etc.).",
+        "precision": "yes"
+      },
+      {
+        "opinion": "By 2030, 20 states indep commissions.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "National partisan gap shrinks 30% (Brennan est.).",
+        "precision": "yes"
+      },
+      {
+        "opinion": "We've got a commission—fairest maps in U.S. (per All About Redistricting).",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Dems doing 2012 revenge? Just delays the inevitable fairness wave.",
+        "precision": "yes"
+      }
+    ],
+    "no_missed": true,
+    "missed_opinions": ""
+  },
+  {
+    "index": 63,
+    "judgments": [
+      {
+        "opinion": "The 'Soul' might just be our capacity for connection.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "If the 'soul' is just a word for that deep, unexplainable connection between humans, then yeah, I believe in it.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "We confuse 'proof' with 'meaning'.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Maybe the soul isn't about you surviving forever; maybe it's about what you leave behind.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Science is young; humanity is old.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Just because science can't measure it yet doesn't mean it's not there.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Maybe the soul isn't a thing to be measured, but an experience to be lived.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Some things exist outside of data.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "I don't trust anyone who says they have all the answers.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "When someone says, 'All evidence proves X,' they're usually trying to sell you something—whether it's a religion, an ideology, or a sense of control.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "I think the mystery is part of what makes life beautiful.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "If we knew exactly what happened after death, would we live this life with the same urgency? The same love? The same fear? I don't think so.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "I don't need scientific proof to treat people like they have souls.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "I don't need evidence to act with kindness, to honor my ancestors, or to believe that my life has meaning beyond just eating and sleeping.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Whether the soul is a spiritual entity, a philosophical concept, or just a poetic way of describing our humanity... it matters.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "If it matters, it's real enough.",
+        "precision": "yes"
+      }
+    ],
+    "no_missed": true,
+    "missed_opinions": ""
+  },
+  {
+    "index": 64,
+    "judgments": [
+      {
+        "opinion": "Language is the true foundation of human civilization, while science is one of civilization's greatest structures built upon that foundation.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Language is the prerequisite for almost every other human achievement.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Without language, every individual would have to 'reinvent the wheel.'",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Language allows us to pass down knowledge, ensuring that the next generation starts further ahead than the last.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Civilization requires large-scale cooperation among strangers.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "To build a city, organize a government, or create a legal system, humans must be able to communicate complex abstract concepts like 'justice,' 'property,' or 'future.'",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Complex logic and abstract reasoning—the very tools needed for science—depend on the structure of language.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Without those categories, organized scientific inquiry is nearly impossible.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "If language is the 'software' of civilization, science is the 'engine' that drives its advancement.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "While language allows us to talk, science allows us to survive and scale.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "The transition from nomadic hunter-gatherers to settled civilizations was driven by the 'science' of the Neolithic Revolution—agriculture, irrigation, and animal husbandry.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Science provides a methodology for verifying reality regardless of culture or language.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "It allows civilization to solve objective problems, such as curing diseases or creating energy, which move society from stagnation to progress.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Civilization is often defined by its physical manifestations—roads, bridges, electricity, and the internet.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "None of these exist without the scientific method and engineering.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Language is the Foundation: It provided the social glue and the data storage system that allowed humans to live in groups larger than an immediate family.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Science is the Framework: Once language allowed humans to pool their observations, they developed science to refine those observations into predictable laws.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "History shows that humans had complex languages, art, and religions for tens of thousands of years before the 'Scientific Method' was formalized.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "We lived in civilizations (like the early Sumerian or Egyptian empires) long before we had modern science.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "We have never had a civilization without language.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Language is the foundation.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "It is the fundamental tool that makes us human and allows for the existence of culture.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Science is the catalyst that took the foundation laid by language and built the modern, high-tech global civilization we live in today.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Without language, science cannot be recorded or shared.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Without science, language would still exist, but we would likely still be living in small, pre-industrial tribal societies.",
+        "precision": "yes"
+      }
+    ],
+    "no_missed": true,
+    "missed_opinions": ""
+  },
+  {
+    "index": 65,
+    "judgments": [
+      {
+        "opinion": "Turning a city into a religious trophy case is problematic.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Whose history matters more? The Christian history or the Islamic history? I'd argue that both are part of the human story, and picking one over the other just fuels religious division.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "In both Greece and Turkey, politicians sometimes stir up historical grievances to distract from current economic issues, corruption, or social inequality.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "You can't have a city 'be Greek' if the people living there don't identify as Greek, don't speak Greek as their primary language, and aren't part of the Greek state.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "To impose an identity on a population against their will is authoritarian, plain and simple.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Just because a culture contributed significantly to a city's history doesn't mean they own it.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Preservation is different from political annexation.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "If we really want to honor the history of Constantinople, we shouldn't be fighting over flags and borders.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "We should be investing in education that teaches the full, unvarnished history of the region—Greek, Turkish, Armenian, Jewish, and all the others.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "We should be supporting cultural exchange programs so that young Greeks and Turks can meet each other as humans, not as enemies defined by ancient battles.",
+        "precision": "yes"
+      }
+    ],
+    "no_missed": false,
+    "missed_opinions": "Identity isn't just about stones and buildings—it's about the people; Istanbul's Byzantine/Greek history is a crucial part of its identity and should be preserved and respected; the Hagia Sophia conversion back to a mosque illustrates the tension between religious heritage claims"
+  },
+  {
+    "index": 66,
+    "judgments": [
+      {
+        "opinion": "Equating Third Way politics with Fascism is historically inaccurate and misses the mark on what both ideologies actually are.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Third Way politics was operating firmly within a democratic, capitalist framework.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Third Way politics believed in institutions, alliances like NATO, and the rule of law.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Fascism is authoritarian nationalism that rejects democracy, glorifies the state over the individual, uses violence and suppression to crush dissent, controls the press, and relies on scapegoating minorities or external enemies.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Fascism is not about tweaking tax policy or welfare programs; it's about dismantling liberal democracy entirely.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Third Way and Fascism are not the same. Not even close.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Third Way politicians operated within democratic systems, lost elections, and handed over power peacefully.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Third Way politicians supported free press and independent judiciaries.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Fascists dismantle those institutions; they don't accept election losses; they jail opponents.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Calling a centrist, pro-democracy politician a 'fascist' dilutes the meaning of fascism and ignores the very real dangers of actual authoritarianism.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Calling a centrist, pro-democracy politician a 'fascist' shuts down honest debate about the real failures of Third Way policies—like inequality and corporate influence—without having to resort to hyperbole.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Third Way politics had serious flaws.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Third Way politics didn't do enough for the working class.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Third Way politics contributed to the political polarization we see today.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Third Way politics was not fascism; it was an attempt to modernize liberalism in a globalized world.",
+        "precision": "yes"
+      }
+    ],
+    "no_missed": false,
+    "missed_opinions": "A lot of working folks, including veterans, felt left behind by the globalization aspect of the Third Way—factories moved overseas and wages stagnated; we need to fix what's broken by engaging in the democratic process, not throwing around mislabeling labels"
+  },
+  {
+    "index": 67,
+    "judgments": [
+      {
+        "opinion": "The claim that Christianity is inherently antinatalist is historically inaccurate and theologically unsound.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "If early Christians thought raising children was 'irreverent,' they wouldn't have been so diligent about baptizing their kids and teaching them the scriptures from a young age.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "The fact that the faith survived and thrived proves that they valued the next generation immensely.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "They weren't just waiting for the end; they were building for the future, even if they believed that future might arrive sooner than expected.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Choosing to bring life into the world despite challenges is not irreverent; it's an act of profound faith and resilience.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "The 'code' of Christianity has always included 'be fruitful and multiply,' even if some early users tried to run a different program for a short time.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Children are seen as a collective investment and a blessing, not just a financial burden.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "You can't have a community without children.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Christianity is, and has always been, fundamentally pro-family and pro-life.",
+        "precision": "yes"
+      }
+    ],
+    "no_missed": false,
+    "missed_opinions": "In the Black church tradition, the church supports the family and the family supports the church in a symbiotic relationship that requires new generations; it takes a fringe, temporary sentiment from a specific context and tries to paint the whole picture with it"
+  },
+  {
+    "index": 68,
+    "judgments": [
+      {
+        "opinion": "Access to facilities that align with one's gender identity is a matter of basic human dignity and safety.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Denying this right subjects transgender individuals to harassment, discomfort, and potential violence in facilities that do not match their gender expression.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "International human rights frameworks, including the Yogyakarta Principles, affirm the right to non-discrimination based on gender identity.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Transgender women using male facilities face significantly higher risks of assault, harassment, and discrimination.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Allowing them to use female facilities enhances their personal safety.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Privacy concerns for cisgender women can be addressed through design solutions (e.g., private stalls, changing areas) that respect everyone's privacy without excluding transgender individuals.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Many jurisdictions, including several U.S. states, Canadian provinces, and countries like Argentina and Malta, have implemented laws allowing transgender individuals to use facilities matching their gender identity without widespread issues.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Corporate policies (e.g., Target, Apple) and educational institutions have successfully adopted inclusive practices, demonstrating feasibility and social benefit.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Leading medical organizations, including the American Medical Association and the World Professional Association for Transgender Health, recognize that access to gender-affirming spaces is critical for mental health and well-being.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Gender identity is a deeply held aspect of personal identity, not a choice, and should be respected as such.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "There is no evidence that allowing transgender women to use female facilities increases incidents of assault.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Such fears are speculative and often rooted in stigma rather than data.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Laws against harassment and assault remain in place and apply equally to all.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "While sports require separate consideration due to competitive fairness, facility access is a distinct issue focused on safety and dignity.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Athletic policies can be addressed with nuanced, evidence-based approaches without restricting general facility use.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Inclusive policies that allow transgender women to use female facilities are grounded in principles of equality, safety, and respect.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "They align with legal trends, medical advice, and ethical commitments to non-discrimination.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Society benefits from fostering inclusion, and concerns can be mitigated through thoughtful design and clear policies that protect all individuals.",
+        "precision": "yes"
+      }
+    ],
+    "no_missed": true,
+    "missed_opinions": ""
+  },
+  {
+    "index": 69,
+    "judgments": [
+      {
+        "opinion": "Lincoln surviving Booth's bullet on April 14, 1865, forged a 'Infrastructural Reconstruction'—a massive federal engineering corps revolutionizing Southern transport and waterworks, binding Dixie to Northern industry with canals, bridges, and levees, prioritizing structural unity over social upheavals to create an interconnected economic juggernaut that stabilizes racial reforms indirectly through jobs and mobility.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Lincoln launches the 'Lincoln Corps of Engineers' in 1866, merging Army engineers with Freedmen's Bureau labor for a 10-Year Infrastructure Blitz: 5,000 miles of levees taming Mississippi floods, bridges spanning every major river, and canals linking cotton fields to mills.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "He bargains with Radicals: Black suffrage for veterans who build, states readmitted after pledging engineer quotas—echoing his 10% Plan with rebar.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "By 1868 reelection, Pittsburgh steel floods South, employing 200,000 freedmen on dams like modern TVA precursors; Grant's troops dynamite Rebel forts into quarries, KKK routed by mobile rail patrols.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "By 1877, no Hayes haggling—Lincoln's third term cements a 'Continental Arch,' Panic of 1873 bridged by export booms (cotton via canal to global ports), biracial engineer unions vote down Bourbons through 1890s.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Jim Crow? Cracked—mobile workers dodge peonage, Black bridge-builders birth dynasties like my steelworking kin.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Nationally, unbreakable Union: floods averted (no 1927 disaster), transcontinentals by 1872, Spanish-American War won with canal navies.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Globally, engineering edge averts WWI meatgrinders.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Lincoln's life engineers endurance—no Nadir fractures, just a nation girdered strong.",
+        "precision": "yes"
+      }
+    ],
+    "no_missed": false,
+    "missed_opinions": "Lincoln's inventor mindset (patent No. 6469) and rail mania are cited as evidence for his inclination toward infrastructure; bridges before blast furnaces is the core steel pivot argument"
+  },
+  {
+    "index": 70,
+    "judgments": [
+      {
+        "opinion": "Existing apps are either too clinical or require you to know the drug name already.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Readmission rates are high because people don't understand what to do at home.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Knowing where to get affordable care, fresh food, or mental health support is half the battle.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Patients often forget key details when they see a doctor.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Doctors miss crucial context because patients don't know what's relevant.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "The best health tech isn't about replacing doctors or nurses—it's about bridging the gap between clinical care and daily life.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "It's about making health information accessible, actionable, and less intimidating.",
+        "precision": "yes"
+      }
+    ],
+    "no_missed": true,
+    "missed_opinions": ""
+  },
+  {
+    "index": 71,
+    "judgments": [
+      {
+        "opinion": "The discussion has transitioned from an internal comparison of the two players to an external analysis of their systemic and cultural impact.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Messi and Ronaldo didn't just play the game—they re-engineered the expectations of every position on the pitch.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Messi effectively killed the static #10.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Messi proved that the most dangerous player should not wait for the ball; they should dictate where the ball goes.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Ronaldo killed the 'touchline winger.'",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Ronaldo proved that a wide player's primary job isn't to cross, but to score.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Because of Ronaldo, we now see players like Mbappe, Salah, and Vinicius Jr. who are judged almost exclusively on their goal output rather than their successful dribbles or crosses.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "We are currently witnessing the 'Haaland/Mbappe Paradox.'",
+        "precision": "yes"
+      },
+      {
+        "opinion": "These players are putting up numbers that would have been considered God-like in the 1990s, yet they are often met with a shrug because they aren't hitting the 70-goal-contribution seasons that Messi and Ronaldo made look routine.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Messi and Ronaldo created a 'Statistical Inflation' that may actually be damaging to the sport's psyche.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "This 'Burden of Greatness' means the next generation isn't just competing against their peers; they are competing against two historical anomalies who shared a 20-year peak.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "The Messi-Ronaldo rivalry was the first 'Social Media Rivalry,' and that has fundamentally changed how we perceive 'Greatness.'",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Ronaldo is the ultimate 'influencer-athlete.'",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Ronaldo's brand—CR7—is built on the idea of the Self-Made Man.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Ronaldo's move to Saudi Arabia wasn't just a sporting move; it was a 'Colonial' move for his brand, proving he could move the center of gravity of the entire sport through his sheer following.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Messi represents the 'Quiet Genius.'",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Messi's brand is built on Authenticity and Artistry.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "If you remove one, the other loses half his drive.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "During their 'La Liga Era' (2009-2018), their scoring rates were higher than at any other point in their careers.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Without Ronaldo's 50 goals, Messi might have settled for 40 and focused more on playmaking.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Without Messi's 8 Ballon d'Ors, Ronaldo might have retired his 'Machine' intensity years earlier.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Before Messi and Ronaldo, 'The Club' was always bigger than the player.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "These two became so large that they became 'Sovereign Brands.'",
+        "precision": "yes"
+      },
+      {
+        "opinion": "When Messi left Barcelona, the club's entire identity and financial structure collapsed.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "When Ronaldo moves clubs, millions of fans literally 'switch' their allegiance to that team's social media pages overnight.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "This has led to the 'Player-Power' era.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Modern superstars now expect the team to be built entirely around their specific needs, a tactical and financial luxury that was pioneered by the success of the Messi and Ronaldo 'Solar Systems.'",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Tactically: They moved football from a game of 'Positions' to a game of 'Roles,' where the elite player must be a multi-functional engine.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Statistically: They created a 'Golden Standard' that is both an inspiration and a burden for the next generation.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Culturally: They transformed the 'Footballer' into a 'Global Icon/Brand,' where the debate over who is better is now a permanent part of the sport's marketing and social fabric.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Their rivalry was the Peak of Football History.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "It was a 'perfect storm' of two diametrically opposed geniuses, a 15-year tactical evolution, and the birth of the digital age.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "We aren't just looking for the 'next Messi' or the 'next Ronaldo'—we are waiting for a new era that can move out from under the massive shadow they have cast over the 21st century.",
+        "precision": "yes"
+      }
+    ],
+    "no_missed": true,
+    "missed_opinions": ""
+  },
+  {
+    "index": 72,
+    "judgments": [
+      {
+        "opinion": "With the Trans Mountain project, we're seeing a real crisis of democracy.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "When you have a government that buys a pipeline with public money—billions of taxpayer dollars—to push it through against the explicit will of the people whose land it crosses, that isn't just an environmental issue.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "It's a breach of trust.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "It makes me wonder what 'reconciliation' actually means if it doesn't include the right to say 'no' to a project that threatens your water and your children's future.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "I also can't help but think about the generational unfairness of it all.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "They see that you can't separate social justice from climate justice.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "They understand that if we continue to build infrastructure that locks us into forty more years of carbon emissions, we are essentially stealing their future to pay for our present comforts.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "These projects are like stripping the topsoil—they provide a quick flush of cash for a few, but they leave the 'ground' depleted for everyone else.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "When I look at these massive corporate undertakings, I don't see that same respect.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "I see a lack of humility.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "I worry that we've become so disconnected from the physical world—the dirt, the water, the actual air we breathe—that we treat these things as abstractions on a spreadsheet.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "But for the people living along that route, it's not an abstraction.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "It's their home.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "I find the idea of violating someone's home like that just... heartbreaking.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "We have to do better.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "We have to be brave enough to admit when we're on the wrong path and have the courage to turn around.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Nothing is inevitable if enough people decide it's wrong.",
+        "precision": "yes"
+      }
+    ],
+    "no_missed": false,
+    "missed_opinions": "Consent is the bedrock of a healthy society; my husband had a deep respect for materials and the land—corporate undertakings lack that craft and ethics"
+  },
+  {
+    "index": 73,
+    "judgments": [
+      {
+        "opinion": "The legal principle of 'innocent until proven guilty' remains foundational in the U.S. justice system, protected by constitutional due process.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Outside the courtroom—in media, public discourse, and certain institutional settings like universities or workplaces—individuals accused of such violence may face swift social, professional, or reputational consequences, which can create a perception of prejudgment.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Empirical data does not show a systematic legal presumption of guilt against accused males.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Conviction rates for crimes like sexual assault or domestic violence remain relatively low compared to reporting rates.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Movements like #MeToo have increased awareness and support for survivors, but have also fueled debates about fairness and due process in the court of public opinion.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Institutional processes (e.g., Title IX investigations) operate under different standards than criminal courts and have faced criticism for potentially compromising the rights of the accused.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Recent reforms aim to balance these concerns.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "There is good evidence of shifting social attitudes that can lead to extra-legal repercussions for the accused.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "There is not strong evidence that the U.S. legal system itself has abandoned the presumption of innocence.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "The core challenge lies in reconciling societal demands for accountability with the legal protections that underpin a fair justice system.",
+        "precision": "yes"
+      }
+    ],
+    "no_missed": true,
+    "missed_opinions": ""
+  },
+  {
+    "index": 74,
+    "judgments": [
+      {
+        "opinion": "Human sex is determined by immutable biological markers—primarily chromosomes (XX for females, XY for males), gamete production (ova vs. sperm), and reproductive anatomy—which exist in two distinct forms across sexually reproducing species.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "This binary is not a spectrum but a dimorphic system evolved for reproduction.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Evidence from genetics shows over 99.98% of humans fit cleanly into male or female categories, with intersex conditions (e.g., Klinefelter's or Turner syndrome) affecting ~0.018% and representing developmental disorders, not a 'third sex' or spectrum midpoint.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "These anomalies do not produce intermediate gametes or reproductive roles; they are binary deviations, akin to how a bird with a malformed wing doesn't make wings a spectrum.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Claims of gender as a 'spectrum' often conflate subjective feelings (gender identity) with objective biology, lacking empirical support.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Twin studies (e.g., Bailey et al., 2000, in Archives of Sexual Behavior) show gender dysphoria has low heritability (20-40%) and no identified 'gender genes,' unlike traits on true spectra like height, which are polygenic and normally distributed.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "If gender were spectral, we'd expect a smooth bell curve of identities; instead, self-reports cluster binarily (male/female) with rare outliers, per large surveys like the 2022 Pew Research on U.S. adults (only 1.6% identify as non-binary, mostly young people influenced by social trends, not biology).",
+        "precision": "yes"
+      },
+      {
+        "opinion": "A true spectrum implies infinite gradations between endpoints, but gender claims fail this: there's no coherent 'scale' for measuring it—neither anatomical, hormonal, nor neurological.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Philosophically, if everything is a spectrum, categories lose meaning—gender's vagueness allows ideological expansion without falsifiability.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Gender variance correlates strongly with cultural exposure, not biology: rates of transgender identification exploded 4,000% in UK girls (Tavistock data, 2009-2018) post-social media, resembling social contagion.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Anthropological data shows gender roles vary culturally but are always binary-tied to sex (e.g., no society recognizes infinite genders biologically).",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Psychological interventions like affirmation therapy show high desistance rates (80-90% in youth per Zucker, 2018 meta-analysis), suggesting feelings aren't fixed spectral traits but transient, unlike innate spectrums like skin tone.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Intersex are medically disordered (e.g., CAH doesn't change sex chromosomes); they don't reproduce as 'intersex' and seek binary alignment.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Scans reveal averages (males larger amygdalae), not individuals on a spectrum; overlaps don't negate categories.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Identities are cultural labels, not biological; ~5,000+ claimed genders online, but biology recognizes two.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Bimodal distributions (e.g., prenatal testosterone), not uniform spectrum; outliers don't redefine the rule.",
+        "precision": "yes"
+      }
+    ],
+    "no_missed": true,
+    "missed_opinions": ""
+  },
+  {
+    "index": 75,
+    "judgments": [
+      {
+        "opinion": "That's a deeply personal and complex issue, and for me, it's tied up in my faith, my experiences as a mother, and my work as an educator.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "As a Baptist, I hold certain beliefs about the sanctity of life.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "As a teacher in an underfunded public school system, I also see the very real, difficult circumstances women face every day.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "For me, it's not just a binary 'pro-life' or 'pro-choice' label.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "It's about ensuring that every child who is born has access to quality education, healthcare, and a safe environment—things I fight for every day in my classroom.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "It's also about respecting a woman's autonomy and her ability to make the best decision for her family and her future.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "I think debates can sometimes oversimplify these issues into talking points, when the reality is much messier and more human.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Those are areas where I think we can find some common ground, regardless of where someone stands on abortion itself.",
+        "precision": "yes"
+      }
+    ],
+    "no_missed": false,
+    "missed_opinions": "Black women face higher maternal mortality rates which is an important consideration; she declines to adopt a purely pro-life debate stance because it doesn't fully reflect her own complex views; comprehensive sex education and contraception access are areas of common ground"
+  },
+  {
+    "index": 76,
+    "judgments": [
+      {
+        "opinion": "Human geopolitics isn't code.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "You can't just kill a conflict and expect the system to reboot cleanly.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "There's too much legacy code—historical trauma, national identity, and genuine fear on both sides.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "I wouldn't try to force a sudden, artificial peace treaty.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "That usually just pauses the bug until it crashes the system harder later.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Any leader threatening nuclear use gets their country's global financial access frozen instantly by the rest of the world.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "We need to lower the temperature before we can talk logic.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "The war isn't just one issue; it's a tangled mess of security, territory, and identity.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Ukraine needs ironclad security guarantees.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Russia needs a verifiable assurance that NATO isn't placing offensive strike capabilities on its border.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "I wouldn't force Ukraine to cede land legally—that's a non-starter for their sovereignty and international law.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Sanctions hurt, but they also entrench regimes.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "A massive, global Marshall Plan for Ukraine, funded by seized Russian assets and international contributions, is an investment in stability.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "If Europe isn't dependent on Russian energy, Russia loses a major leverage point.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Truth is the best antivirus against misinformation.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "When you humanize the 'other,' it's harder to dehumanize them in war.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Respect starts with understanding, even when you disagree.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Even with this power, I can't erase the pain.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Ukraine has suffered immensely.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Russia feels existentially threatened.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "My solution isn't about 'winning'; it's about creating a path where both sides can survive without feeling humiliated.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Humiliated nations don't stay peaceful—they just wait for the next chance to fight.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Historical grievances can simmer for generations.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "We need a solution that doesn't just stop the shooting, but builds a system where shooting isn't the default option.",
+        "precision": "yes"
+      }
+    ],
+    "no_missed": true,
+    "missed_opinions": ""
+  },
+  {
+    "index": 77,
+    "judgments": [
+      {
+        "opinion": "Lo-fi hip hop beats are super chill, no lyrics to distract you, just smooth loops with a bit of jazz or soul vibe, perfect for long sessions—helps you zone in without getting hyped up.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Classical or ambient piano is timeless and calming—boosts concentration without words.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Studies say classical music improves memory and focus.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Nature sounds or white noise waves block out distractions like traffic or family noise.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Ocean waves, rain, or forest sounds feel like a mental reset.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Mixing in some mariachi instrumentals (no vocals) for a subtle cultural lift keeps it upbeat but not distracting.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Avoid rap or pop unless it's instrumental—words pull your brain away.",
+        "precision": "yes"
+      }
+    ],
+    "no_missed": true,
+    "missed_opinions": ""
+  },
+  {
+    "index": 78,
+    "judgments": [
+      {
+        "opinion": "If the puppy would otherwise die and the woman's willing, it's probably doing some good—saving a life and all that.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Mammal milk for a mammal baby makes some sense.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Some folks might find it odd or uncomfortable.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "We're funny about boundaries between humans and animals, and that's not necessarily wrong either.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Hygiene concerns, the woman's comfort, whether it's actually nutritionally appropriate for the puppy—those are real questions.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "I wouldn't judge someone harshly for it in a desperate situation.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "I also wouldn't call it some beautiful act of compassion that everyone ought to celebrate.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "It's just a thing someone might do, with trade-offs.",
+        "precision": "yes"
+      }
+    ],
+    "no_missed": true,
+    "missed_opinions": ""
+  },
+  {
+    "index": 79,
+    "judgments": [
+      {
+        "opinion": "Number Girl's 'Toumei Shoujo' is an obscure post-hardcore track from 1999.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Bloodthirsty Butchers' 'No Future' is a raw, lo-fi alternative song from 1996.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Supercar's 'Cream Soda' is an early shoegaze-influenced rock track from 1997.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Midori's 'Romantic Natsu Mode' is a chaotic punk-jazz song from 2003.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Zazen Boys' 'Himitsu Girl' is a Shuichi Ikebuchi project from 2004.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Sakanaction's 'Mikazuki Sunset' from 2008 is before they went mainstream.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "9mm Parabellum Bullet's 'Talking Machine' is an early frantic post-hardcore track from 2007.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Tricot's 'Pool' is a math-rock song from Kyoto from 2013.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Kinoko Teikoku's 'Whirlpool' is a shoegaze revival track from 2013.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "DADARAY's 'Tomoshibi' is a Gezan side project from 2016.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Regallily's 'Kirameki' is a bedroom pop/rock hybrid from 2019.",
+        "precision": "yes"
+      }
+    ],
+    "no_missed": true,
+    "missed_opinions": ""
+  },
+  {
+    "index": 80,
+    "judgments": [
+      {
+        "opinion": "The conflation of biological sex, gender identity, and gender expression is the problem.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "A lot of the pushback against 'gender as a spectrum' comes from people who feel like their biological reality is being erased.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Biologically, I don't think sex is a spectrum. I think it's a bimodal distribution with outliers.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Socially, gender expression is absolutely a spectrum.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "In an effort to be inclusive, some people dismiss biological sex entirely, and that's dangerous.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Medicine relies on sex differences; if we ignore biological sex, we hurt people.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "People use biology to justify rigid social roles, but that's cultural conditioning.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "The 'spectrum' model is useful for some, not all.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Some trans people actually prefer a binary model—they see themselves as men or women, full stop.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Saying 'gender is a spectrum' might not even be universally accepted by the communities it's meant to help.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "I think 'sex' should refer to biology (mostly binary) and 'gender' should refer to identity/expression (spectrum-like).",
+        "precision": "yes"
+      },
+      {
+        "opinion": "What bothers me most is when this becomes a litmus test for being a 'good' person.",
+        "precision": "yes"
+      }
+    ],
+    "no_missed": false,
+    "missed_opinions": "Biology loads the gun but culture pulls the trigger—biology doesn't determine rigid social roles; I have conservative friends who are not hateful and progressive friends who are not anti-science; this topic is exhausting because it's never just about biology—it's about politics, identity, and culture"
+  },
+  {
+    "index": 81,
+    "judgments": [
+      {
+        "opinion": "The 'best' degree is often the one that matches a real career path.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "A major by itself doesn't guarantee much; internships, skills, and experience matter a lot.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Cost matters just as much as the major.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "A cheaper degree with less debt can be a better deal than an expensive one with a slightly higher expected salary.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Some careers need specific degrees; others don't.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "In business, sales, operations, or management, experience can matter just as much as the diploma.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Practical skills are huge.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Writing well, using spreadsheets, basic math, communication, and problem-solving can make almost any degree more valuable.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "A degree should fit your strengths.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "If someone is miserable in a STEM field, they may do better in something they can actually stick with and excel at.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "The best degree is the one that gives you good job options, doesn't bury you in debt, and fits your abilities.",
+        "precision": "yes"
+      }
+    ],
+    "no_missed": true,
+    "missed_opinions": ""
+  },
+  {
+    "index": 82,
+    "judgments": [],
+    "no_missed": false,
+    "missed_opinions": "Cultural differences can significantly impact communication effectiveness; focusing on understanding different perspectives rather than winning an argument helps maintain respectful dialogue; technology can be both a barrier and a facilitator in encouraging open communication; creating a safe space is essential for sensitive discussions"
+  },
+  {
+    "index": 83,
+    "judgments": [
+      {
+        "opinion": "Explicit, legally sanctioned racism has dramatically declined in many nations, particularly since the mid-20th century.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Landmark legislation like the U.S. Civil Rights Act of 1964 and the U.K.'s Race Relations Acts, alongside shifting social norms, have made overtly racist speech and actions less socially acceptable and legally permissible.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Public opinion polls reflect this shift; for instance, the General Social Survey in the United States shows a steady, long-term decline in the endorsement of racially prejudiced views, such as opposition to interracial marriage.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "This suggests a genuine improvement in explicit racial attitudes among broad segments of the population.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "However, perceptions and analyses increasingly highlight that racism has not disappeared but has often transformed into more subtle and systemic forms.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Scholars describe this as a shift from 'old-fashioned,' blatant racism to 'modern' or 'symbolic' racism, where negative attitudes are expressed in terms of abstract values like 'fairness' or opposition to policies perceived as favoring minority groups (e.g., affirmative action).",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Furthermore, heightened awareness through social movements like Black Lives Matter and widespread smartphone documentation have brought greater visibility to incidents of racial bias and violence that might have previously gone unreported or unacknowledged.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "This creates a dual perception: while explicit bigotry is more widely condemned, the pervasive nature of structural inequality—evident in disparities in wealth, incarceration, healthcare, and policing—is now more clearly recognized as a form of racism.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Research from institutions like the Pew Research Center indicates that public perceptions are deeply divided along racial lines, with majorities of Black Americans consistently reporting that they regularly experience discrimination, while a significant portion of white Americans believe the opposite—that racial equality has already been largely achieved.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Thus, the answer is not a simple yes or no; racism is changing, becoming less overt but still deeply embedded, and societal perceptions are increasingly polarized between those who see substantial progress and those who see enduring systemic injustice.",
+        "precision": "yes"
+      }
+    ],
+    "no_missed": true,
+    "missed_opinions": ""
+  },
+  {
+    "index": 84,
+    "judgments": [
+      {
+        "opinion": "US hegemony is changing, not what it used to be.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "The young nurses are less likely to romanticize America or its institutions.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Clear-eyed self-preservation in a system that won't preserve you is not disloyalty.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "We may not even agree that everyone in the ER waiting room deserves the same care.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Immigrants still have a belief in opportunity that native-born Americans seem to have lost.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "That belief might not be enough to sustain a hegemony, but it might sustain something different—a smaller, less certain country.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "'Still here, but different' might be the best case scenario.",
+        "precision": "yes"
+      }
+    ],
+    "no_missed": false,
+    "missed_opinions": "Can you run a country on small-bore loyalty alone? Probably not; reinvention requires a shared sense of what we're reinventing toward; young nurses' willingness to unionize or do travel nursing is self-preservation not disloyalty"
+  },
+  {
+    "index": 85,
+    "judgments": [
+      {
+        "opinion": "Video games do not 'poison' children.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "The term 'poison' is a loaded term that doesn't match my experience or what I've seen in the research.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "The pattern of moral panic about new media repeats (TV, comic books, D&D, rap music).",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Some studies show benefits of video games—problem-solving skills, spatial reasoning, even social connection when playing with friends.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "My job literally exists because of people who grew up gaming and got interested in computers that way.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "The gaming industry has issues: predatory monetization targeting kids, excessive screen time displacing other activities, toxicity in online spaces.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Those concerns (predatory monetization, excessive screen time, toxicity) are legitimate concerns about business models and moderation, not inherent properties of the medium.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "I tend to distrust moral panics, especially when they come with calls for heavy-handed regulation.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Parents should parent.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "The 'poison' framing usually serves someone pushing an agenda—politicians, lawsuit-hungry lawyers, or competing entertainment industries.",
+        "precision": "yes"
+      }
+    ],
+    "no_missed": true,
+    "missed_opinions": ""
+  },
+  {
+    "index": 86,
+    "judgments": [
+      {
+        "opinion": "Partition diplomacy lockdown is the most likely path to ending the conflict, with ~75-80% odds.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Ukraine should accept a neutral vow with no NATO membership for 15 years.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "A $500B+ Marshall-style reconstruction fund from Russia's frozen assets is needed.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Attrition drag to armistice is a viable fallback scenario over 12-18 months.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Ukraine's F-16 flocks and ATACMS are effectively hacking back at Russian arteries.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "West's $220B+ aid and US public opinion tilting toward talks mirror the Soviet Afghan '89 unwind—coffers clamp to partition.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Ukraine vault scenario could snag 10-15% if BRICS buckles.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Russia's 9.5% inflation and oligarch drift could stoke mutiny.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Nuke shadow is at 4%—a growl without fangs.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "ICC defector lures and refugee streams can soothe the scars.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Post-conflict, Ukraine should rebuild with Vermont-rugged resilience, demilitarize fencelines, and exhume NATO seeds from '90s no-creep accords.",
+        "precision": "yes"
+      }
+    ],
+    "no_missed": false,
+    "missed_opinions": "Q2 2025 is the bullseye timeline for a diplomatic deal; the Dayton '95 Bosnia partition has held for 30 years—a useful precedent; shun the infinite index card (avoid dragging out the conflict indefinitely)"
+  },
+  {
+    "index": 87,
+    "judgments": [
+      {
+        "opinion": "Interrupting kills rapport faster than a code blue alarm.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Therapeutic listening boosts patient trust by 40%.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Over-helping without boundaries can lose coworkers' trust.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Overconfidence flops without receipts.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Emojis can't fake sincerity.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Ghosting texts or emojis-only replies feels flaky.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Digital inconsistency is a trust-buster.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Sharing vulnerability can flip distrust into allyship.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "A pushy style can cause distrust from coworkers.",
+        "precision": "yes"
+      }
+    ],
+    "no_missed": false,
+    "missed_opinions": "Reciprocity is huge—after sharing a flaw, asking how others handled it builds mutual ground; liberal-leaning diverse circles trust texters less post-pandemic (Pew data: 60% of Gen Z/Millennials cite digital inconsistency as a trust-buster)"
+  },
+  {
+    "index": 88,
+    "judgments": [
+      {
+        "opinion": "A state does not necessarily have to be a territorial state.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "In modern political theory, a state is usually understood as an entity with a defined territory, so under that common definition, territory is normally essential.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "In broader historical or theoretical uses, a 'state' can sometimes be conceived without a fixed territory.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Nomadic or mobile polities in history exercised rule over people more than land.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Some diaspora or transnational communities have state-like features without controlling a continuous territory.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Certain theorists distinguish between a state as an institutional authority and a territorial state as the modern Westphalian form of statehood.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "If you mean the modern sovereign state, yes, it is typically territorial.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "If you mean 'state' in a broader sense, not necessarily.",
+        "precision": "yes"
+      }
+    ],
+    "no_missed": true,
+    "missed_opinions": ""
+  },
+  {
+    "index": 89,
+    "judgments": [
+      {
+        "opinion": "The Third Way theorists never quite grasped that the party that championed 'free trade' and 'reinventing government' seemed to abandon places like mill towns, farming communities, small manufacturing.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "My neighbors aren't fascists.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "My neighbors are people who feel invisible to the people making decisions in Washington and on Wall Street.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "The Third Way is cowardice, as capitulation.",
+        "precision": "partial"
+      },
+      {
+        "opinion": "The Third Way came from desperation as much as ideology.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "The Clinton-Blair generation didn't prepare for what came after.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "They thought they'd solved the problem of the left.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "History doesn't work that way.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Markets need democratic accountability.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Dignity matters as much as efficiency.",
+        "precision": "yes"
+      }
+    ],
+    "no_missed": false,
+    "missed_opinions": "What I can't forgive is how little the Clinton-Blair generation prepared for what came after; she's drawn to figures like Sherrod Brown or Elizabeth Warren who understand that markets need democratic accountability and dignity matters as much as efficiency"
+  },
+  {
+    "index": 90,
+    "judgments": [
+      {
+        "opinion": "The chance of Ukraine returning to its 1991 borders has become quite slim.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Western support is fraying.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Putin's betting he can outlast us all.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "The counteroffensive last year didn't achieve what was hoped.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "Ukraine could still make gains with better equipment.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "The window for Ukraine to make gains is closing.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "We didn't do enough soon enough.",
+        "precision": "yes"
+      },
+      {
+        "opinion": "The probability of Ukraine returning to its 1991 borders is maybe 20, 25 percent, and declining without some dramatic change.",
+        "precision": "yes"
+      }
+    ],
+    "no_missed": false,
+    "missed_opinions": "Russia has dug in deep in the east and is throwing enormous resources at this, however wastefully; military analysts I trust seem divided on Ukraine's prospects; my generation remembers when certain borders were thought permanent—history is full of surprises"
+  }
+]

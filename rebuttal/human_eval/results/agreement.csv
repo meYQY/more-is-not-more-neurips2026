@@ -1,0 +1,9 @@
+study,sample,contrast,coding,items,judgments,judgments_in_multi_rated_items,pairwise_percent_agreement,krippendorff_alpha_nominal,observed_disagreement,expected_disagreement
+A,all_paid,role_basic,Role/Basic/Tie/Unable nominal,42,84,84,0.5238095238095238,0.2975031739314431,0.47619047619047616,0.6778542742398164
+A,all_paid,role_pro,Role/Pro/Tie/Unable nominal,42,84,84,0.42857142857142855,0.13051069402007864,0.5714285714285714,0.6572002294893862
+B,all_paid,,Same/Related/Different/Unable nominal,0,0,0,,,,
+B,all_paid,,Same/no-Same/Unable nominal,0,0,0,,,,
+A,qc_filtered,role_basic,Role/Basic/Tie/Unable nominal,42,84,84,0.5238095238095238,0.2975031739314431,0.47619047619047616,0.6778542742398164
+A,qc_filtered,role_pro,Role/Pro/Tie/Unable nominal,42,84,84,0.42857142857142855,0.13051069402007864,0.5714285714285714,0.6572002294893862
+B,qc_filtered,,Same/Related/Different/Unable nominal,0,0,0,,,,
+B,qc_filtered,,Same/no-Same/Unable nominal,0,0,0,,,,

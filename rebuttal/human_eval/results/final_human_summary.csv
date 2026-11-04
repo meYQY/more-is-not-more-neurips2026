@@ -1,0 +1,22 @@
+section,contrast,metric,value,ci_low,ci_high,notes
+sample,overall,sessions,28,,,25 main + 3 pilot
+sample,overall,unique_annotators,27,,,one cross-listing repeat
+sample,overall,judgments,168,,,84 per contrast
+distribution,role_basic,role,32,,,38.10%
+distribution,role_basic,basic,24,,,28.57%
+distribution,role_basic,tie,27,,,32.14%
+distribution,role_basic,unable,1,,,1.19%
+distribution,role_pro,role,37,,,44.05%
+distribution,role_pro,pro,23,,,27.38%
+distribution,role_pro,tie,24,,,28.57%
+distribution,role_pro,unable,0,,,0%
+inference,role_basic,triplet_cluster_D,-0.0952380952,-0.2857142857,0.0952380952,other minus Role
+inference,role_basic,pid_cluster_D,-0.0952380952,-0.2643678161,0.0740740741,12 judgments from repeated annotator clustered together
+inference,role_pro,triplet_cluster_D,-0.1666666667,-0.3571428571,0.0238095238,other minus Role
+inference,role_pro,pid_cluster_D,-0.1666666667,-0.3571428571,0.0111111111,12 judgments from repeated annotator clustered together
+agreement,role_basic,pair_agreement,0.5238095238,,,42 double-rated items
+agreement,role_basic,nominal_alpha,0.2975031739,,,Krippendorff alpha
+agreement,role_pro,pair_agreement,0.4285714286,,,42 double-rated items
+agreement,role_pro,nominal_alpha,0.1305106940,,,Krippendorff alpha
+sensitivity,role_basic,first_exposure_raw_D,-0.0963855422,,,83 judgments; later repeated Tie removed
+sensitivity,role_pro,first_exposure_raw_D,-0.1666666667,,,84 judgments; unchanged

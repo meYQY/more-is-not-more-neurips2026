@@ -1,0 +1,65 @@
+[
+  {
+    "a": "independent-none",
+    "b": "independent-role",
+    "label": "None vs Role",
+    "n_tasks": 100,
+    "beta_vs_mean": 4.219237638791403,
+    "unique_cluster_ratio_a": 0.2986027302451685,
+    "unique_cluster_ratio_b": 0.4173294224652517
+  },
+  {
+    "a": "independent-none",
+    "b": "independent-basic",
+    "label": "None vs Basic",
+    "n_tasks": 100,
+    "beta_vs_mean": 3.4313066666126253,
+    "unique_cluster_ratio_a": 0.28046844113176617,
+    "unique_cluster_ratio_b": 0.2950849385917413
+  },
+  {
+    "a": "independent-none",
+    "b": "independent-pro",
+    "label": "None vs Pro",
+    "n_tasks": 100,
+    "beta_vs_mean": 4.103866005420685,
+    "unique_cluster_ratio_a": 0.3074430935483523,
+    "unique_cluster_ratio_b": 0.3803203565240503
+  },
+  {
+    "a": "independent-basic",
+    "b": "independent-pro",
+    "label": "Basic vs Pro",
+    "n_tasks": 100,
+    "beta_vs_mean": 3.9311433023611704,
+    "unique_cluster_ratio_a": 0.3000526379415795,
+    "unique_cluster_ratio_b": 0.35711943154211695
+  },
+  {
+    "a": "independent-pro-5",
+    "b": "sequential-pro-5",
+    "label": "Indep vs Seq (5-persona Pro)",
+    "n_tasks": 100,
+    "beta_vs_mean": 6.627075116713843,
+    "unique_cluster_ratio_a": 0.5739365488417093,
+    "unique_cluster_ratio_b": 0.7142482500482464
+  },
+  {
+    "a": "independent-pro-5",
+    "b": "interactive-pro",
+    "label": "Indep vs Int (5-persona Pro)",
+    "n_tasks": 100,
+    "beta_vs_mean": 5.954032525142034,
+    "unique_cluster_ratio_a": 0.5626577680232675,
+    "unique_cluster_ratio_b": 0.648027163926813
+  },
+  {
+    "a": "sequential-pro-5",
+    "b": "interactive-pro",
+    "label": "Seq vs Int (5-persona Pro)",
+    "n_tasks": 100,
+    "beta_vs_mean": 8.26093847624461,
+    "unique_cluster_ratio_a": 0.6659395558526646,
+    "unique_cluster_ratio_b": 0.5752533323780319
+  }
+]

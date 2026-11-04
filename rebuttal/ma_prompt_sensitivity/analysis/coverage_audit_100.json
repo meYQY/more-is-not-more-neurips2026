@@ -1,0 +1,26 @@
+{
+  "created_at": "2026-07-26T20:04:54.503370+00:00",
+  "status": "PASS",
+  "errors": [],
+  "n_tasks": 100,
+  "raw_records": 1500,
+  "unique_new_generation_calls": 1000,
+  "generation_model": "deepseek-v4-flash",
+  "finish_reason_stop_required": true,
+  "prompt_tokens_rounds_2_3": 3914050,
+  "completion_tokens_rounds_2_3": 486280,
+  "estimated_generation_cost_usd": 0.6841254,
+  "coverage_opinion_counts": {
+    "all_rounds": 11882,
+    "rounds_2_3": 7961
+  },
+  "embedding_model": "text-embedding-3-small",
+  "embedding_dimensions": 1536,
+  "preregistered_success": {
+    "primary": "Rounds-2-3 coverage-minus-neutral MPD task-bootstrap 95% CI is entirely positive.",
+    "secondary": "Rounds-2-3 rarefied CC or VS is directionally higher.",
+    "primary_pass": false,
+    "secondary_pass": false,
+    "overall_pass": false
+  }
+}

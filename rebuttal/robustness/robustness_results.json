@@ -1,0 +1,1001 @@
+{
+  "seed": 20260724,
+  "n_bootstrap": 20000,
+  "n_random_subsets": 10000,
+  "models": {
+    "DeepSeek": {
+      "persona": {
+        "n_tasks": 100,
+        "none_to_role_mean": 0.06811975196678119,
+        "none_to_role_ci95": [
+          0.05672633350160775,
+          0.0801546917006844
+        ],
+        "role_to_pro_mean": 0.036146911599694034,
+        "role_to_pro_ci95": [
+          0.027131660764189356,
+          0.04446385062705967
+        ],
+        "initial_minus_extra_mean": 0.03197284036708717,
+        "initial_minus_extra_ci95": [
+          0.01539331411501088,
+          0.049408382795437536
+        ],
+        "initial_gain_subset_positive_rate": {
+          "25": 1.0,
+          "50": 1.0,
+          "75": 1.0,
+          "100": 1.0
+        },
+        "initial_gt_extra_subset_rate": {
+          "25": 0.9872,
+          "50": 0.9999,
+          "75": 1.0,
+          "100": 1.0
+        },
+        "none_to_role_leave_one_category_out": {
+          "all_positive": true,
+          "min": 0.061572511511588914,
+          "max": 0.07360745780179302,
+          "by_held_out_category": {
+            "Abstract Conceptual Questions": 0.06934500971553678,
+            "Analytical and Interpretive Questions": 0.07360745780179302,
+            "Controversial Questions": 0.06852404345302816,
+            "Ideation and Brainstorming": 0.06890444127300625,
+            "Opinion-Based Questions": 0.06480233979996249,
+            "Personal Advice": 0.07013521839706363,
+            "Philosophical Questions": 0.06413599490831037,
+            "Recommendations": 0.06970357068276536,
+            "Speculative and Hypothetical Scenarios": 0.061572511511588914,
+            "Value-Laden Questions": 0.07035349466635231
+          }
+        },
+        "initial_gt_extra_leave_one_category_out": {
+          "all_positive": true,
+          "min": 0.023907149023107154,
+          "max": 0.0413517409838033,
+          "by_held_out_category": {
+            "Abstract Conceptual Questions": 0.03457457650870279,
+            "Analytical and Interpretive Questions": 0.0413517409838033,
+            "Controversial Questions": 0.0341159077694668,
+            "Ideation and Brainstorming": 0.032105788563228495,
+            "Opinion-Based Questions": 0.02788616521145192,
+            "Personal Advice": 0.03279480170595681,
+            "Philosophical Questions": 0.027906788413828754,
+            "Recommendations": 0.03344709281639682,
+            "Speculative and Hypothetical Scenarios": 0.023907149023107154,
+            "Value-Laden Questions": 0.03181160584577487
+          }
+        }
+      },
+      "low_cost": {
+        "independent-enhanced": {
+          "n_tasks": 100,
+          "mean_delta": 0.007436170880913973,
+          "ci95": [
+            0.001260453419545139,
+            0.014234794002588248
+          ]
+        },
+        "independent-temp-high": {
+          "n_tasks": 100,
+          "mean_delta": 0.0022731660356219074,
+          "ci95": [
+            -0.000728563698911985,
+            0.005494815587870074
+          ]
+        },
+        "independent-dimension": {
+          "n_tasks": 100,
+          "mean_delta": -0.0030284540232558095,
+          "ci95": [
+            -0.010278057449773476,
+            0.004788506054680889
+          ]
+        },
+        "independent-random-sys": {
+          "n_tasks": 100,
+          "mean_delta": 0.020605658670187932,
+          "ci95": [
+            0.012992699859626977,
+            0.029259052012512825
+          ]
+        }
+      },
+      "matched_architecture": {
+        "sequential-pro-5": {
+          "n_tasks": 100,
+          "mean_delta": 0.04429591723324386,
+          "ci95": [
+            0.03626709190468413,
+            0.052635097352295816
+          ],
+          "subset_positive_rate": {
+            "25": 1.0,
+            "50": 1.0,
+            "75": 1.0,
+            "100": 1.0
+          }
+        },
+        "interactive-pro": {
+          "n_tasks": 100,
+          "mean_delta": 0.027634164040156266,
+          "ci95": [
+            0.01704708663103848,
+            0.039040013234876096
+          ],
+          "subset_positive_rate": {
+            "25": 0.9989,
+            "50": 1.0,
+            "75": 1.0,
+            "100": 1.0
+          }
+        }
+      },
+      "did": {
+        "sequential": {
+          "n_tasks": 100,
+          "mean": -0.01971693646710021,
+          "ci95": [
+            -0.029059892840454443,
+            -0.010461733279827634
+          ],
+          "wilcoxon_p_raw": 1.4302449034926376e-05,
+          "wilcoxon_p_bh": 8.581469420955826e-05
+        },
+        "interactive": {
+          "n_tasks": 100,
+          "mean": -0.0021356226483684447,
+          "ci95": [
+            -0.015620922182701976,
+            0.011679251953689995
+          ],
+          "wilcoxon_p_raw": 0.5405233196725827,
+          "wilcoxon_p_bh": 0.6486279836070993
+        }
+      }
+    },
+    "GPT-mini": {
+      "persona": {
+        "n_tasks": 100,
+        "none_to_role_mean": 0.032841628735904155,
+        "none_to_role_ci95": [
+          0.025033434421232223,
+          0.041089846788680905
+        ],
+        "role_to_pro_mean": -0.013505949875511543,
+        "role_to_pro_ci95": [
+          -0.020174111748110884,
+          -0.007482122006891983
+        ],
+        "initial_minus_extra_mean": 0.0463475786114157,
+        "initial_minus_extra_ci95": [
+          0.03418075710141985,
+          0.05989690973443709
+        ],
+        "initial_gain_subset_positive_rate": {
+          "25": 1.0,
+          "50": 1.0,
+          "75": 1.0,
+          "100": 1.0
+        },
+        "initial_gt_extra_subset_rate": {
+          "25": 1.0,
+          "50": 1.0,
+          "75": 1.0,
+          "100": 1.0
+        },
+        "none_to_role_leave_one_category_out": {
+          "all_positive": true,
+          "min": 0.03070776325804084,
+          "max": 0.035144578076458634,
+          "by_held_out_category": {
+            "Abstract Conceptual Questions": 0.03193557640279344,
+            "Analytical and Interpretive Questions": 0.035144578076458634,
+            "Controversial Questions": 0.0319387863866414,
+            "Ideation and Brainstorming": 0.03280602917380456,
+            "Opinion-Based Questions": 0.03070776325804084,
+            "Personal Advice": 0.03387225796803004,
+            "Philosophical Questions": 0.03194956315946807,
+            "Recommendations": 0.032924590183409416,
+            "Speculative and Hypothetical Scenarios": 0.03282581145964243,
+            "Value-Laden Questions": 0.034628634440762446
+          }
+        },
+        "initial_gt_extra_leave_one_category_out": {
+          "all_positive": true,
+          "min": 0.04397901321940164,
+          "max": 0.04916377420543374,
+          "by_held_out_category": {
+            "Abstract Conceptual Questions": 0.04484775213135858,
+            "Analytical and Interpretive Questions": 0.04916377420543374,
+            "Controversial Questions": 0.04405236616665169,
+            "Ideation and Brainstorming": 0.04669151449507531,
+            "Opinion-Based Questions": 0.04627474482707456,
+            "Personal Advice": 0.04823128747003119,
+            "Philosophical Questions": 0.04397901321940164,
+            "Recommendations": 0.04586040202571209,
+            "Speculative and Hypothetical Scenarios": 0.04727071559059938,
+            "Value-Laden Questions": 0.047584731527045836
+          }
+        }
+      },
+      "low_cost": {},
+      "matched_architecture": {
+        "sequential-pro-5": {
+          "n_tasks": 100,
+          "mean_delta": 0.07813442448695584,
+          "ci95": [
+            0.06718563305497943,
+            0.08944878562240903
+          ],
+          "subset_positive_rate": {
+            "25": 1.0,
+            "50": 1.0,
+            "75": 1.0,
+            "100": 1.0
+          }
+        },
+        "interactive-pro": {
+          "n_tasks": 100,
+          "mean_delta": 0.04643973521789674,
+          "ci95": [
+            0.03445478814404449,
+            0.05880920664613774
+          ],
+          "subset_positive_rate": {
+            "25": 1.0,
+            "50": 1.0,
+            "75": 1.0,
+            "100": 1.0
+          }
+        }
+      },
+      "did": {}
+    },
+    "Gemini": {
+      "persona": {
+        "n_tasks": 100,
+        "none_to_role_mean": 0.08440171927648694,
+        "none_to_role_ci95": [
+          0.07672379120191385,
+          0.09242762414807502
+        ],
+        "role_to_pro_mean": 0.009001844456427283,
+        "role_to_pro_ci95": [
+          0.0036165208915793163,
+          0.014518503262346308
+        ],
+        "initial_minus_extra_mean": 0.07539987482005968,
+        "initial_minus_extra_ci95": [
+          0.06529695751959728,
+          0.08553650684260702
+        ],
+        "initial_gain_subset_positive_rate": {
+          "25": 1.0,
+          "50": 1.0,
+          "75": 1.0,
+          "100": 1.0
+        },
+        "initial_gt_extra_subset_rate": {
+          "25": 1.0,
+          "50": 1.0,
+          "75": 1.0,
+          "100": 1.0
+        },
+        "none_to_role_leave_one_category_out": {
+          "all_positive": true,
+          "min": 0.08239850707395285,
+          "max": 0.08769385076576448,
+          "by_held_out_category": {
+            "Abstract Conceptual Questions": 0.08292528795107919,
+            "Analytical and Interpretive Questions": 0.08769385076576448,
+            "Controversial Questions": 0.08313516357592396,
+            "Ideation and Brainstorming": 0.08531078425971579,
+            "Opinion-Based Questions": 0.08280032725844308,
+            "Personal Advice": 0.08564959281733044,
+            "Philosophical Questions": 0.0835392674380552,
+            "Recommendations": 0.08536995462254923,
+            "Speculative and Hypothetical Scenarios": 0.08239850707395285,
+            "Value-Laden Questions": 0.0853118121977704
+          }
+        },
+        "initial_gt_extra_leave_one_category_out": {
+          "all_positive": true,
+          "min": 0.07167212320709779,
+          "max": 0.081115895816032,
+          "by_held_out_category": {
+            "Abstract Conceptual Questions": 0.07462350473756828,
+            "Analytical and Interpretive Questions": 0.081115895816032,
+            "Controversial Questions": 0.07629993228845097,
+            "Ideation and Brainstorming": 0.07541391020835579,
+            "Opinion-Based Questions": 0.07306090230930218,
+            "Personal Advice": 0.07487328030674822,
+            "Philosophical Questions": 0.07392369508264457,
+            "Recommendations": 0.0760899505417507,
+            "Speculative and Hypothetical Scenarios": 0.07167212320709779,
+            "Value-Laden Questions": 0.07732512559230859
+          }
+        }
+      },
+      "low_cost": {
+        "independent-enhanced": {
+          "n_tasks": 100,
+          "mean_delta": 0.0014573293108813446,
+          "ci95": [
+            -0.0030507447793783476,
+            0.005446906282281208
+          ]
+        },
+        "independent-temp-high": {
+          "n_tasks": 100,
+          "mean_delta": 0.001369440809122488,
+          "ci95": [
+            -0.0013029147852448703,
+            0.003971763270151571
+          ]
+        },
+        "independent-dimension": {
+          "n_tasks": 100,
+          "mean_delta": 0.001025847516475265,
+          "ci95": [
+            -0.0035864257718127204,
+            0.0053457789073947095
+          ]
+        },
+        "independent-random-sys": {
+          "n_tasks": 100,
+          "mean_delta": 0.038530991429067296,
+          "ci95": [
+            0.03261077834655164,
+            0.04468972816998469
+          ]
+        }
+      },
+      "matched_architecture": {
+        "sequential-pro-5": {
+          "n_tasks": 100,
+          "mean_delta": 0.023916560815027323,
+          "ci95": [
+            0.019635987849894954,
+            0.02821977688507739
+          ],
+          "subset_positive_rate": {
+            "25": 1.0,
+            "50": 1.0,
+            "75": 1.0,
+            "100": 1.0
+          }
+        },
+        "interactive-pro": {
+          "n_tasks": 100,
+          "mean_delta": 0.02379104821022718,
+          "ci95": [
+            0.01852470845108952,
+            0.0292337807449502
+          ],
+          "subset_positive_rate": {
+            "25": 1.0,
+            "50": 1.0,
+            "75": 1.0,
+            "100": 1.0
+          }
+        }
+      },
+      "did": {
+        "sequential": {
+          "n_tasks": 100,
+          "mean": -0.01965117566709156,
+          "ci95": [
+            -0.026503275380216327,
+            -0.01303822643668737
+          ],
+          "wilcoxon_p_raw": 4.241746054998045e-07,
+          "wilcoxon_p_bh": 5.090095265997654e-06
+        },
+        "interactive": {
+          "n_tasks": 100,
+          "mean": -0.0016396992044744485,
+          "ci95": [
+            -0.009734217917518672,
+            0.006165887692831203
+          ],
+          "wilcoxon_p_raw": 0.956127949633218,
+          "wilcoxon_p_bh": 0.9561279496332181
+        }
+      }
+    },
+    "Kimi": {
+      "persona": {
+        "n_tasks": 99,
+        "none_to_role_mean": 0.08428333258233917,
+        "none_to_role_ci95": [
+          0.07603578741046085,
+          0.09280310755472548
+        ],
+        "role_to_pro_mean": -0.0026620805559139805,
+        "role_to_pro_ci95": [
+          -0.0083076672524629,
+          0.002942334232270101
+        ],
+        "initial_minus_extra_mean": 0.08694541313825316,
+        "initial_minus_extra_ci95": [
+          0.07609035739334306,
+          0.09810266868063075
+        ],
+        "initial_gain_subset_positive_rate": {
+          "25": 1.0,
+          "50": 1.0,
+          "75": 1.0
+        },
+        "initial_gt_extra_subset_rate": {
+          "25": 1.0,
+          "50": 1.0,
+          "75": 1.0
+        },
+        "none_to_role_leave_one_category_out": {
+          "all_positive": true,
+          "min": 0.08157343730996498,
+          "max": 0.08638775916264642,
+          "by_held_out_category": {
+            "Abstract Conceptual Questions": 0.08285889661900957,
+            "Analytical and Interpretive Questions": 0.08597140949507215,
+            "Controversial Questions": 0.08514241690145133,
+            "Ideation and Brainstorming": 0.08463209311775542,
+            "Opinion-Based Questions": 0.08327985087214339,
+            "Personal Advice": 0.08521118595838893,
+            "Philosophical Questions": 0.08295236610541137,
+            "Recommendations": 0.08638775916264642,
+            "Speculative and Hypothetical Scenarios": 0.08157343730996498,
+            "Value-Laden Questions": 0.08471022372337486
+          }
+        },
+        "initial_gt_extra_leave_one_category_out": {
+          "all_positive": true,
+          "min": 0.08332679082031587,
+          "max": 0.09111800939020454,
+          "by_held_out_category": {
+            "Abstract Conceptual Questions": 0.08332679082031587,
+            "Analytical and Interpretive Questions": 0.09002928264570301,
+            "Controversial Questions": 0.09111800939020454,
+            "Ideation and Brainstorming": 0.08707788577989983,
+            "Opinion-Based Questions": 0.08468246625813639,
+            "Personal Advice": 0.08738171813455586,
+            "Philosophical Questions": 0.08583302514845738,
+            "Recommendations": 0.08910182353834843,
+            "Speculative and Hypothetical Scenarios": 0.08589256209030982,
+            "Value-Laden Questions": 0.0853865434832416
+          }
+        }
+      },
+      "low_cost": {
+        "independent-enhanced": {
+          "n_tasks": 99,
+          "mean_delta": 0.015446436643806438,
+          "ci95": [
+            0.009279970473209956,
+            0.021561658659807966
+          ]
+        },
+        "independent-dimension": {
+          "n_tasks": 99,
+          "mean_delta": 0.0035526068916820978,
+          "ci95": [
+            -0.0005666698981288889,
+            0.007682327521651278
+          ]
+        },
+        "independent-random-sys": {
+          "n_tasks": 99,
+          "mean_delta": 0.03953853021522661,
+          "ci95": [
+            0.033197341210317574,
+            0.04627446529559793
+          ]
+        }
+      },
+      "matched_architecture": {
+        "sequential-pro-5": {
+          "n_tasks": 99,
+          "mean_delta": 0.045920910453657114,
+          "ci95": [
+            0.03679155445146019,
+            0.05542745099272259
+          ],
+          "subset_positive_rate": {
+            "25": 1.0,
+            "50": 1.0,
+            "75": 1.0
+          }
+        },
+        "interactive-pro": {
+          "n_tasks": 100,
+          "mean_delta": 0.053421059595004004,
+          "ci95": [
+            0.04321588695590581,
+            0.0641305757261651
+          ],
+          "subset_positive_rate": {
+            "25": 1.0,
+            "50": 1.0,
+            "75": 1.0,
+            "100": 1.0
+          }
+        }
+      },
+      "did": {
+        "sequential": {
+          "n_tasks": 98,
+          "mean": -0.015652353751134503,
+          "ci95": [
+            -0.023465167187994535,
+            -0.008171824634833373
+          ],
+          "wilcoxon_p_raw": 0.0002605546621429893,
+          "wilcoxon_p_bh": 0.0010422186485719571
+        },
+        "interactive": {
+          "n_tasks": 98,
+          "mean": -0.01150192978059359,
+          "ci95": [
+            -0.02100606425650226,
+            -0.0022180124593242792
+          ],
+          "wilcoxon_p_raw": 0.021763740172350495,
+          "wilcoxon_p_bh": 0.06529122051705148
+        }
+      }
+    },
+    "Llama": {
+      "persona": {
+        "n_tasks": 100,
+        "none_to_role_mean": 0.041063052988574,
+        "none_to_role_ci95": [
+          0.032061501837195944,
+          0.05085994877971222
+        ],
+        "role_to_pro_mean": 0.03926914841977305,
+        "role_to_pro_ci95": [
+          0.030565857997106156,
+          0.04769042770764961
+        ],
+        "initial_minus_extra_mean": 0.0017939045688009408,
+        "initial_minus_extra_ci95": [
+          -0.010723536183238342,
+          0.015151641477244212
+        ],
+        "initial_gain_subset_positive_rate": {
+          "25": 1.0,
+          "50": 1.0,
+          "75": 1.0,
+          "100": 1.0
+        },
+        "initial_gt_extra_subset_rate": {
+          "25": 0.5563,
+          "50": 0.6073,
+          "75": 0.6862,
+          "100": 1.0
+        },
+        "none_to_role_leave_one_category_out": {
+          "all_positive": true,
+          "min": 0.037278449258453174,
+          "max": 0.043857454960523866,
+          "by_held_out_category": {
+            "Abstract Conceptual Questions": 0.04194925995939836,
+            "Analytical and Interpretive Questions": 0.04338036912463097,
+            "Controversial Questions": 0.04172666603996414,
+            "Ideation and Brainstorming": 0.04033237393829025,
+            "Opinion-Based Questions": 0.037278449258453174,
+            "Personal Advice": 0.04043937217250814,
+            "Philosophical Questions": 0.039631248156284486,
+            "Recommendations": 0.04302070177161925,
+            "Speculative and Hypothetical Scenarios": 0.03906417490399631,
+            "Value-Laden Questions": 0.043857454960523866
+          }
+        },
+        "initial_gt_extra_leave_one_category_out": {
+          "all_positive": false,
+          "min": -0.0032960821085515507,
+          "max": 0.007263175566160149,
+          "by_held_out_category": {
+            "Abstract Conceptual Questions": 0.0004520428167938757,
+            "Analytical and Interpretive Questions": 0.005677333450030475,
+            "Controversial Questions": 0.004482262614380496,
+            "Ideation and Brainstorming": -0.0012455821605513214,
+            "Opinion-Based Questions": -0.0032960821085515507,
+            "Personal Advice": 0.0004828636099371425,
+            "Philosophical Questions": 0.001602748898986866,
+            "Recommendations": 0.003471477655179348,
+            "Speculative and Hypothetical Scenarios": -0.00034879997262713726,
+            "Value-Laden Questions": 0.007263175566160149
+          }
+        }
+      },
+      "low_cost": {
+        "independent-enhanced": {
+          "n_tasks": 99,
+          "mean_delta": -0.0013366072766975007,
+          "ci95": [
+            -0.004392574061552192,
+            0.001697332572677767
+          ]
+        },
+        "independent-temp-high": {
+          "n_tasks": 100,
+          "mean_delta": 0.004083595801519693,
+          "ci95": [
+            0.000498072889529723,
+            0.007780756299577682
+          ]
+        },
+        "independent-dimension": {
+          "n_tasks": 98,
+          "mean_delta": -0.00020327699408559158,
+          "ci95": [
+            -0.0038132225978364243,
+            0.0035826019470522946
+          ]
+        },
+        "independent-random-sys": {
+          "n_tasks": 100,
+          "mean_delta": 0.007069634335366054,
+          "ci95": [
+            0.0027160589909709727,
+            0.011540756411061991
+          ]
+        }
+      },
+      "matched_architecture": {
+        "sequential-pro-5": {
+          "n_tasks": 98,
+          "mean_delta": 0.058635299225734565,
+          "ci95": [
+            0.0464046762860841,
+            0.07127674303794107
+          ],
+          "subset_positive_rate": {
+            "25": 1.0,
+            "50": 1.0,
+            "75": 1.0
+          }
+        },
+        "interactive-pro": {
+          "n_tasks": 98,
+          "mean_delta": 0.026890249605018925,
+          "ci95": [
+            0.01432380753715068,
+            0.04012015784338956
+          ],
+          "subset_positive_rate": {
+            "25": 0.9947,
+            "50": 1.0,
+            "75": 1.0
+          }
+        }
+      },
+      "did": {
+        "sequential": {
+          "n_tasks": 99,
+          "mean": 0.00729469457437261,
+          "ci95": [
+            -0.0017953562908163774,
+            0.016565827906055174
+          ],
+          "wilcoxon_p_raw": 0.1370508805247957,
+          "wilcoxon_p_bh": 0.2387647393701424
+        },
+        "interactive": {
+          "n_tasks": 100,
+          "mean": -0.011167800076907004,
+          "ci95": [
+            -0.027031174877163416,
+            0.004387159553523435
+          ],
+          "wilcoxon_p_raw": 0.11217194781344618,
+          "wilcoxon_p_bh": 0.2387647393701424
+        }
+      }
+    },
+    "Grok": {
+      "persona": {
+        "n_tasks": 100,
+        "none_to_role_mean": 0.027845189063301176,
+        "none_to_role_ci95": [
+          0.02107710694802412,
+          0.03529070858152948
+        ],
+        "role_to_pro_mean": 0.011367344838229085,
+        "role_to_pro_ci95": [
+          0.005374408432754684,
+          0.01665711735719627
+        ],
+        "initial_minus_extra_mean": 0.016477844225072095,
+        "initial_minus_extra_ci95": [
+          0.0058791505943859325,
+          0.028032587154248306
+        ],
+        "initial_gain_subset_positive_rate": {
+          "25": 1.0,
+          "50": 1.0,
+          "75": 1.0,
+          "100": 1.0
+        },
+        "initial_gt_extra_subset_rate": {
+          "25": 0.9656,
+          "50": 0.9995,
+          "75": 1.0,
+          "100": 1.0
+        },
+        "none_to_role_leave_one_category_out": {
+          "all_positive": true,
+          "min": 0.026030178065266602,
+          "max": 0.030491442093294484,
+          "by_held_out_category": {
+            "Abstract Conceptual Questions": 0.02653071976063687,
+            "Analytical and Interpretive Questions": 0.027348398712926204,
+            "Controversial Questions": 0.03028994123087567,
+            "Ideation and Brainstorming": 0.027779548058113817,
+            "Opinion-Based Questions": 0.027360125079180772,
+            "Personal Advice": 0.02665557393191864,
+            "Philosophical Questions": 0.026030178065266602,
+            "Recommendations": 0.028223617902005588,
+            "Speculative and Hypothetical Scenarios": 0.027921831209862316,
+            "Value-Laden Questions": 0.030491442093294484
+          }
+        },
+        "initial_gt_extra_leave_one_category_out": {
+          "all_positive": true,
+          "min": 0.01308153730778015,
+          "max": 0.020594966309627184,
+          "by_held_out_category": {
+            "Abstract Conceptual Questions": 0.013934798465812318,
+            "Analytical and Interpretive Questions": 0.017344426228655906,
+            "Controversial Questions": 0.019713881629977628,
+            "Ideation and Brainstorming": 0.016659407133465202,
+            "Opinion-Based Questions": 0.01388954926953932,
+            "Personal Advice": 0.014857731112579485,
+            "Philosophical Questions": 0.01308153730778015,
+            "Recommendations": 0.016601532017156785,
+            "Speculative and Hypothetical Scenarios": 0.01879752941373812,
+            "Value-Laden Questions": 0.020594966309627184
+          }
+        }
+      },
+      "low_cost": {
+        "independent-enhanced": {
+          "n_tasks": 100,
+          "mean_delta": 0.0071486897538923354,
+          "ci95": [
+            0.0029755553094927265,
+            0.011624390307704133
+          ]
+        },
+        "independent-temp-high": {
+          "n_tasks": 100,
+          "mean_delta": 0.0009044080360086043,
+          "ci95": [
+            -0.0030553617053097216,
+            0.00460399062880811
+          ]
+        },
+        "independent-dimension": {
+          "n_tasks": 100,
+          "mean_delta": -0.0005653560249338679,
+          "ci95": [
+            -0.0052983731288802705,
+            0.004141839688615141
+          ]
+        },
+        "independent-random-sys": {
+          "n_tasks": 100,
+          "mean_delta": 0.009977543225107138,
+          "ci95": [
+            0.0055657485287803725,
+            0.014799607043532583
+          ]
+        }
+      },
+      "matched_architecture": {
+        "sequential-pro-5": {
+          "n_tasks": 100,
+          "mean_delta": 0.059877171880524396,
+          "ci95": [
+            0.05155849691599504,
+            0.06927498115267779
+          ],
+          "subset_positive_rate": {
+            "25": 1.0,
+            "50": 1.0,
+            "75": 1.0,
+            "100": 1.0
+          }
+        },
+        "interactive-pro": {
+          "n_tasks": 100,
+          "mean_delta": 0.044973438918508794,
+          "ci95": [
+            0.03678439443466176,
+            0.053738188985667984
+          ],
+          "subset_positive_rate": {
+            "25": 1.0,
+            "50": 1.0,
+            "75": 1.0,
+            "100": 1.0
+          }
+        }
+      },
+      "did": {
+        "sequential": {
+          "n_tasks": 100,
+          "mean": 0.004711006054904293,
+          "ci95": [
+            -0.0016091653261473733,
+            0.010896765893137516
+          ],
+          "wilcoxon_p_raw": 0.13927943129924972,
+          "wilcoxon_p_bh": 0.2387647393701424
+        },
+        "interactive": {
+          "n_tasks": 100,
+          "mean": 0.0003470352521250775,
+          "ci95": [
+            -0.007627702319206124,
+            0.008333218342845746
+          ],
+          "wilcoxon_p_raw": 0.8581003268196077,
+          "wilcoxon_p_bh": 0.936109447439572
+        }
+      }
+    },
+    "Qwen": {
+      "persona": {
+        "n_tasks": 97,
+        "none_to_role_mean": 0.07466514054720473,
+        "none_to_role_ci95": [
+          0.06504112509887053,
+          0.08433014383496824
+        ],
+        "role_to_pro_mean": 0.013956341435878575,
+        "role_to_pro_ci95": [
+          0.006663872665355929,
+          0.021169969577893816
+        ],
+        "initial_minus_extra_mean": 0.06070879911132615,
+        "initial_minus_extra_ci95": [
+          0.04670820672306239,
+          0.07481917670698696
+        ],
+        "initial_gain_subset_positive_rate": {
+          "25": 1.0,
+          "50": 1.0,
+          "75": 1.0
+        },
+        "initial_gt_extra_subset_rate": {
+          "25": 1.0,
+          "50": 1.0,
+          "75": 1.0
+        },
+        "none_to_role_leave_one_category_out": {
+          "all_positive": true,
+          "min": 0.06926842570179872,
+          "max": 0.07608941653726531,
+          "by_held_out_category": {
+            "Abstract Conceptual Questions": 0.07388839386982522,
+            "Analytical and Interpretive Questions": 0.0750324971042453,
+            "Controversial Questions": 0.07455701391741329,
+            "Ideation and Brainstorming": 0.07554717285404837,
+            "Opinion-Based Questions": 0.07533931424106247,
+            "Personal Advice": 0.07608941653726531,
+            "Philosophical Questions": 0.07556894148484276,
+            "Recommendations": 0.07581085877239056,
+            "Speculative and Hypothetical Scenarios": 0.06926842570179872,
+            "Value-Laden Questions": 0.07492064776253979
+          }
+        },
+        "initial_gt_extra_leave_one_category_out": {
+          "all_positive": true,
+          "min": 0.05596815320545619,
+          "max": 0.06529020384059654,
+          "by_held_out_category": {
+            "Abstract Conceptual Questions": 0.058470087847429554,
+            "Analytical and Interpretive Questions": 0.06246482926356781,
+            "Controversial Questions": 0.06529020384059654,
+            "Ideation and Brainstorming": 0.06079642346026429,
+            "Opinion-Based Questions": 0.06215026025185552,
+            "Personal Advice": 0.059451774637148486,
+            "Philosophical Questions": 0.06113122226223447,
+            "Recommendations": 0.06117524066863886,
+            "Speculative and Hypothetical Scenarios": 0.05596815320545619,
+            "Value-Laden Questions": 0.06009424670418374
+          }
+        }
+      },
+      "low_cost": {
+        "independent-enhanced": {
+          "n_tasks": 99,
+          "mean_delta": 0.012456040544052574,
+          "ci95": [
+            0.007242893479202167,
+            0.0177519130963787
+          ]
+        },
+        "independent-temp-high": {
+          "n_tasks": 99,
+          "mean_delta": 0.0036165858008806962,
+          "ci95": [
+            0.0006071610864353796,
+            0.006597915537143028
+          ]
+        },
+        "independent-dimension": {
+          "n_tasks": 99,
+          "mean_delta": 0.010634512573112005,
+          "ci95": [
+            0.0063960050057843285,
+            0.015136793860384651
+          ]
+        },
+        "independent-random-sys": {
+          "n_tasks": 99,
+          "mean_delta": 0.034395542412555595,
+          "ci95": [
+            0.02820357059958293,
+            0.04091295169460785
+          ]
+        }
+      },
+      "matched_architecture": {
+        "sequential-pro-5": {
+          "n_tasks": 99,
+          "mean_delta": 0.05472495028124923,
+          "ci95": [
+            0.04551182802757019,
+            0.06440771895818224
+          ],
+          "subset_positive_rate": {
+            "25": 1.0,
+            "50": 1.0,
+            "75": 1.0
+          }
+        },
+        "interactive-pro": {
+          "n_tasks": 100,
+          "mean_delta": 0.06964072645632523,
+          "ci95": [
+            0.05893137287279039,
+            0.08036872974410833
+          ],
+          "subset_positive_rate": {
+            "25": 1.0,
+            "50": 1.0,
+            "75": 1.0,
+            "100": 1.0
+          }
+        }
+      },
+      "did": {
+        "sequential": {
+          "n_tasks": 99,
+          "mean": 0.006715269497231844,
+          "ci95": [
+            -0.002779847782995935,
+            0.016301108257632323
+          ],
+          "wilcoxon_p_raw": 0.17344638284216385,
+          "wilcoxon_p_bh": 0.2601695742632458
+        },
+        "interactive": {
+          "n_tasks": 99,
+          "mean": -0.0067493511133340945,
+          "ci95": [
+            -0.018444539349634578,
+            0.004654039546680961
+          ],
+          "wilcoxon_p_raw": 0.40812446117844103,
+          "wilcoxon_p_bh": 0.5441659482379213
+        }
+      }
+    }
+  }
+}

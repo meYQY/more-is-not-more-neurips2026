@@ -1,0 +1,977 @@
+{
+  "perturn": {
+    "deepseek/sequential-none": {
+      "steps": [
+        1,
+        2,
+        3
+      ],
+      "cumulative_mpd": [
+        0.5961716310893086,
+        0.6424652974200228,
+        0.6583777156986927
+      ],
+      "n_tasks": 100,
+      "marginal_mpd": [
+        0.5961716310893086,
+        0.04629366633071419,
+        0.01591241827866996
+      ]
+    },
+    "deepseek/sequential-pro": {
+      "steps": [
+        1,
+        2,
+        3
+      ],
+      "cumulative_mpd": [
+        0.7032675417798454,
+        0.7336196744732303,
+        0.7429274427980677
+      ],
+      "n_tasks": 100,
+      "marginal_mpd": [
+        0.7032675417798454,
+        0.03035213269338488,
+        0.009307768324837373
+      ]
+    },
+    "deepseek/interactive-none": {
+      "steps": [
+        1,
+        2,
+        3
+      ],
+      "cumulative_mpd": [
+        0.5650863556242136,
+        0.5864162018841348,
+        0.6144291158617942
+      ],
+      "n_tasks": 100,
+      "marginal_mpd": [
+        0.5650863556242136,
+        0.02132984625992118,
+        0.02801291397765937
+      ]
+    },
+    "deepseek/interactive-pro": {
+      "steps": [
+        1,
+        2,
+        3
+      ],
+      "cumulative_mpd": [
+        0.6735626155922556,
+        0.7009253167542709,
+        0.7165601567799013
+      ],
+      "n_tasks": 100,
+      "marginal_mpd": [
+        0.6735626155922556,
+        0.027362701162015335,
+        0.015634840025630314
+      ]
+    },
+    "gemini/sequential-none": {
+      "steps": [
+        1,
+        2,
+        3
+      ],
+      "cumulative_mpd": [
+        0.6305883663433032,
+        0.6598363713921697,
+        0.6726681420094748
+      ],
+      "n_tasks": 100,
+      "marginal_mpd": [
+        0.6305883663433032,
+        0.029248005048866488,
+        0.012831770617305116
+      ]
+    },
+    "gemini/sequential-pro": {
+      "steps": [
+        1,
+        2,
+        3
+      ],
+      "cumulative_mpd": [
+        0.7224169470242673,
+        0.7407470965975597,
+        0.746420530075298
+      ],
+      "n_tasks": 100,
+      "marginal_mpd": [
+        0.7224169470242673,
+        0.018330149573292376,
+        0.005673433477738299
+      ]
+    },
+    "gemini/interactive-none": {
+      "steps": [
+        1,
+        2,
+        3
+      ],
+      "cumulative_mpd": [
+        0.6258955815117833,
+        0.6391940478015742,
+        0.6496696876054814
+      ],
+      "n_tasks": 100,
+      "marginal_mpd": [
+        0.6258955815117833,
+        0.013298466289790922,
+        0.0104756398039072
+      ]
+    },
+    "gemini/interactive-pro": {
+      "steps": [
+        1,
+        2,
+        3
+      ],
+      "cumulative_mpd": [
+        0.7101186989955366,
+        0.7308692440513127,
+        0.7414329047572941
+      ],
+      "n_tasks": 100,
+      "marginal_mpd": [
+        0.7101186989955366,
+        0.020750545055776115,
+        0.01056366070598136
+      ]
+    },
+    "kimi/sequential-none": {
+      "steps": [
+        1,
+        2,
+        3
+      ],
+      "cumulative_mpd": [
+        0.6245388778431146,
+        0.6697898661968215,
+        0.6852178549176063
+      ],
+      "n_tasks": 100,
+      "marginal_mpd": [
+        0.6245388778431146,
+        0.04525098835370689,
+        0.01542798872078488
+      ]
+    },
+    "kimi/sequential-pro": {
+      "steps": [
+        1,
+        2,
+        3
+      ],
+      "cumulative_mpd": [
+        0.7030699276658263,
+        0.7388661708491511,
+        0.7519270845521611
+      ],
+      "n_tasks": 99,
+      "marginal_mpd": [
+        0.7030699276658263,
+        0.03579624318332475,
+        0.013060913703009991
+      ]
+    },
+    "kimi/interactive-none": {
+      "steps": [
+        1,
+        2,
+        3
+      ],
+      "cumulative_mpd": [
+        0.6336564749029678,
+        0.6680691674183947,
+        0.6864707526599678
+      ],
+      "n_tasks": 99,
+      "marginal_mpd": [
+        0.6336564749029678,
+        0.03441269251542689,
+        0.018401585241573093
+      ]
+    },
+    "kimi/interactive-pro": {
+      "steps": [
+        1,
+        2,
+        3
+      ],
+      "cumulative_mpd": [
+        0.7034322520906366,
+        0.7358032814315707,
+        0.7551233788757683
+      ],
+      "n_tasks": 100,
+      "marginal_mpd": [
+        0.7034322520906366,
+        0.032371029340934054,
+        0.019320097444197604
+      ]
+    },
+    "llama/sequential-none": {
+      "steps": [
+        1,
+        2,
+        3
+      ],
+      "cumulative_mpd": [
+        0.5325675654887068,
+        0.5675587659387328,
+        0.5830477297709862
+      ],
+      "n_tasks": 99,
+      "marginal_mpd": [
+        0.5325675654887068,
+        0.03499120045002602,
+        0.0154889638322534
+      ]
+    },
+    "llama/sequential-pro": {
+      "steps": [
+        1,
+        2,
+        3
+      ],
+      "cumulative_mpd": [
+        0.6135206747618271,
+        0.6539062564301271,
+        0.6682373476364607
+      ],
+      "n_tasks": 100,
+      "marginal_mpd": [
+        0.6135206747618271,
+        0.040385581668299975,
+        0.01433109120633358
+      ]
+    },
+    "llama/interactive-none": {
+      "steps": [
+        1,
+        2,
+        3
+      ],
+      "cumulative_mpd": [
+        0.5311956030391624,
+        0.5397735103554706,
+        0.5585703626591412
+      ],
+      "n_tasks": 100,
+      "marginal_mpd": [
+        0.5311956030391624,
+        0.008577907316308253,
+        0.018796852303670564
+      ]
+    },
+    "llama/interactive-pro": {
+      "steps": [
+        1,
+        2,
+        3
+      ],
+      "cumulative_mpd": [
+        0.6038676280679562,
+        0.6133520276549709,
+        0.6277347639905809
+      ],
+      "n_tasks": 100,
+      "marginal_mpd": [
+        0.6038676280679562,
+        0.009484399587014636,
+        0.014382736335610047
+      ]
+    },
+    "grok/sequential-none": {
+      "steps": [
+        1,
+        2,
+        3
+      ],
+      "cumulative_mpd": [
+        0.6153613620422821,
+        0.6645373313301388,
+        0.6808348220804272
+      ],
+      "n_tasks": 100,
+      "marginal_mpd": [
+        0.6153613620422821,
+        0.049175969287856724,
+        0.016297490750288413
+      ]
+    },
+    "grok/sequential-pro": {
+      "steps": [
+        1,
+        2,
+        3
+      ],
+      "cumulative_mpd": [
+        0.6635814456303487,
+        0.7095478995000803,
+        0.7247583620368614
+      ],
+      "n_tasks": 100,
+      "marginal_mpd": [
+        0.6635814456303487,
+        0.04596645386973164,
+        0.015210462536781044
+      ]
+    },
+    "grok/interactive-none": {
+      "steps": [
+        1,
+        2,
+        3
+      ],
+      "cumulative_mpd": [
+        0.6296478339699088,
+        0.652622852297794,
+        0.667349517623642
+      ],
+      "n_tasks": 100,
+      "marginal_mpd": [
+        0.6296478339699088,
+        0.022975018327885288,
+        0.014726665325847987
+      ]
+    },
+    "grok/interactive-pro": {
+      "steps": [
+        1,
+        2,
+        3
+      ],
+      "cumulative_mpd": [
+        0.6683294322983002,
+        0.694289661605272,
+        0.7069090867772975
+      ],
+      "n_tasks": 100,
+      "marginal_mpd": [
+        0.6683294322983002,
+        0.025960229306971727,
+        0.012619425172025522
+      ]
+    },
+    "qwen/sequential-none": {
+      "steps": [
+        1,
+        2,
+        3
+      ],
+      "cumulative_mpd": [
+        0.6088931259840368,
+        0.6431097536360245,
+        0.6524633991873298
+      ],
+      "n_tasks": 100,
+      "marginal_mpd": [
+        0.6088931259840368,
+        0.03421662765198774,
+        0.009353645551305245
+      ]
+    },
+    "qwen/sequential-pro": {
+      "steps": [
+        1,
+        2,
+        3
+      ],
+      "cumulative_mpd": [
+        0.7164459376438341,
+        0.7409978073572588,
+        0.7474031629153977
+      ],
+      "n_tasks": 100,
+      "marginal_mpd": [
+        0.7164459376438341,
+        0.024551869713424712,
+        0.006405355558138814
+      ]
+    },
+    "qwen/interactive-none": {
+      "steps": [
+        1,
+        2,
+        3
+      ],
+      "cumulative_mpd": [
+        0.5979248018895409,
+        0.6352512453496033,
+        0.6726618603226013
+      ],
+      "n_tasks": 100,
+      "marginal_mpd": [
+        0.5979248018895409,
+        0.03732644346006242,
+        0.037410614972998024
+      ]
+    },
+    "qwen/interactive-pro": {
+      "steps": [
+        1,
+        2,
+        3
+      ],
+      "cumulative_mpd": [
+        0.681509883801551,
+        0.7268881836028226,
+        0.7551810281610979
+      ],
+      "n_tasks": 100,
+      "marginal_mpd": [
+        0.681509883801551,
+        0.045378299801271615,
+        0.0282928445582753
+      ]
+    }
+  },
+  "opinion_counts": {
+    "deepseek/independent-none": {
+      "mean": 328.46,
+      "std": 164.6733172500676,
+      "min": 44,
+      "max": 757,
+      "n_tasks": 100
+    },
+    "deepseek/independent-role": {
+      "mean": 152.36,
+      "std": 82.0110266052589,
+      "min": 35,
+      "max": 421,
+      "n_tasks": 100
+    },
+    "deepseek/independent-basic": {
+      "mean": 160.26,
+      "std": 100.19593128697716,
+      "min": 44,
+      "max": 536,
+      "n_tasks": 100
+    },
+    "deepseek/independent-mid": {
+      "mean": 153.36,
+      "std": 78.09751997510949,
+      "min": 52,
+      "max": 485,
+      "n_tasks": 100
+    },
+    "deepseek/independent-pro": {
+      "mean": 187.85,
+      "std": 90.77192809064336,
+      "min": 64,
+      "max": 463,
+      "n_tasks": 100
+    },
+    "deepseek/independent-enhanced": {
+      "mean": 342.74,
+      "std": 147.80957036304886,
+      "min": 83,
+      "max": 715,
+      "n_tasks": 100
+    },
+    "deepseek/independent-temp-high": {
+      "mean": 328.78,
+      "std": 165.99437619778848,
+      "min": 44,
+      "max": 708,
+      "n_tasks": 100
+    },
+    "deepseek/independent-dimension": {
+      "mean": 319.73,
+      "std": 161.65138040820682,
+      "min": 59,
+      "max": 743,
+      "n_tasks": 100
+    },
+    "deepseek/independent-random-sys": {
+      "mean": 297.63,
+      "std": 134.5214980378357,
+      "min": 82,
+      "max": 650,
+      "n_tasks": 100
+    },
+    "deepseek/sequential-none": {
+      "mean": 317.37,
+      "std": 80.36830057537448,
+      "min": 74,
+      "max": 501,
+      "n_tasks": 100
+    },
+    "deepseek/sequential-pro": {
+      "mean": 653.72,
+      "std": 237.19603962149375,
+      "min": 236,
+      "max": 1348,
+      "n_tasks": 100
+    },
+    "deepseek/interactive-none": {
+      "mean": 226.65,
+      "std": 75.20347818627229,
+      "min": 71,
+      "max": 491,
+      "n_tasks": 100
+    },
+    "deepseek/interactive-pro": {
+      "mean": 155.75,
+      "std": 37.28036691847007,
+      "min": 85,
+      "max": 240,
+      "n_tasks": 100
+    },
+    "gemini/independent-none": {
+      "mean": 382.34,
+      "std": 111.52543941345237,
+      "min": 101,
+      "max": 638,
+      "n_tasks": 100
+    },
+    "gemini/independent-role": {
+      "mean": 259.22,
+      "std": 82.03393976109689,
+      "min": 84,
+      "max": 485,
+      "n_tasks": 100
+    },
+    "gemini/independent-basic": {
+      "mean": 231.79,
+      "std": 79.82826200125751,
+      "min": 68,
+      "max": 484,
+      "n_tasks": 100
+    },
+    "gemini/independent-mid": {
+      "mean": 221.21,
+      "std": 67.13205665181896,
+      "min": 99,
+      "max": 476,
+      "n_tasks": 100
+    },
+    "gemini/independent-pro": {
+      "mean": 216.75,
+      "std": 63.602994497829336,
+      "min": 97,
+      "max": 448,
+      "n_tasks": 100
+    },
+    "gemini/independent-enhanced": {
+      "mean": 412.26,
+      "std": 100.95939978050784,
+      "min": 186,
+      "max": 635,
+      "n_tasks": 100
+    },
+    "gemini/independent-temp-high": {
+      "mean": 382.49,
+      "std": 111.56132480353212,
+      "min": 116,
+      "max": 624,
+      "n_tasks": 100
+    },
+    "gemini/independent-dimension": {
+      "mean": 374.5,
+      "std": 94.39317087094122,
+      "min": 137,
+      "max": 586,
+      "n_tasks": 100
+    },
+    "gemini/independent-random-sys": {
+      "mean": 348.99,
+      "std": 86.98792381065827,
+      "min": 133,
+      "max": 573,
+      "n_tasks": 100
+    },
+    "gemini/sequential-none": {
+      "mean": 306.61,
+      "std": 52.99626344747278,
+      "min": 197,
+      "max": 441,
+      "n_tasks": 100
+    },
+    "gemini/sequential-pro": {
+      "mean": 731.2,
+      "std": 133.54452970504414,
+      "min": 410,
+      "max": 1166,
+      "n_tasks": 100
+    },
+    "gemini/interactive-none": {
+      "mean": 265.76,
+      "std": 53.365543303907366,
+      "min": 153,
+      "max": 434,
+      "n_tasks": 100
+    },
+    "gemini/interactive-pro": {
+      "mean": 170.79,
+      "std": 27.317547178295197,
+      "min": 108,
+      "max": 241,
+      "n_tasks": 100
+    },
+    "kimi/independent-none": {
+      "mean": 230.42,
+      "std": 117.77355262099253,
+      "min": 0,
+      "max": 771,
+      "n_tasks": 100
+    },
+    "kimi/independent-role": {
+      "mean": 162.03,
+      "std": 67.92991858072435,
+      "min": 33,
+      "max": 395,
+      "n_tasks": 100
+    },
+    "kimi/independent-basic": {
+      "mean": 163.47,
+      "std": 61.52628657243942,
+      "min": 37,
+      "max": 407,
+      "n_tasks": 100
+    },
+    "kimi/independent-mid": {
+      "mean": 167.98,
+      "std": 55.789101430152456,
+      "min": 25,
+      "max": 398,
+      "n_tasks": 100
+    },
+    "kimi/independent-pro": {
+      "mean": 160.08,
+      "std": 59.32067961767659,
+      "min": 18,
+      "max": 377,
+      "n_tasks": 100
+    },
+    "kimi/independent-enhanced": {
+      "mean": 257.11,
+      "std": 104.44058723803816,
+      "min": 23,
+      "max": 728,
+      "n_tasks": 100
+    },
+    "kimi/independent-dimension": {
+      "mean": 236.31,
+      "std": 112.51529144112284,
+      "min": 1,
+      "max": 758,
+      "n_tasks": 100
+    },
+    "kimi/independent-random-sys": {
+      "mean": 212.79,
+      "std": 86.16442995748879,
+      "min": 55,
+      "max": 639,
+      "n_tasks": 100
+    },
+    "kimi/sequential-none": {
+      "mean": 195.21,
+      "std": 68.79060527235804,
+      "min": 36,
+      "max": 476,
+      "n_tasks": 100
+    },
+    "kimi/sequential-pro": {
+      "mean": 485.96,
+      "std": 119.62710749861358,
+      "min": 95,
+      "max": 908,
+      "n_tasks": 100
+    },
+    "kimi/interactive-none": {
+      "mean": 335.25252525252523,
+      "std": 156.39042871140683,
+      "min": 84,
+      "max": 865,
+      "n_tasks": 99
+    },
+    "kimi/interactive-pro": {
+      "mean": 156.0,
+      "std": 46.94656321798006,
+      "min": 79,
+      "max": 356,
+      "n_tasks": 100
+    },
+    "llama/independent-none": {
+      "mean": 422.04,
+      "std": 181.8608592336793,
+      "min": 7,
+      "max": 969,
+      "n_tasks": 100
+    },
+    "llama/independent-role": {
+      "mean": 164.38,
+      "std": 64.267084746534,
+      "min": 5,
+      "max": 332,
+      "n_tasks": 100
+    },
+    "llama/independent-basic": {
+      "mean": 163.71,
+      "std": 59.93048076940919,
+      "min": 13,
+      "max": 326,
+      "n_tasks": 100
+    },
+    "llama/independent-mid": {
+      "mean": 164.74,
+      "std": 56.86962228988284,
+      "min": 2,
+      "max": 312,
+      "n_tasks": 100
+    },
+    "llama/independent-pro": {
+      "mean": 155.79,
+      "std": 56.02187433530231,
+      "min": 4,
+      "max": 309,
+      "n_tasks": 100
+    },
+    "llama/independent-enhanced": {
+      "mean": 241.5,
+      "std": 97.806085204502,
+      "min": 0,
+      "max": 519,
+      "n_tasks": 100
+    },
+    "llama/independent-temp-high": {
+      "mean": 240.61,
+      "std": 96.06099651005631,
+      "min": 2,
+      "max": 480,
+      "n_tasks": 100
+    },
+    "llama/independent-dimension": {
+      "mean": 239.0,
+      "std": 98.4702180275023,
+      "min": 0,
+      "max": 492,
+      "n_tasks": 100
+    },
+    "llama/independent-random-sys": {
+      "mean": 228.5,
+      "std": 90.59316316434266,
+      "min": 10,
+      "max": 453,
+      "n_tasks": 100
+    },
+    "llama/sequential-none": {
+      "mean": 193.03,
+      "std": 59.81257848859675,
+      "min": 0,
+      "max": 335,
+      "n_tasks": 100
+    },
+    "llama/sequential-pro": {
+      "mean": 415.0,
+      "std": 122.2219375570606,
+      "min": 55,
+      "max": 647,
+      "n_tasks": 100
+    },
+    "llama/interactive-none": {
+      "mean": 164.04,
+      "std": 48.793508427315054,
+      "min": 57,
+      "max": 354,
+      "n_tasks": 100
+    },
+    "llama/interactive-pro": {
+      "mean": 127.26,
+      "std": 37.918205429981825,
+      "min": 24,
+      "max": 220,
+      "n_tasks": 100
+    },
+    "grok/independent-none": {
+      "mean": 303.48,
+      "std": 131.7244966978543,
+      "min": 35,
+      "max": 771,
+      "n_tasks": 100
+    },
+    "grok/independent-role": {
+      "mean": 257.81,
+      "std": 116.66542813195397,
+      "min": 54,
+      "max": 610,
+      "n_tasks": 100
+    },
+    "grok/independent-basic": {
+      "mean": 270.14,
+      "std": 126.70844765472707,
+      "min": 39,
+      "max": 775,
+      "n_tasks": 100
+    },
+    "grok/independent-mid": {
+      "mean": 259.03,
+      "std": 126.01486644700522,
+      "min": 44,
+      "max": 654,
+      "n_tasks": 100
+    },
+    "grok/independent-pro": {
+      "mean": 253.96,
+      "std": 117.57902307242846,
+      "min": 44,
+      "max": 581,
+      "n_tasks": 100
+    },
+    "grok/independent-enhanced": {
+      "mean": 329.91,
+      "std": 135.0708826258766,
+      "min": 40,
+      "max": 707,
+      "n_tasks": 100
+    },
+    "grok/independent-temp-high": {
+      "mean": 411.57,
+      "std": 187.17864070281507,
+      "min": 50,
+      "max": 1131,
+      "n_tasks": 100
+    },
+    "grok/independent-dimension": {
+      "mean": 306.45,
+      "std": 132.3046969244963,
+      "min": 48,
+      "max": 706,
+      "n_tasks": 100
+    },
+    "grok/independent-random-sys": {
+      "mean": 307.18,
+      "std": 125.22475793548176,
+      "min": 60,
+      "max": 692,
+      "n_tasks": 100
+    },
+    "grok/sequential-none": {
+      "mean": 242.97,
+      "std": 80.40082101696488,
+      "min": 59,
+      "max": 518,
+      "n_tasks": 100
+    },
+    "grok/sequential-pro": {
+      "mean": 817.23,
+      "std": 267.7046033344676,
+      "min": 254,
+      "max": 1635,
+      "n_tasks": 100
+    },
+    "grok/interactive-none": {
+      "mean": 219.4,
+      "std": 87.7429671416934,
+      "min": 59,
+      "max": 665,
+      "n_tasks": 100
+    },
+    "grok/interactive-pro": {
+      "mean": 161.79,
+      "std": 66.70397365232525,
+      "min": 38,
+      "max": 307,
+      "n_tasks": 100
+    },
+    "qwen/independent-none": {
+      "mean": 364.43,
+      "std": 194.26480183585298,
+      "min": 0,
+      "max": 1409,
+      "n_tasks": 100
+    },
+    "qwen/independent-role": {
+      "mean": 235.55,
+      "std": 105.25326598258128,
+      "min": 41,
+      "max": 519,
+      "n_tasks": 100
+    },
+    "qwen/independent-basic": {
+      "mean": 269.26,
+      "std": 115.84678317379888,
+      "min": 74,
+      "max": 654,
+      "n_tasks": 100
+    },
+    "qwen/independent-mid": {
+      "mean": 267.87,
+      "std": 106.00253999243832,
+      "min": 107,
+      "max": 731,
+      "n_tasks": 100
+    },
+    "qwen/independent-pro": {
+      "mean": 249.18,
+      "std": 99.83849382119529,
+      "min": 91,
+      "max": 626,
+      "n_tasks": 100
+    },
+    "qwen/independent-enhanced": {
+      "mean": 426.52,
+      "std": 161.64854506370332,
+      "min": 0,
+      "max": 968,
+      "n_tasks": 100
+    },
+    "qwen/independent-temp-high": {
+      "mean": 362.27,
+      "std": 172.45059927967543,
+      "min": 0,
+      "max": 1138,
+      "n_tasks": 100
+    },
+    "qwen/independent-dimension": {
+      "mean": 402.9,
+      "std": 163.01481001071124,
+      "min": 0,
+      "max": 918,
+      "n_tasks": 100
+    },
+    "qwen/independent-random-sys": {
+      "mean": 543.59,
+      "std": 272.9146865993403,
+      "min": 55,
+      "max": 1583,
+      "n_tasks": 100
+    },
+    "qwen/sequential-none": {
+      "mean": 317.47,
+      "std": 105.20998291536078,
+      "min": 13,
+      "max": 783,
+      "n_tasks": 100
+    },
+    "qwen/sequential-pro": {
+      "mean": 1299.37,
+      "std": 780.6502942542146,
+      "min": 62,
+      "max": 3805,
+      "n_tasks": 100
+    },
+    "qwen/interactive-none": {
+      "mean": 346.21,
+      "std": 136.22013489758095,
+      "min": 21,
+      "max": 782,
+      "n_tasks": 100
+    },
+    "qwen/interactive-pro": {
+      "mean": 253.13,
+      "std": 89.88507308578195,
+      "min": 98,
+      "max": 523,
+      "n_tasks": 100
+    }
+  }
+}

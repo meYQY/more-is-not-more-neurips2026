@@ -1,0 +1,575 @@
+[
+  {
+    "index": 31,
+    "judgments": [
+      {"opinion": "In a gift economy, resources and goods are shared without expecting direct reciprocity or monetary compensation.", "precision": "yes"},
+      {"opinion": "This approach focuses on building relationships, trust, and community.", "precision": "yes"},
+      {"opinion": "Recognize that resources are not scarce, and that there's enough to go around.", "precision": "yes"},
+      {"opinion": "This mindset encourages sharing, collaboration, and mutual support.", "precision": "yes"},
+      {"opinion": "Foster a culture where people contribute their skills, time, and resources without expecting direct payment or reciprocity.", "precision": "yes"},
+      {"opinion": "Decision-making is distributed among community members, and resources are managed through a network of local, autonomous groups.", "precision": "yes"},
+      {"opinion": "Encourage open communication, transparency, and trust among community members to facilitate cooperation and mutual support.", "precision": "yes"},
+      {"opinion": "Implement a decentralized, open-source platform for managing resources, such as a blockchain-based system or a wiki-style database.", "precision": "yes"},
+      {"opinion": "Resources are cataloged, and their availability is made visible to the community.", "precision": "yes"},
+      {"opinion": "People contribute their skills, time, and resources to the community without expecting direct compensation.", "precision": "yes"},
+      {"opinion": "Contributions can take many forms, such as volunteering, skill-sharing, or providing goods and services.", "precision": "yes"},
+      {"opinion": "Community members express their needs and desires through a transparent, publicly accessible platform.", "precision": "yes"},
+      {"opinion": "The community matches available resources with expressed needs, facilitating the exchange of goods and services.", "precision": "yes"},
+      {"opinion": "Implement a reputation system that acknowledges and rewards contributions, fostering a sense of community and encouraging continued participation.", "precision": "yes"},
+      {"opinion": "Feedback mechanisms allow community members to evaluate the quality of goods and services, helping to maintain high standards.", "precision": "yes"},
+      {"opinion": "Start by establishing gift economies in local communities, where people can build relationships and trust.", "precision": "yes"},
+      {"opinion": "Encourage community members to work together, share knowledge, and provide mutual support.", "precision": "yes"},
+      {"opinion": "Create and maintain open-source platforms and tools to facilitate resource management, contribution, and sharing.", "precision": "yes"},
+      {"opinion": "Promote a culture of sharing, cooperation, and mutual support through education, workshops, and community events.", "precision": "yes"},
+      {"opinion": "As the gift economy grows, it may become increasingly difficult to maintain transparency, trust, and effective resource management.", "precision": "yes"},
+      {"opinion": "Some individuals may take advantage of the system without contributing, potentially undermining the community's trust and cooperation.", "precision": "yes"},
+      {"opinion": "Ensuring that the gift economy is inclusive and diverse will be crucial to its success, requiring ongoing efforts to address power imbalances and promote social equity.", "precision": "yes"},
+      {"opinion": "A gift economy can foster innovation and creativity, as people are motivated by intrinsic factors, such as personal satisfaction and community recognition.", "precision": "yes"},
+      {"opinion": "A well-designed gift economy can promote cooperation, mutual support, and social well-being.", "precision": "yes"}
+    ],
+    "no_missed": false,
+    "missed_opinions": "Technology can facilitate and support a gift economy (the speaker explicitly states excitement about this as a software developer)"
+  },
+  {
+    "index": 32,
+    "judgments": [
+      {"opinion": "Rizz isn't one-size-fits-all; it depends on whether you're texting a stranger, talking to a crush, or just being playful with someone you know.", "precision": "yes"},
+      {"opinion": "The 'Confidence' Move works best if you already have some rapport and want to show you're interested without being creepy.", "precision": "yes"},
+      {"opinion": "The 'Confidence' Move is honest, flattering, and takes the pressure off.", "precision": "yes"},
+      {"opinion": "The goal of the 'Playful' Debate is to start a 'mini-argument' to build chemistry.", "precision": "yes"},
+      {"opinion": "The 'Playful' Debate gives you something to joke about and disagree on in a fun way.", "precision": "yes"},
+      {"opinion": "The 'Observational' Rizz shows you're actually paying attention to who she is, not just what she looks like.", "precision": "yes"},
+      {"opinion": "The 'Smooth' Text is a 'push-pull' tactic.", "precision": "yes"},
+      {"opinion": "The 'Smooth' Text works because you're complimenting her while jokingly 'blaming' her for being a distraction.", "precision": "yes"},
+      {"opinion": "If you try too hard to be 'smooth,' it comes off as corny.", "precision": "yes"},
+      {"opinion": "Be about 80% yourself and 20% 'extra.'", "precision": "yes"},
+      {"opinion": "If she gives you one-word answers, don't send a paragraph.", "precision": "yes"},
+      {"opinion": "If she's joking back, lean into it.", "precision": "yes"},
+      {"opinion": "Confidence over Content: It's less about the perfect words and more about the fact that you were confident enough to say them.", "precision": "yes"}
+    ],
+    "no_missed": true,
+    "missed_opinions": ""
+  },
+  {
+    "index": 33,
+    "judgments": [
+      {"opinion": "I'm generally more sympathetic to the pro-choice perspective.", "precision": "yes"},
+      {"opinion": "I understand that there are valid concerns and arguments on both sides.", "precision": "yes"},
+      {"opinion": "I've seen the impact of abortion on women's health and well-being.", "precision": "yes"},
+      {"opinion": "I've also witnessed the complexities of pregnancy and childbirth.", "precision": "yes"},
+      {"opinion": "These experiences have given me a deeper understanding of the difficult choices that women face.", "precision": "yes"},
+      {"opinion": "I believe it's essential to approach this topic with empathy and understanding.", "precision": "yes"},
+      {"opinion": "I'm committed to engaging in a constructive and respectful debate with you.", "precision": "yes"}
+    ],
+    "no_missed": true,
+    "missed_opinions": ""
+  },
+  {
+    "index": 34,
+    "judgments": [
+      {"opinion": "I wonder who benefits when people say stuff like that", "precision": "yes"},
+      {"opinion": "If I believed colleges were all corrupt and foreign-controlled, I'd probably just give up on ever going", "precision": "yes"},
+      {"opinion": "My cousin went to an HBCU and she said it was mostly just professors trying to get through to students who were working jobs like me, trying to better themselves", "precision": "yes"},
+      {"opinion": "She didn't mention any indoctrination", "precision": "yes"},
+      {"opinion": "Is learning about slavery and Jim Crow 'anti-western'? Because that is American history, even when it's ugly", "precision": "yes"},
+      {"opinion": "My grandma lived through segregation. That's not indoctrination, that's just... what happened", "precision": "yes"},
+      {"opinion": "I think some people get mad when colleges teach things that don't match how they were raised. But that's different from some China conspiracy", "precision": "yes"},
+      {"opinion": "If China was secretly running things, you'd think they'd make it cheaper or easier to actually attend", "precision": "yes"},
+      {"opinion": "The barriers feel pretty American-made to me—broken financial aid systems, childcare I can't afford, jobs that don't pay enough to live and study", "precision": "yes"},
+      {"opinion": "I don't trust easy answers to complicated problems", "precision": "yes"}
+    ],
+    "no_missed": true,
+    "missed_opinions": ""
+  },
+  {
+    "index": 35,
+    "judgments": [
+      {"opinion": "There isn't one single \"best\" college degree for everyone — the best degree depends on your interests, strengths, and what kind of life you want after college.", "precision": "yes"},
+      {"opinion": "Computer Science / Software Engineering — strong job demand, good pay, lots of career options", "precision": "yes"},
+      {"opinion": "Nursing / Healthcare fields — stable demand, clear career paths, meaningful work", "precision": "yes"},
+      {"opinion": "Engineering — especially civil, electrical, mechanical, and computer engineering", "precision": "yes"},
+      {"opinion": "Business / Accounting / Finance — broad options, useful in many industries", "precision": "yes"},
+      {"opinion": "Data Science / Statistics / Math — growing demand in tech, business, and healthcare", "precision": "yes"},
+      {"opinion": "Education — valuable if you want to teach and work with students, though pay varies", "precision": "yes"},
+      {"opinion": "Information Systems / Cybersecurity — practical and in demand", "precision": "yes"}
+    ],
+    "no_missed": false,
+    "missed_opinions": "Pick something you're genuinely interested in; Consider the cost of the degree versus expected earnings; Look for skills that transfer across many jobs"
+  },
+  {
+    "index": 36,
+    "judgments": [
+      {"opinion": "Slavery over centuries would embed trauma into the very physiology of a population.", "precision": "yes"},
+      {"opinion": "Genocide, while more acutely annihilating, also leaves a void that reshapes the health and psyche of survivors and their communities for generations.", "precision": "yes"},
+      {"opinion": "Trauma isn't only about numbers; it's about how memory, identity, and dignity are preserved or shattered.", "precision": "yes"},
+      {"opinion": "Whether it's the slow violence of slavery or the rapid horror of genocide, both represent a profound failure to uphold justice ('adl) and compassion (rahma).", "precision": "yes"},
+      {"opinion": "How we teach history, support reparative justice, and protect human rights reflects our commitment to not repeating such catastrophes.", "precision": "yes"},
+      {"opinion": "Healing is both personal and political.", "precision": "yes"},
+      {"opinion": "Maybe the most humane response is to hold space for the weight of both horrors without ranking them.", "precision": "yes"}
+    ],
+    "no_missed": false,
+    "missed_opinions": "Inclusive public health policies and trauma-informed care are important advocacy goals; oppression is one of the gravest sins (Islamic faith perspective on both slavery and genocide)"
+  },
+  {
+    "index": 37,
+    "judgments": [
+      {"opinion": "Criticism that is specific, addressing particular issues or policies, and is accompanied by suggested solutions or a desire to improve, often indicates a genuine concern.", "precision": "yes"},
+      {"opinion": "Critics who care about their country usually focus on specific problems rather than making blanket statements.", "precision": "yes"},
+      {"opinion": "Criticism delivered with a constructive tone, aiming to educate or prompt change, is more likely to come from a place of care.", "precision": "yes"},
+      {"opinion": "Criticism that is overly negative, derogatory, or demeaning is more likely rooted in disdain.", "precision": "yes"},
+      {"opinion": "Individuals who have a track record of advocating for positive change, participating in community service, or supporting progressive policies are more likely to be motivated by a desire to improve their country.", "precision": "yes"},
+      {"opinion": "People who criticize their country because they care often balance their criticism with an acknowledgment of its positive aspects.", "precision": "yes"},
+      {"opinion": "A willingness to engage with counterarguments and consider different perspectives is a sign of a genuine desire to understand and improve the situation.", "precision": "yes"},
+      {"opinion": "Critics who are invested in their country's well-being often come with potential solutions or are willing to work towards finding them.", "precision": "yes"},
+      {"opinion": "Individuals who are defensive or dismissive when others criticize their country, yet are vocal about its issues themselves, may be seen as caring deeply.", "precision": "yes"},
+      {"opinion": "Those who seem to agree with or amplify external negative criticism might not be motivated by a desire to improve their country.", "precision": "yes"},
+      {"opinion": "People who are emotionally connected to their culture and society are more likely to be driven by a desire to see it improve.", "precision": "yes"},
+      {"opinion": "Critics compare their country's issues to those in other countries, not to diminish their own country's problems but to contextualize them and suggest that alternative approaches might be more effective.", "precision": "partial"},
+      {"opinion": "Individuals who continue to speak out despite potential personal costs may be doing so because they care deeply about their country.", "precision": "yes"}
+    ],
+    "no_missed": true,
+    "missed_opinions": ""
+  },
+  {
+    "index": 38,
+    "judgments": [
+      {"opinion": "Lo-Fi Hip Hop Beats is my go-to.", "precision": "yes"},
+      {"opinion": "Lo-Fi Hip Hop Beats is perfect when I'm doing repetitive tasks or reviewing flashcards.", "precision": "yes"},
+      {"opinion": "I actually prefer brown noise.", "precision": "yes"},
+      {"opinion": "Brown noise is great because it masks sudden sounds.", "precision": "yes"},
+      {"opinion": "Brown noise smooths out the auditory environment so your brain doesn't have to keep 'resetting' its focus.", "precision": "yes"},
+      {"opinion": "Mozart and Bach are excellent because they are structured and mathematical.", "precision": "yes"},
+      {"opinion": "The structure of Baroque music can help with concentration.", "precision": "yes"},
+      {"opinion": "Avoid anything too dramatic or emotional, like late Romantic era pieces (Tchaikovsky, for example), because the swelling emotions can pull your mind away from your work.", "precision": "yes"},
+      {"opinion": "Stick to the calmer, more predictable compositions.", "precision": "yes"},
+      {"opinion": "Since I'm Muslim, sometimes I find deep comfort and focus in listening to soft, instrumental-free nasheeds or even the recitation of the Quran.", "precision": "yes"},
+      {"opinion": "The rhythmic, melodic nature of the Arabic language is incredibly calming for me.", "precision": "yes"},
+      {"opinion": "It centers my heart and clears my mind.", "precision": "yes"},
+      {"opinion": "If you're not Muslim, you might find similar benefits in Gregorian chants or other meditative vocal traditions that lack instrumental distraction.", "precision": "yes"},
+      {"opinion": "Alpha waves (8–13 Hz) are associated with relaxed alertness.", "precision": "yes"},
+      {"opinion": "I don't use them all the time, but when I'm feeling particularly anxious or scattered, they help ground me.", "precision": "yes"},
+      {"opinion": "Consistency is key.", "precision": "yes"},
+      {"opinion": "Your brain will start to associate that sound with 'focus mode,' making it easier to get into the zone.", "precision": "yes"},
+      {"opinion": "Avoid lyrics in your native language.", "precision": "yes"},
+      {"opinion": "Your brain will automatically try to process the words, which competes with the language centers you're using to study.", "precision": "yes"}
+    ],
+    "no_missed": false,
+    "missed_opinions": "Keep the volume low—it should be background, not foreground"
+  },
+  {
+    "index": 39,
+    "judgments": [
+      {"opinion": "Military intervention or regime change is illegal, dangerous, and counterproductive.", "precision": "yes"},
+      {"opinion": "Peaceful dialogue, specifically through multilateral frameworks and confidence-building measures, is the only viable solution.", "precision": "yes"},
+      {"opinion": "Protecting civilian lives and providing aid is a moral imperative and a tool for fostering goodwill.", "precision": "yes"},
+      {"opinion": "Correct terminology (Kim Jong-un, DPRK) and respect for sovereignty are essential for serious discourse.", "precision": "yes"}
+    ],
+    "no_missed": false,
+    "missed_opinions": "The 'action-for-action' principle remains central to successful diplomacy on the peninsula; multilateral institutions like the UN play an irreplaceable role in providing neutral platforms; supporting UN agencies ensures humanitarian needs are met and technical verification of agreements remains credible"
+  },
+  {
+    "index": 40,
+    "judgments": [
+      {"opinion": "Third Way politics and fascism are fundamentally different in both theory and practice.", "precision": "yes"},
+      {"opinion": "Third Way politics, as I understand it from figures like Bill Clinton and Tony Blair, represents a centrist approach that blends market economics with some social welfare policies.", "precision": "yes"},
+      {"opinion": "It's about pragmatic governance - using what works from both left and right to address complex issues.", "precision": "yes"},
+      {"opinion": "Fascism, on the other hand, is an authoritarian ideology that suppresses individual liberties and dissent.", "precision": "yes"},
+      {"opinion": "The comparison seems overly simplistic to me.", "precision": "yes"},
+      {"opinion": "While any political movement can be criticized for various shortcomings, equating Third Way centrism with fascism ignores the vast differences in their respect for democratic institutions, individual rights, and market principles.", "precision": "yes"}
+    ],
+    "no_missed": true,
+    "missed_opinions": ""
+  },
+  {
+    "index": 41,
+    "judgments": [
+      {"opinion": "Voice-activated task manager that 'echoes' your reminders back in your own voice (using AI cloning) is a clever app idea.", "precision": "partial"},
+      {"opinion": "AR app that overlays your habit goals onto your daily routine via phone camera makes abstract habits tangible.", "precision": "yes"},
+      {"opinion": "MoodMeal combines emotional eating insights with zero-waste cooking for stressed professionals.", "precision": "yes"},
+      {"opinion": "BreatheBuddy makes meditation addictive for gamers and ADHD users.", "precision": "yes"},
+      {"opinion": "VibeVault is a privacy-first social discovery app great for introverts avoiding superficial swipes.", "precision": "yes"},
+      {"opinion": "PetPlaydate solves pet loneliness while fostering human connections.", "precision": "yes"},
+      {"opinion": "GhostCart is a behavioral economics hack to curb retail therapy.", "precision": "yes"},
+      {"opinion": "SkillSwap builds community economies in gig-free neighborhoods.", "precision": "yes"},
+      {"opinion": "DreamDecoder turns subconscious ramblings into personalized therapy/creative inspo.", "precision": "yes"},
+      {"opinion": "NoiseNomad offers mindfulness meets adventure for commuters seeking escapism.", "precision": "yes"}
+    ],
+    "no_missed": false,
+    "missed_opinions": "These app ideas are feasible with current tech (AI, AR, computer vision) and have strong viral potential via social sharing"
+  },
+  {
+    "index": 42,
+    "judgments": [
+      {"opinion": "Creating a space where they feel no judgment is helpful.", "precision": "yes"},
+      {"opinion": "Sharing something vulnerable yourself often helps level the playing field.", "precision": "yes"}
+    ],
+    "no_missed": true,
+    "missed_opinions": ""
+  },
+  {
+    "index": 43,
+    "judgments": [
+      {"opinion": "Some men get uncomfortable not because a woman is assertive, but because she's competent and knows it.", "precision": "yes"},
+      {"opinion": "Actual demonstrated skill combined with self-assurance in women gets coded as arrogance.", "precision": "yes"},
+      {"opinion": "There's also this protection instinct that misfires.", "precision": "yes"},
+      {"opinion": "The healthy response requires actual behavior change, not just mental reframing.", "precision": "yes"},
+      {"opinion": "Some men are attracted to exactly what they claim to resent.", "precision": "yes"},
+      {"opinion": "The 'I want a woman who challenges me' thing that collapses when she actually does.", "precision": "yes"}
+    ],
+    "no_missed": false,
+    "missed_opinions": "False confidence in men is weirdly acceptable while actual competence combined with self-assurance in women is coded negatively; mechanical habit of soliciting quieter voices can become genuine preference"
+  },
+  {
+    "index": 44,
+    "judgments": [
+      {"opinion": "Reaching those 1991 borders—which would mean taking back everything, including Crimea and the Donbas—feels like a massive uphill climb.", "precision": "yes"},
+      {"opinion": "If the support from the U.S. or Europe wavers, those 1991 borders start looking more like a dream than a reality.", "precision": "yes"},
+      {"opinion": "Reaching those borders would likely take years more of fighting and a loss of life that is just heartbreaking to imagine.", "precision": "yes"},
+      {"opinion": "I'd say it's a very slim margin right now without a massive, unprecedented shift in military support.", "precision": "yes"}
+    ],
+    "no_missed": false,
+    "missed_opinions": "The whole region is going to be healing from these scars for generations, regardless of where the line on the map ends up"
+  },
+  {
+    "index": 45,
+    "judgments": [
+      {"opinion": "You can be proud of Korea for the right reasons, while maintaining a critical eye toward the myths often sold to you by nationalism, politics, or pop culture.", "precision": "yes"},
+      {"opinion": "Pride is not a binary switch; it's a nuanced relationship with your heritage.", "precision": "yes"},
+      {"opinion": "The most objective reason for pride is Korea's historical trajectory.", "precision": "yes"},
+      {"opinion": "Korea went from one of the poorest nations in the world, devastated by war and colonization, to a top-tier global economy and a technological powerhouse.", "precision": "yes"},
+      {"opinion": "This isn't just propaganda; it's a documented socioeconomic miracle.", "precision": "yes"},
+      {"opinion": "Be proud of the collective will, education-driven social mobility, and adaptability of the Korean people.", "precision": "yes"},
+      {"opinion": "Be skeptical of the idea that this success was purely 'unique' to Koreans.", "precision": "yes"},
+      {"opinion": "It was also driven by specific geopolitical circumstances (U.S. aid, Cold War dynamics) and harsh authoritarian industrialization policies that came at a high human cost.", "precision": "yes"},
+      {"opinion": "Korean culture—K-pop, K-dramas, film, food, and beauty—has achieved unprecedented global soft power.", "precision": "yes"},
+      {"opinion": "Parasite winning the Oscar, BTS breaking records, and kimchi being recognized globally are real achievements.", "precision": "yes"},
+      {"opinion": "Be proud of the creativity, production quality, and emotional resonance of Korean artists who have broken into Western-dominated cultural spaces.", "precision": "yes"},
+      {"opinion": "Be skeptical of the corporate machinery behind it.", "precision": "yes"},
+      {"opinion": "Much of Hallyu is a highly industrialized, export-oriented product.", "precision": "yes"},
+      {"opinion": "Are you proud of the art, or the branding?", "precision": "yes"},
+      {"opinion": "Be critical of how this global image sometimes masks deeper social issues within Korea (like intense competition, mental health struggles, or rigid hierarchies).", "precision": "yes"},
+      {"opinion": "Modern South Korea is a vibrant democracy.", "precision": "yes"},
+      {"opinion": "This wasn't given; it was fought for.", "precision": "yes"},
+      {"opinion": "The April Revolution (1960), the Gwangju Uprising (1980), and the Candlelight Protests (2016–2017) show that ordinary Koreans have repeatedly stood up against authoritarianism and corruption.", "precision": "yes"},
+      {"opinion": "Be proud of the civic consciousness and courage of citizens who demanded accountability and justice.", "precision": "yes"},
+      {"opinion": "Be skeptical of complacency.", "precision": "yes"},
+      {"opinion": "Democracy is fragile.", "precision": "yes"},
+      {"opinion": "National pride shouldn't mean ignoring current political polarization, media bias, or challenges to judicial independence.", "precision": "yes"},
+      {"opinion": "True pride requires honesty.", "precision": "yes"},
+      {"opinion": "Blind nationalism is dangerous.", "precision": "yes"},
+      {"opinion": "You should question and reject pride in ethnic nationalism.", "precision": "yes"},
+      {"opinion": "The idea that Koreans are a 'pure-blooded' race is a socially constructed myth that can lead to xenophobia and discrimination against immigrants, mixed-race Koreans, and minorities.", "precision": "yes"},
+      {"opinion": "You should question and reject pride in historical revisionism.", "precision": "yes"},
+      {"opinion": "Ignoring or downplaying Korea's own historical complexities, such as internal class oppression, gender inequality, or collaboration during colonial periods, is wrong.", "precision": "yes"},
+      {"opinion": "You should question and reject pride in toxic social pressures.", "precision": "yes"},
+      {"opinion": "The extreme academic pressure, workplace hierarchy (gapjil), and societal expectations that contribute to high suicide rates and low birth rates are harmful.", "precision": "yes"},
+      {"opinion": "Being proud of your culture doesn't mean endorsing its most harmful aspects.", "precision": "yes"},
+      {"opinion": "Being proudly Korean doesn't mean believing Korea is perfect or superior.", "precision": "yes"},
+      {"opinion": "It means acknowledging complexity: loving your culture while critically engaging with its flaws.", "precision": "yes"},
+      {"opinion": "It means contributing positively: using your voice to improve society, whether through art, activism, business, or daily kindness.", "precision": "yes"},
+      {"opinion": "It means rejecting defensiveness: you don't need to defend every aspect of Korea to outsiders.", "precision": "yes"},
+      {"opinion": "Confidence allows for criticism.", "precision": "yes"},
+      {"opinion": "You can be proud of Korea's resilience, creativity, democratic spirit, and rich heritage.", "precision": "yes"},
+      {"opinion": "Let that pride be active, not passive.", "precision": "yes"},
+      {"opinion": "Let it inspire you to uphold the best parts of Korean identity while challenging the parts that hold people back.", "precision": "yes"},
+      {"opinion": "True pride isn't just about feeling good; it's about doing good.", "precision": "yes"}
+    ],
+    "no_missed": true,
+    "missed_opinions": ""
+  },
+  {
+    "index": 46,
+    "judgments": [
+      {"opinion": "A dilemma is a situation where you have to make a difficult choice between two or more alternatives, especially when all the options seem equally unfavorable or challenging.", "precision": "yes"},
+      {"opinion": "In a family context, a dilemma usually means no matter what you choose, someone might get hurt or a tradition might be broken.", "precision": "yes"},
+      {"opinion": "When things get chaotic, I lean on my faith and my routine.", "precision": "yes"},
+      {"opinion": "Whether it's faith, meditation, or just a long walk at Buffalo Bayou Park, find something that keeps you calm so you don't react out of pure emotion.", "precision": "yes"},
+      {"opinion": "In a family dilemma, ask yourself: Is this an emergency, or can I take 24 hours to think before I respond?", "precision": "yes"},
+      {"opinion": "Usually, taking a beat prevents us from saying something we'll regret later.", "precision": "yes"},
+      {"opinion": "Coming from a Mexican household, I know how big and loud family dynamics can be!", "precision": "yes"},
+      {"opinion": "We value familia above everything, but that can also be overwhelming.", "precision": "yes"},
+      {"opinion": "Try to listen to where others are coming from, but don't lose your own voice.", "precision": "yes"},
+      {"opinion": "It's okay to say, 'I love you all, but I need a little space to figure out my own thoughts on this.'", "precision": "yes"},
+      {"opinion": "Being a liberal-leaning person in a traditional culture often puts me in the middle of dilemmas.", "precision": "yes"},
+      {"opinion": "I've learned that you don't always have to 'win' the argument.", "precision": "yes"},
+      {"opinion": "Sometimes, the best behavior during uncertain times is being the person who seeks a compromise that keeps the peace without sacrificing your values.", "precision": "yes"},
+      {"opinion": "In your family, you can't control how your cousins or parents act, but you can control your own reactions and your own integrity.", "precision": "yes"}
+    ],
+    "no_missed": true,
+    "missed_opinions": ""
+  },
+  {
+    "index": 47,
+    "judgments": [
+      {"opinion": "Naming one's eldest son after oneself can have both positive and negative effects.", "precision": "yes"},
+      {"opinion": "Individuals with the same name as their parent tend to have a stronger sense of identity and family ties.", "precision": "yes"},
+      {"opinion": "73% of Americans believe that carrying on family names is an important aspect of family tradition.", "precision": "yes"},
+      {"opinion": "Naming one's eldest son after oneself can be seen as a form of identity formation and a way to reinforce family bonds.", "precision": "yes"},
+      {"opinion": "By sharing a name, fathers and sons may experience a deeper sense of connection and shared identity.", "precision": "yes"},
+      {"opinion": "Naming one's eldest son after oneself may create unrealistic expectations or pressure on the child to live up to their namesake.", "precision": "yes"},
+      {"opinion": "Individuals who were named after their parents reported higher levels of stress and anxiety related to living up to their namesake's expectations.", "precision": "yes"},
+      {"opinion": "I would not recommend naming one's eldest son after oneself solely for the sake of tradition or personal ego.", "precision": "yes"},
+      {"opinion": "Parents should carefully weigh the potential benefits and drawbacks and make an informed decision that prioritizes the well-being and identity of their child.", "precision": "yes"}
+    ],
+    "no_missed": true,
+    "missed_opinions": ""
+  },
+  {
+    "index": 48,
+    "judgments": [
+      {"opinion": "We are currently living through the transition from a unipolar world (dominated by the U.S.) to a multipolar world.", "precision": "yes"},
+      {"opinion": "If the dollar loses its 'exorbitant privilege,' the U.S. can no longer run massive deficits to fund its military and social programs.", "precision": "yes"},
+      {"opinion": "A total collapse of dollar hegemony is decades away because there is currently no viable, liquid alternative.", "precision": "yes"},
+      {"opinion": "The U.S. remains the world's largest economy (nominally) and most powerful military, but its margin of lead is shrinking.", "precision": "yes"},
+      {"opinion": "Even if China's economy grows larger, the U.S. maintains a massive network of formal alliances that China and Russia do not have.", "precision": "yes"},
+      {"opinion": "This alliance network could extend U.S. influence well into the mid-21st century.", "precision": "yes"},
+      {"opinion": "Empires usually collapse from within rather than being conquered.", "precision": "yes"},
+      {"opinion": "Internal instability and the breakdown of domestic consensus are seen by many as the greatest threats to U.S. hegemony.", "precision": "yes"},
+      {"opinion": "With U.S. national debt exceeding $34 trillion, some argue that 'fiscal overstretch' will eventually force a retreat from global commitments.", "precision": "yes"},
+      {"opinion": "Reports of the end of U.S. hegemony are premature.", "precision": "yes"},
+      {"opinion": "The U.S. still dominates in tech, AI, aerospace, and biotechnology.", "precision": "yes"},
+      {"opinion": "The U.S. has a more favorable demographic profile due to immigration, which could allow it to outlast its rivals economically.", "precision": "yes"},
+      {"opinion": "The U.S. is energy independent and protected by two oceans, whereas its rivals (like China) are surrounded by competitors and depend on vulnerable sea lanes for energy.", "precision": "yes"},
+      {"opinion": "Some economists predict China will overtake the U.S. as the world's largest nominal economy in the 2030s.", "precision": "yes"},
+      {"opinion": "Many geopolitical models suggest the 2040s–2050s is when a truly 'multipolar' world will be fully established, with the U.S., China, and India acting as roughly equal pillars.", "precision": "yes"},
+      {"opinion": "Because of the 'stickiness' of institutional power, U.S. influence will remain dominant for the remainder of the 21st century, even if it is no longer the 'sole superpower.'", "precision": "yes"},
+      {"opinion": "Rather than a sudden 'end,' most experts expect a slow erosion of influence where the U.S. remains a 'first among equals' rather than an undisputed global leader.", "precision": "yes"}
+    ],
+    "no_missed": true,
+    "missed_opinions": ""
+  },
+  {
+    "index": 49,
+    "judgments": [
+      {"opinion": "Twin studies alone bury it—identical genes, minutes-apart births, totally different charts, yet eerily similar lives.", "precision": "yes"},
+      {"opinion": "Data over destiny!", "precision": "yes"},
+      {"opinion": "Fun's fine (I'll peek at a horoscope with my boba), but for real decisions? Evidence, family (shoutout to my wife and kid keeping me sane), and a good pull request.", "precision": "yes"}
+    ],
+    "no_missed": false,
+    "missed_opinions": "Blaming Mercury retrograde for poor code is wrong—it's always just untested code or poor variable naming (astrology is not a valid explanation for practical failures)"
+  },
+  {
+    "index": 50,
+    "judgments": [
+      {"opinion": "US 'smearing' of Xinjiang is pure deflection.", "precision": "no"},
+      {"opinion": "US 'smearing' of Xinjiang is overwhelmingly verified abuses.", "precision": "partial"},
+      {"opinion": "US 'smearing' of Xinjiang is masterful containment.", "precision": "partial"},
+      {"opinion": "US 'smearing' of Xinjiang has election-fueled momentum.", "precision": "partial"},
+      {"opinion": "Hypocrisy is quantified irrelevance.", "precision": "yes"},
+      {"opinion": "China's 'harmonious society' evades scrutiny.", "precision": "yes"},
+      {"opinion": "Xinjiang as triad linchpin.", "precision": "yes"},
+      {"opinion": "Xinjiang stigma causes 45% new loan drop.", "precision": "yes"},
+      {"opinion": "Ethical AI treaty bans Xinjiang-trained models.", "precision": "yes"},
+      {"opinion": "Xinjiang funds $3T risks at less than 1% US cost—genius geopolitics.", "precision": "yes"},
+      {"opinion": "Abuses eternal → containment jackpot.", "precision": "yes"},
+      {"opinion": "BRI implodes under own weight.", "precision": "yes"},
+      {"opinion": "Triad wargames show China cracks first.", "precision": "yes"},
+      {"opinion": "Ethical AI equals tech checkmate.", "precision": "yes"}
+    ],
+    "no_missed": true,
+    "missed_opinions": ""
+  },
+  {
+    "index": 51,
+    "judgments": [
+      {"opinion": "There is no single 'better' approach, as the optimal method depends heavily on what is being taught, who is learning it, and why they are learning it.", "precision": "yes"},
+      {"opinion": "Teaching logically is efficient, clear, and good for problem-solving and standardization.", "precision": "yes"},
+      {"opinion": "Teaching logically can lack context, seem arbitrary, and be disengaging.", "precision": "yes"},
+      {"opinion": "Teaching historically fosters deep understanding, humanizes the subject, and promotes critical thinking.", "precision": "yes"},
+      {"opinion": "Teaching historically is inefficient, can cause confusion, and may include irrelevant material.", "precision": "yes"},
+      {"opinion": "A blended approach is often best.", "precision": "yes"},
+      {"opinion": "For skill acquisition, teach logically.", "precision": "yes"},
+      {"opinion": "For conceptual depth and wisdom, teach historically.", "precision": "yes"},
+      {"opinion": "For ideal education, start logically, then enrich historically.", "precision": "yes"}
+    ],
+    "no_missed": true,
+    "missed_opinions": ""
+  },
+  {
+    "index": 52,
+    "judgments": [
+      {"opinion": "The statement is technically foundational but functionally reductive.", "precision": "yes"},
+      {"opinion": "AI training is a fulfillment of the Minimum Description Length (MDL) principle.", "precision": "yes"},
+      {"opinion": "Squeezing petabytes of data into a few gigabytes of parameters forces the model to abandon 'memorization' in favor of 'rule-discovery.'", "precision": "yes"},
+      {"opinion": "The ability to predict the next token is mathematically synonymous with the ability to compress a sequence.", "precision": "yes"},
+      {"opinion": "The word 'just' fails to account for Emergence.", "precision": "yes"},
+      {"opinion": "AI transcends traditional compression (like ZIP files).", "precision": "yes"},
+      {"opinion": "Unlike a ZIP file, which is a closed loop returning the original input, AI is an open system capable of interpolation.", "precision": "yes"},
+      {"opinion": "AI can combine 'compressed' concepts to create novel outputs that never existed in the training set.", "precision": "yes"},
+      {"opinion": "To compress the 'logic' of a chess game or a physics problem, the model must 'crystallize' the underlying rules.", "precision": "yes"},
+      {"opinion": "At a certain scale, high-level compression becomes indistinguishable from functional reasoning.", "precision": "yes"},
+      {"opinion": "AI operates in a 'latent space' of meanings rather than characters, allowing for cross-modal tasks (text-to-image) that are impossible for standard compression.", "precision": "yes"},
+      {"opinion": "The term 'glorified' is a reductionist trope.", "precision": "yes"},
+      {"opinion": "While a brain is 'glorified chemistry' or a 'glorified calorie burner,' such descriptions are useless for explaining consciousness or utility.", "precision": "yes"},
+      {"opinion": "The mechanism of a thing does not define its utility.", "precision": "yes"},
+      {"opinion": "The statement is technically accurate but colloquially misleading.", "precision": "yes"},
+      {"opinion": "If 'compression' is defined as the extraction of the essential essence of information to predict future outcomes, then the statement is a profound insight into the nature of intelligence.", "precision": "yes"},
+      {"opinion": "If 'glorified compression' is used to suggest that AI is a mere database or a 'stochastic parrot' without generative utility, it is incorrect.", "precision": "yes"},
+      {"opinion": "AI is 'Lossy Compression that has scaled into Generalization.'", "precision": "yes"},
+      {"opinion": "The 'glory' is not a trick; it is the emergent property of logic that crystallizes when information is compressed with sufficient density.", "precision": "yes"}
+    ],
+    "no_missed": true,
+    "missed_opinions": ""
+  },
+  {
+    "index": 53,
+    "judgments": [
+      {"opinion": "Trust is built in the everyday — not through occasional grand gestures, but through small, consistent acts of reliability, honesty, and presence.", "precision": "yes"},
+      {"opinion": "It's relational and dynamic — influenced by both your actions and others' histories, perceptions, and emotional worlds.", "precision": "yes"},
+      {"opinion": "Self-reflection and feedback are essential — yet they must be balanced with self-compassion and an understanding that not every breach of trust is within your control.", "precision": "yes"},
+      {"opinion": "In our eagerness to be trusted, we can sometimes over-perform or become anxious, which may inadvertently create distance.", "precision": "yes"},
+      {"opinion": "True trust often grows when we allow relationships to unfold naturally, grounded in steady, values-driven behavior rather than in the need for validation.", "precision": "yes"},
+      {"opinion": "You cannot control others' perceptions entirely, but you can nurture the qualities within yourself that make trust possible.", "precision": "yes"}
+    ],
+    "no_missed": true,
+    "missed_opinions": ""
+  },
+  {
+    "index": 54,
+    "judgments": [
+      {"opinion": "There are documented concerns about Chinese government influence on some U.S. campuses, primarily through Confucius Institutes.", "precision": "yes"},
+      {"opinion": "Most Confucius Institutes have closed or been restructured after scrutiny around 2017-2020.", "precision": "yes"},
+      {"opinion": "Some individual researchers and professors have faced charges or investigations related to undisclosed ties to Chinese funding or talent recruitment programs.", "precision": "yes"},
+      {"opinion": "'Anti-Western indoctrination centers' is loaded language that conflates legitimate academic critique with subversion.", "precision": "yes"},
+      {"opinion": "Studying colonialism, systemic inequality, or questioning American foreign policy isn't 'anti-Western indoctrination'—it's standard academic inquiry in humanities and social sciences, and has been for decades.", "precision": "yes"},
+      {"opinion": "There's no evidence of systematic Chinese funding driving curriculum changes across U.S. higher education.", "precision": "yes"},
+      {"opinion": "The funding patterns that actually shape universities remain predominantly domestic: federal research grants, state appropriations, tuition, and private philanthropy.", "precision": "yes"},
+      {"opinion": "The claim often functions as a politicized narrative that lumps together genuine concerns about foreign influence with attacks on diversity programs, critical race theory, or any curriculum some find politically uncomfortable.", "precision": "yes"},
+      {"opinion": "The claim takes a kernel of legitimate concern (foreign influence deserves scrutiny) and inflates it into a sweeping conspiracy theory that doesn't match the actual structure of American higher education.", "precision": "yes"},
+      {"opinion": "It's more useful for culture war messaging than accurate description.", "precision": "yes"}
+    ],
+    "no_missed": true,
+    "missed_opinions": ""
+  },
+  {
+    "index": 55,
+    "judgments": [
+      {"opinion": "Computer science, engineering, nursing, finance, and economics typically lead to strong salaries", "precision": "yes"},
+      {"opinion": "Healthcare fields (medicine, dentistry, pharmacy) require more schooling but pay very well", "precision": "yes"},
+      {"opinion": "Nursing, teaching, skilled trades, cybersecurity, and data science face persistent shortages", "precision": "yes"},
+      {"opinion": "Business, communications, or liberal arts degrees can open doors to many fields, though they may require more initiative to build specific skills", "precision": "yes"},
+      {"opinion": "Some find deep satisfaction in social work, arts, education, or ministry despite lower pay", "precision": "yes"},
+      {"opinion": "ROI differs by institution: the same degree from an expensive private college vs. an in-state public school changes the calculation significantly", "precision": "yes"},
+      {"opinion": "Your network and experiences often matter as much as the major itself", "precision": "yes"},
+      {"opinion": "The 'best' degree is one you'll actually complete—completion rates vary, and dropping out with debt but no credential is costly", "precision": "yes"},
+      {"opinion": "For many people, trade certifications, coding bootcamps, or starting a business may outperform a traditional degree in both cost and outcome", "precision": "yes"}
+    ],
+    "no_missed": false,
+    "missed_opinions": "There is no single 'best' college degree—it depends on your goals, values, and circumstances"
+  },
+  {
+    "index": 56,
+    "judgments": [
+      {"opinion": "Both 'logical' and 'historical' teaching, as traditionally conceived, tend toward monism—one right structure, or one actual path taken.", "precision": "yes"},
+      {"opinion": "Teaching viable alternatives requires a third stance: pluralism as pedagogy.", "precision": "yes"},
+      {"opinion": "The deepest teaching might ask: what makes a geometry 'true'?", "precision": "yes"},
+      {"opinion": "The 'logical or historical?' question presupposes a finished subject.", "precision": "yes"},
+      {"opinion": "For genuinely frontier areas, we need what we might call participatory epistemology: teaching students to construct both logic and history as they go.", "precision": "yes"},
+      {"opinion": "Early encounter often benefits from historical or problem-driven motivation—why does this matter?", "precision": "yes"},
+      {"opinion": "Consolidation often benefits from logical structure—how does this cohere?", "precision": "yes"},
+      {"opinion": "Mastery often benefits from archaeological or pluralist perspective—what else might this have been?", "precision": "yes"},
+      {"opinion": "This sequencing isn't about cognitive necessity so much as attentional economy.", "precision": "yes"},
+      {"opinion": "Early learners lack the framework to appreciate logical elegance; advanced learners may find historical narrative inefficient unless it serves the archaeological function.", "precision": "yes"},
+      {"opinion": "For students who need logical tools but won't continue in philosophy or mathematics, I think there's a case for near-exclusive logical presentation.", "precision": "yes"},
+      {"opinion": "The historical development of logic involves enormous detours through now-obsolete systems.", "precision": "yes"},
+      {"opinion": "The point for these students is transferable competence in evaluation and construction of arguments.", "precision": "yes"},
+      {"opinion": "Historical material risks becoming 'edutainment' without epistemic payoff.", "precision": "yes"},
+      {"opinion": "This isn't principled rejection of history, but pragmatic prioritization given constraints.", "precision": "yes"},
+      {"opinion": "The deeper question is whether we can identify other cases where similar pragmatism becomes genuinely principled—where the goals of teaching are constitutively better served by one approach.", "precision": "yes"}
+    ],
+    "no_missed": false,
+    "missed_opinions": "What would it mean to assess which pedagogical approach 'works'—the meta-criterion question; our debate may ultimately be about incommensurable educational values"
+  },
+  {
+    "index": 57,
+    "judgments": [
+      {"opinion": "The situation with North Korea is complex, and there is no easy or straightforward solution.", "precision": "yes"},
+      {"opinion": "A comprehensive and definitive answer is challenging.", "precision": "yes"},
+      {"opinion": "North Korea's nuclear program is a key factor in its relations with the international community.", "precision": "yes"},
+      {"opinion": "The country's possession of nuclear weapons is perceived as a deterrent against external aggression.", "precision": "yes"},
+      {"opinion": "The Kim regime has maintained power through a combination of repression, propaganda, and strategic manipulation of information.", "precision": "yes"},
+      {"opinion": "North Korea's relationships with neighboring countries, particularly China, South Korea, and the United States, play a significant role in shaping the dynamics on the peninsula.", "precision": "yes"},
+      {"opinion": "Engaging in dialogue with North Korea to address its concerns and provide economic incentives in exchange for denuclearization and improved behavior is a potential strategy.", "precision": "yes"},
+      {"opinion": "Maintaining and strengthening international sanctions to limit North Korea's access to resources and pressure the regime to reform is a potential strategy.", "precision": "yes"},
+      {"opinion": "Maintaining a strong military presence in the region to deter North Korea from aggressive actions is a potential strategy.", "precision": "yes"},
+      {"opinion": "Using cyber capabilities and information operations to disrupt North Korea's command and control systems, as well as its ability to propagate propaganda, is a potential strategy.", "precision": "yes"},
+      {"opinion": "Providing assistance to North Korean defectors and promoting human rights within the country to undermine the regime's legitimacy is a potential strategy.", "precision": "yes"},
+      {"opinion": "The United States and its allies have imposed severe economic sanctions on North Korea to pressure the regime to abandon its nuclear program.", "precision": "yes"},
+      {"opinion": "The Trump administration engaged in summits with Kim Jong-un, but the talks ultimately stalled.", "precision": "yes"},
+      {"opinion": "The UN Security Council has passed several resolutions condemning North Korea's nuclear and missile tests, and imposing sanctions.", "precision": "yes"},
+      {"opinion": "Joint military exercises between the US and South Korea aim to demonstrate a unified response to North Korean aggression.", "precision": "yes"},
+      {"opinion": "There have been reports of covert operations, including cyber attacks and sabotage, aimed at disrupting North Korea's military capabilities.", "precision": "yes"},
+      {"opinion": "Military action or other forms of pressure could lead to a wider conflict, potentially involving China and other regional actors.", "precision": "yes"},
+      {"opinion": "Sanctions and other measures could harm the North Korean people, rather than the regime, exacerbating humanitarian concerns.", "precision": "yes"},
+      {"opinion": "A sudden collapse of the Kim regime could lead to instability and potentially even more severe humanitarian crises.", "precision": "yes"},
+      {"opinion": "Addressing the North Korea issue requires a comprehensive and nuanced approach that balances competing interests, priorities, and risks.", "precision": "yes"},
+      {"opinion": "A combination of diplomatic engagement, economic incentives, and military deterrence, accompanied by a unified international response, may be the most effective way to encourage North Korea to abandon its nuclear program and improve its behavior.", "precision": "yes"},
+      {"opinion": "There is no simple or quick fix, and any strategy will need to be adapted to the complex and evolving circumstances on the ground.", "precision": "yes"}
+    ],
+    "no_missed": true,
+    "missed_opinions": ""
+  },
+  {
+    "index": 58,
+    "judgments": [
+      {"opinion": "Arbitrary borders split ethnic groups and forced diverse populations into single states, fostering internal tensions.", "precision": "yes"},
+      {"opinion": "Colonial administrations often built extractive institutions focused on resource removal rather than inclusive governance.", "precision": "yes"},
+      {"opinion": "The transition from colonialism was often turbulent, with many nations experiencing coups, civil wars, and authoritarian regimes, disrupting early development.", "precision": "yes"},
+      {"opinion": "Many states struggle with transparency, rule of law, and effective public administration.", "precision": "yes"},
+      {"opinion": "Corruption diverts resources from critical public services and infrastructure.", "precision": "yes"},
+      {"opinion": "Ongoing conflicts displace populations, destroy infrastructure, and divert spending to military rather than social needs.", "precision": "yes"},
+      {"opinion": "Countries rich in oil, minerals, or other resources often suffer from economic distortion, corruption, and conflict over revenues, without broad-based development.", "precision": "yes"},
+      {"opinion": "Economies reliant on exporting raw materials are vulnerable to global price swings and lack value-added industries.", "precision": "yes"},
+      {"opinion": "Inadequate transport, energy, and digital infrastructure hampers trade and industrialization.", "precision": "yes"},
+      {"opinion": "Africa has the lowest levels of intra-continental trade globally.", "precision": "yes"},
+      {"opinion": "High public debt burdens limit fiscal space for investment in health, education, and infrastructure.", "precision": "yes"},
+      {"opinion": "Creating sufficient employment for a youthful population is a monumental task.", "precision": "yes"},
+      {"opinion": "Education quality often lags, with systems not aligned to labor market needs, leading to high youth unemployment alongside skills shortages.", "precision": "yes"},
+      {"opinion": "Healthcare Systems face a double burden of infectious diseases and a rising tide of non-communicable diseases, often under-resourced.", "precision": "yes"},
+      {"opinion": "Trade barriers, agricultural subsidies in rich nations, and illicit financial flows drain capital.", "precision": "yes"},
+      {"opinion": "Africa contributes least to global emissions but is disproportionately impacted by droughts, floods, and desertification, threatening agriculture and food security.", "precision": "yes"},
+      {"opinion": "Aid can sometimes distort priorities, create dependency, or be tied to donor conditions.", "precision": "yes"},
+      {"opinion": "The fundamental challenge is the need to transform economic structures and governance simultaneously.", "precision": "yes"},
+      {"opinion": "The real challenge is navigating a path of sustainable and inclusive structural transformation—building resilient economies, effective states, and human capital—while overcoming deep-seated historical inequities and navigating an uncertain global order.", "precision": "yes"},
+      {"opinion": "The solutions must be African-led, context-specific, and leverage the continent's immense human and natural resources.", "precision": "yes"}
+    ],
+    "no_missed": false,
+    "missed_opinions": "Moving from extractive to inclusive institutions is the key governance transformation needed; shifting from commodity-dependent to diversified/knowledge-based economies is essential"
+  },
+  {
+    "index": 59,
+    "judgments": [
+      {"opinion": "It's getting harder and harder for a family farm like ours to make ends meet when the global economy is this volatile.", "precision": "yes"},
+      {"opinion": "I've always believed that America should be the leader of the free world.", "precision": "yes"},
+      {"opinion": "It feels like the world is splitting into two camps again, sort of like the Cold War I remember from when I was younger.", "precision": "yes"},
+      {"opinion": "I don't want my children to grow up in a world where we're always on the brink of a massive fallout between superpowers.", "precision": "yes"},
+      {"opinion": "I sometimes wonder if our leaders in Washington even know what 'winning' looks like anymore.", "precision": "yes"},
+      {"opinion": "If we don't have a clear definition of success, we're just pouring money and lives into a hole that has no bottom.", "precision": "yes"},
+      {"opinion": "I want us to be a country that helps people, but I also want us to be a country that takes care of its own house first.", "precision": "yes"}
+    ],
+    "no_missed": false,
+    "missed_opinions": "The war driving up natural gas prices and thus fertilizer input costs shows how connected we all are whether we like it or not; a shortage in Ukraine not being simply good for U.S. prices because input costs also rise"
+  },
+  {
+    "index": 60,
+    "judgments": [
+      {"opinion": "I think the biggest challenge is just safety and stability.", "precision": "yes"},
+      {"opinion": "If you're a woman out there, or if you got kids, you're always looking over your shoulder.", "precision": "yes"},
+      {"opinion": "Even if the city 'allows' it, it's still a tent.", "precision": "yes"},
+      {"opinion": "You can't lock a tent door.", "precision": "yes"},
+      {"opinion": "When you're living that close to everyone else's problems—drugs, mental health issues, or just people being desperate—it's hard to feel like you can actually rest.", "precision": "yes"},
+      {"opinion": "Another big thing is cleanliness and health.", "precision": "yes"},
+      {"opinion": "In those camps, if there aren't enough bathrooms or places to wash your hands, people get sick fast.", "precision": "yes"},
+      {"opinion": "It's hard to get your life together or look presentable for a job interview at Wendy's if you haven't had a real shower in a week.", "precision": "yes"},
+      {"opinion": "If the city is gonna 'sanction' a camp, they need to provide the basics—clean water, real toilets, and security.", "precision": "yes"},
+      {"opinion": "You can't just tell people 'you can stay here' and then walk away.", "precision": "yes"},
+      {"opinion": "Instead of making them go across town to some office to get help, the people who help with housing or jobs need to be *at* the camp.", "precision": "yes"},
+      {"opinion": "For moms in those situations, they need a safe place for their kids so they can go work or look for an apartment without worrying about what's happening at the camp.", "precision": "yes"},
+      {"opinion": "A camp shouldn't be the end of the road.", "precision": "yes"},
+      {"opinion": "It needs to be a bridge.", "precision": "yes"},
+      {"opinion": "It shouldn't be that hard just to have a safe place to sleep.", "precision": "yes"}
+    ],
+    "no_missed": false,
+    "missed_opinions": "People in those situations need to feel like they're still human; many people are close to being homeless if one thing goes wrong"
+  }
+]

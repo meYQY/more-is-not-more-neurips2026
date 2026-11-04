@@ -1,0 +1,7 @@
+# MINIMAL+BASIC: Interactive × Basic — PERSONA@5 discuss with basic demographic
+name: "INTERACTIVE-BASIC"
+persona_depth: "basic"
+framework: "interactive"
+personas_file: "personas.yaml"
+persona_subset: [1, 2, 3, 4, 5]
+n_rounds: 3

@@ -1,0 +1,5 @@
+# ROLE: Independent × Role — 20 personas with single-line role only
+name: "INDEPENDENT-ROLE"
+persona_depth: "role"
+framework: "independent"
+personas_file: "personas.yaml"

@@ -1,0 +1,5 @@
+# PERSONA-BASIC: Independent × Basic — 20 personas with one-line demographic
+name: "INDEPENDENT-BASIC"
+persona_depth: "basic"
+framework: "independent"
+personas_file: "personas.yaml"

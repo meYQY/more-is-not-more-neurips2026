@@ -1,0 +1,85 @@
+item_id,triplet_id,contrast,other_condition,model,task_id,subcategory,persona_id,persona_name,role_words,basic_words,pro_words,other_words,signed_log_length_ratio,max_min_length_ratio,length_matched_1_5x,bundle_placements
+SA-C001,SA-T022,role_pro,pro,deepseek,MOD-076,Personal Advice,11,Linda Nelson,78,,108,108,0.32542240043462795,1.3846153846153846,True,SA-B17:role=A;SA-B22:role=B
+SA-C002,SA-T027,role_pro,pro,gemini,MOD-082,Philosophical Questions,6,Marcus Williams,229,,257,257,0.1153540813409802,1.1222707423580787,True,SA-B05:role=B;SA-B19:role=A
+SA-C003,SA-T028,role_basic,basic,gemini,MOD-059,Value-Laden Questions,11,Linda Nelson,281,301,,301,0.06875559541512996,1.0711743772241993,True,SA-B06:role=A;SA-B08:role=B
+SA-C004,SA-T001,role_basic,basic,llama,MOD-096,Ideation and Brainstorming,10,Kevin Dawson,279,309,,309,0.10212949507637975,1.10752688172043,True,SA-B02:role=A;SA-B05:role=B
+SA-C005,SA-T041,role_basic,basic,gemini,MOD-025,Speculative and Hypothetical Scenarios,9,Emily Thompson,282,287,,287,0.01757514482150749,1.0177304964539007,True,SA-B14:role=A;SA-B28:role=B
+SA-C006,SA-T034,role_pro,pro,deepseek,MOD-006,Analytical and Interpretive Questions,9,Emily Thompson,162,,187,187,0.14351228162220256,1.154320987654321,True,SA-B05:role=A;SA-B18:role=B
+SA-C007,SA-T022,role_basic,basic,deepseek,MOD-076,Personal Advice,11,Linda Nelson,78,83,,83,0.06213178110700618,1.064102564102564,True,SA-B02:role=A;SA-B13:role=B
+SA-C008,SA-T018,role_pro,pro,qwen,MOD-048,Controversial Questions,13,Priya Patel,182,,169,169,-0.07410797215372185,1.0769230769230769,True,SA-B18:role=B;SA-B28:role=A
+SA-C009,SA-T024,role_pro,pro,grok,MOD-067,Opinion-Based Questions,10,Kevin Dawson,156,,152,152,-0.025975486403260677,1.0263157894736843,True,SA-B09:role=A;SA-B21:role=B
+SA-C010,SA-T019,role_pro,pro,grok,MOD-090,Abstract Conceptual Questions,12,Tyrone Jackson,211,,183,183,-0.1423719806346456,1.1530054644808743,True,SA-B14:role=A;SA-B23:role=B
+SA-C011,SA-T030,role_pro,pro,grok,MOD-093,Abstract Conceptual Questions,18,Thomas Eriksen,243,,237,237,-0.02500130220541727,1.0253164556962024,True,SA-B01:role=A;SA-B17:role=B
+SA-C012,SA-T007,role_pro,pro,kimi,MOD-038,Speculative and Hypothetical Scenarios,2,James Mitchell,206,,220,220,0.06575137756278043,1.0679611650485437,True,SA-B16:role=B;SA-B18:role=A
+SA-C013,SA-T025,role_basic,basic,llama,MOD-039,Controversial Questions,17,Ashley Carter,193,177,,177,-0.08654045633105636,1.0903954802259888,True,SA-B09:role=A;SA-B23:role=B
+SA-C014,SA-T002,role_pro,pro,kimi,MOD-029,Speculative and Hypothetical Scenarios,5,Patricia O'Brien,223,,214,214,-0.041195756438267284,1.0420560747663552,True,SA-B17:role=A;SA-B25:role=B
+SA-C015,SA-T012,role_basic,basic,kimi,MOD-008,Analytical and Interpretive Questions,4,David Chen,240,210,,210,-0.13353139262452263,1.1428571428571428,True,SA-B11:role=B;SA-B21:role=A
+SA-C016,SA-T013,role_pro,pro,gpt54mini,MOD-014,Analytical and Interpretive Questions,1,Sarah Johnson,183,,190,190,0.03753791931906524,1.0382513661202186,True,SA-B11:role=B;SA-B26:role=A
+SA-C017,SA-T020,role_basic,basic,deepseek,MOD-030,Speculative and Hypothetical Scenarios,6,Marcus Williams,75,85,,85,0.125163142954006,1.1333333333333333,True,SA-B07:role=B;SA-B26:role=A
+SA-C018,SA-T032,role_basic,basic,qwen,MOD-021,Speculative and Hypothetical Scenarios,11,Linda Nelson,294,291,,291,-0.01025650016718911,1.0103092783505154,True,SA-B09:role=B;SA-B15:role=A
+SA-C019,SA-T026,role_pro,pro,llama,MOD-050,Controversial Questions,19,Fatima Al-Rashid,301,,319,319,0.05808083803596879,1.0598006644518272,True,SA-B11:role=A;SA-B28:role=B
+SA-C020,SA-T038,role_basic,basic,gemini,MOD-044,Controversial Questions,1,Sarah Johnson,300,285,,285,-0.05129329438755058,1.0526315789473684,True,SA-B17:role=B;SA-B18:role=A
+SA-C021,SA-T003,role_basic,basic,deepseek,MOD-011,Analytical and Interpretive Questions,4,David Chen,308,317,,317,0.028801990903706182,1.0292207792207793,True,SA-B19:role=B;SA-B20:role=A
+SA-C022,SA-T042,role_basic,basic,kimi,MOD-019,Analytical and Interpretive Questions,19,Fatima Al-Rashid,210,228,,228,0.08223809823697201,1.0857142857142856,True,SA-B03:role=B;SA-B10:role=A
+SA-C023,SA-T005,role_basic,basic,gemini,MOD-042,Controversial Questions,14,Destiny Moore,299,286,,286,-0.04445176257083381,1.0454545454545454,True,SA-B11:role=B;SA-B16:role=A
+SA-C024,SA-T010,role_pro,pro,gpt54mini,MOD-028,Speculative and Hypothetical Scenarios,16,Daniel Kim,226,,248,248,0.09289374689269624,1.0973451327433628,True,SA-B08:role=B;SA-B24:role=A
+SA-C025,SA-T013,role_basic,basic,gpt54mini,MOD-014,Analytical and Interpretive Questions,1,Sarah Johnson,183,176,,176,-0.039002157803269204,1.0397727272727273,True,SA-B06:role=B;SA-B27:role=A
+SA-C026,SA-T042,role_pro,pro,kimi,MOD-019,Analytical and Interpretive Questions,19,Fatima Al-Rashid,210,,220,220,0.04652001563489291,1.0476190476190477,True,SA-B02:role=B;SA-B14:role=A
+SA-C027,SA-T012,role_pro,pro,kimi,MOD-008,Analytical and Interpretive Questions,4,David Chen,240,,239,239,-0.0041753714104806215,1.00418410041841,True,SA-B09:role=B;SA-B22:role=A
+SA-C028,SA-T025,role_pro,pro,llama,MOD-039,Controversial Questions,17,Ashley Carter,193,,201,201,0.040614719154190126,1.0414507772020725,True,SA-B20:role=A;SA-B24:role=B
+SA-C029,SA-T017,role_pro,pro,llama,MOD-002,Analytical and Interpretive Questions,15,Rosa Hernandez,286,,298,298,0.04110167568555178,1.0419580419580419,True,SA-B04:role=A;SA-B26:role=B
+SA-C030,SA-T006,role_pro,pro,gpt54mini,MOD-100,Recommendations,5,Patricia O'Brien,158,,184,184,0.1523407245820188,1.1645569620253164,True,SA-B03:role=A;SA-B07:role=B
+SA-C031,SA-T029,role_pro,pro,grok,MOD-031,Speculative and Hypothetical Scenarios,13,Priya Patel,104,,104,104,0.0,1.0,True,SA-B11:role=A;SA-B19:role=B
+SA-C032,SA-T033,role_pro,pro,qwen,MOD-072,Opinion-Based Questions,14,Destiny Moore,205,,204,204,-0.004889985294191792,1.0049019607843137,True,SA-B20:role=B;SA-B22:role=A
+SA-C033,SA-T032,role_pro,pro,qwen,MOD-021,Speculative and Hypothetical Scenarios,11,Linda Nelson,294,,295,295,0.0033955890011381075,1.0034013605442176,True,SA-B01:role=B;SA-B16:role=A
+SA-C034,SA-T039,role_basic,basic,qwen,MOD-051,Value-Laden Questions,12,Tyrone Jackson,266,283,,283,0.061950588861538466,1.0639097744360901,True,SA-B05:role=A;SA-B25:role=B
+SA-C035,SA-T036,role_basic,basic,deepseek,MOD-058,Value-Laden Questions,15,Rosa Hernandez,236,239,,239,0.012631746905900564,1.0127118644067796,True,SA-B03:role=B;SA-B10:role=A
+SA-C036,SA-T005,role_pro,pro,gemini,MOD-042,Controversial Questions,14,Destiny Moore,299,,273,273,-0.09097177820572676,1.0952380952380953,True,SA-B02:role=A;SA-B13:role=B
+SA-C037,SA-T004,role_basic,basic,llama,MOD-004,Analytical and Interpretive Questions,14,Destiny Moore,284,311,,311,0.09081867401802808,1.0950704225352113,True,SA-B03:role=A;SA-B14:role=B
+SA-C038,SA-T001,role_pro,pro,llama,MOD-096,Ideation and Brainstorming,10,Kevin Dawson,279,,301,301,0.07589848292751017,1.0788530465949822,True,SA-B12:role=B;SA-B19:role=A
+SA-C039,SA-T002,role_basic,basic,kimi,MOD-029,Speculative and Hypothetical Scenarios,5,Patricia O'Brien,223,211,,211,-0.05531363798405231,1.0568720379146919,True,SA-B01:role=B;SA-B04:role=A
+SA-C040,SA-T034,role_basic,basic,deepseek,MOD-006,Analytical and Interpretive Questions,9,Emily Thompson,162,174,,174,0.07145896398214505,1.0740740740740742,True,SA-B04:role=B;SA-B24:role=A
+SA-C041,SA-T014,role_basic,basic,kimi,MOD-094,Ideation and Brainstorming,3,Maria Rodriguez,285,256,,256,-0.10731173578908804,1.11328125,True,SA-B12:role=A;SA-B23:role=B
+SA-C042,SA-T035,role_basic,basic,kimi,MOD-015,Analytical and Interpretive Questions,7,Jennifer Park,206,207,,207,0.004842624475787991,1.0048543689320388,True,SA-B19:role=A;SA-B20:role=B
+SA-C043,SA-T030,role_basic,basic,grok,MOD-093,Abstract Conceptual Questions,18,Thomas Eriksen,243,214,,214,-0.12708542831869699,1.1355140186915889,True,SA-B16:role=A;SA-B24:role=B
+SA-C044,SA-T035,role_pro,pro,kimi,MOD-015,Analytical and Interpretive Questions,7,Jennifer Park,206,,197,197,-0.04467244005159255,1.0456852791878173,True,SA-B13:role=A;SA-B15:role=B
+SA-C045,SA-T029,role_basic,basic,grok,MOD-031,Speculative and Hypothetical Scenarios,13,Priya Patel,104,85,,85,-0.20173964265105623,1.223529411764706,True,SA-B05:role=B;SA-B15:role=A
+SA-C046,SA-T039,role_pro,pro,qwen,MOD-051,Value-Laden Questions,12,Tyrone Jackson,266,,291,291,0.08982695838979336,1.093984962406015,True,SA-B12:role=A;SA-B27:role=B
+SA-C047,SA-T020,role_pro,pro,deepseek,MOD-030,Speculative and Hypothetical Scenarios,6,Marcus Williams,75,,96,96,0.2468600779315258,1.28,True,SA-B01:role=A;SA-B16:role=B
+SA-C048,SA-T041,role_pro,pro,gemini,MOD-025,Speculative and Hypothetical Scenarios,9,Emily Thompson,282,,301,301,0.06520319381076208,1.0673758865248226,True,SA-B15:role=B;SA-B20:role=A
+SA-C049,SA-T014,role_pro,pro,kimi,MOD-094,Ideation and Brainstorming,3,Maria Rodriguez,285,,286,286,0.0035026305512020745,1.0035087719298246,True,SA-B06:role=A;SA-B08:role=B
+SA-C050,SA-T037,role_pro,pro,gemini,MOD-062,Value-Laden Questions,18,Thomas Eriksen,296,,293,293,-0.010186845306993018,1.0102389078498293,True,SA-B03:role=A;SA-B07:role=B
+SA-C051,SA-T015,role_pro,pro,gpt54mini,MOD-010,Analytical and Interpretive Questions,17,Ashley Carter,255,,274,274,0.07186456122964403,1.0745098039215686,True,SA-B05:role=A;SA-B14:role=B
+SA-C052,SA-T023,role_pro,pro,grok,MOD-061,Value-Laden Questions,20,Carlos Mendoza,116,,114,114,-0.01739174271186922,1.0175438596491229,True,SA-B03:role=B;SA-B25:role=A
+SA-C053,SA-T027,role_basic,basic,gemini,MOD-082,Philosophical Questions,6,Marcus Williams,229,232,,232,0.013015368112070227,1.0131004366812226,True,SA-B12:role=B;SA-B27:role=A
+SA-C054,SA-T016,role_pro,pro,gpt54mini,MOD-078,Personal Advice,2,James Mitchell,219,,216,216,-0.013793322132335873,1.0138888888888888,True,SA-B12:role=B;SA-B23:role=A
+SA-C055,SA-T033,role_basic,basic,qwen,MOD-072,Opinion-Based Questions,14,Destiny Moore,205,213,,213,0.038282186571016966,1.0390243902439025,True,SA-B17:role=A;SA-B19:role=B
+SA-C056,SA-T038,role_pro,pro,gemini,MOD-044,Controversial Questions,1,Sarah Johnson,300,,306,306,0.01980262729617973,1.02,True,SA-B09:role=B;SA-B24:role=A
+SA-C057,SA-T008,role_basic,basic,deepseek,MOD-074,Personal Advice,8,Robert Garcia,92,71,,71,-0.2591087000077249,1.295774647887324,True,SA-B12:role=A;SA-B14:role=B
+SA-C058,SA-T040,role_basic,basic,llama,MOD-083,Philosophical Questions,3,Maria Rodriguez,237,255,,255,0.07320340402329492,1.0759493670886076,True,SA-B01:role=B;SA-B21:role=A
+SA-C059,SA-T024,role_basic,basic,grok,MOD-067,Opinion-Based Questions,10,Kevin Dawson,156,149,,149,-0.04590970130407786,1.0469798657718121,True,SA-B08:role=A;SA-B20:role=B
+SA-C060,SA-T031,role_basic,basic,qwen,MOD-070,Opinion-Based Questions,16,Daniel Kim,289,282,,282,-0.024519617174318612,1.024822695035461,True,SA-B07:role=A;SA-B21:role=B
+SA-C061,SA-T019,role_basic,basic,grok,MOD-090,Abstract Conceptual Questions,12,Tyrone Jackson,211,212,,212,0.004728141195945896,1.004739336492891,True,SA-B06:role=A;SA-B18:role=B
+SA-C062,SA-T037,role_basic,basic,gemini,MOD-062,Value-Laden Questions,18,Thomas Eriksen,296,277,,277,-0.06634194813672183,1.068592057761733,True,SA-B25:role=A;SA-B26:role=B
+SA-C063,SA-T016,role_basic,basic,gpt54mini,MOD-078,Personal Advice,2,James Mitchell,219,215,,215,-0.01843370168883802,1.0186046511627906,True,SA-B13:role=B;SA-B25:role=A
+SA-C064,SA-T011,role_pro,pro,gpt54mini,MOD-026,Speculative and Hypothetical Scenarios,7,Jennifer Park,165,,135,135,-0.2006706954621511,1.2222222222222223,True,SA-B10:role=A;SA-B21:role=B
+SA-C065,SA-T009,role_pro,pro,qwen,MOD-088,Philosophical Questions,20,Carlos Mendoza,219,,221,221,0.009090971701252105,1.0091324200913243,True,SA-B02:role=B;SA-B04:role=A
+SA-C066,SA-T026,role_basic,basic,llama,MOD-050,Controversial Questions,19,Fatima Al-Rashid,301,312,,312,0.035892923060606534,1.0365448504983388,True,SA-B08:role=A;SA-B17:role=B
+SA-C067,SA-T028,role_pro,pro,gemini,MOD-059,Value-Laden Questions,11,Linda Nelson,281,,306,306,0.08523043261863505,1.0889679715302492,True,SA-B04:role=B;SA-B21:role=A
+SA-C068,SA-T036,role_pro,pro,deepseek,MOD-058,Value-Laden Questions,15,Rosa Hernandez,236,,250,250,0.05762911283663642,1.0593220338983051,True,SA-B25:role=B;SA-B27:role=A
+SA-C069,SA-T015,role_basic,basic,gpt54mini,MOD-010,Analytical and Interpretive Questions,17,Ashley Carter,255,250,,250,-0.019802627296179754,1.02,True,SA-B01:role=A;SA-B02:role=B
+SA-C070,SA-T006,role_basic,basic,gpt54mini,MOD-100,Recommendations,5,Patricia O'Brien,158,180,,180,0.13036181786324363,1.139240506329114,True,SA-B09:role=A;SA-B15:role=B
+SA-C071,SA-T017,role_basic,basic,llama,MOD-002,Analytical and Interpretive Questions,15,Rosa Hernandez,286,273,,273,-0.04652001563489282,1.0476190476190477,True,SA-B18:role=A;SA-B22:role=B
+SA-C072,SA-T010,role_basic,basic,gpt54mini,MOD-028,Speculative and Hypothetical Scenarios,16,Daniel Kim,226,219,,219,-0.031463269455785106,1.0319634703196348,True,SA-B16:role=B;SA-B22:role=A
+SA-C073,SA-T011,role_basic,basic,gpt54mini,MOD-026,Speculative and Hypothetical Scenarios,7,Jennifer Park,165,157,,157,-0.04969966855227253,1.0509554140127388,True,SA-B04:role=B;SA-B28:role=A
+SA-C074,SA-T021,role_basic,basic,grok,MOD-063,Opinion-Based Questions,8,Robert Garcia,303,316,,316,0.042009408077542935,1.0429042904290429,True,SA-B13:role=A;SA-B22:role=B
+SA-C075,SA-T040,role_pro,pro,llama,MOD-083,Philosophical Questions,3,Maria Rodriguez,237,,261,261,0.09646026618756232,1.1012658227848102,True,SA-B10:role=B;SA-B13:role=A
+SA-C076,SA-T031,role_pro,pro,qwen,MOD-070,Opinion-Based Questions,16,Daniel Kim,289,,280,280,-0.03163708494318258,1.0321428571428573,True,SA-B06:role=B;SA-B26:role=A
+SA-C077,SA-T023,role_basic,basic,grok,MOD-061,Value-Laden Questions,20,Carlos Mendoza,116,109,,109,-0.062242308877220896,1.0642201834862386,True,SA-B27:role=B;SA-B28:role=A
+SA-C078,SA-T009,role_basic,basic,qwen,MOD-088,Philosophical Questions,20,Carlos Mendoza,219,206,,206,-0.061195561026919795,1.0631067961165048,True,SA-B11:role=A;SA-B24:role=B
+SA-C079,SA-T021,role_pro,pro,grok,MOD-063,Opinion-Based Questions,8,Robert Garcia,303,,291,291,-0.040409538337876666,1.041237113402062,True,SA-B07:role=A;SA-B10:role=B
+SA-C080,SA-T008,role_pro,pro,deepseek,MOD-074,Personal Advice,8,Robert Garcia,92,,78,78,-0.16507975035944858,1.1794871794871795,True,SA-B06:role=B;SA-B08:role=A
+SA-C081,SA-T003,role_pro,pro,deepseek,MOD-011,Analytical and Interpretive Questions,4,David Chen,308,,311,311,0.009693129205659751,1.0097402597402598,True,SA-B23:role=A;SA-B28:role=B
+SA-C082,SA-T004,role_pro,pro,llama,MOD-004,Analytical and Interpretive Questions,14,Destiny Moore,284,,306,306,0.07461086379117464,1.0774647887323943,True,SA-B15:role=A;SA-B27:role=B
+SA-C083,SA-T007,role_basic,basic,kimi,MOD-038,Speculative and Hypothetical Scenarios,2,James Mitchell,206,211,,211,0.023981964686485405,1.0242718446601942,True,SA-B07:role=A;SA-B26:role=B
+SA-C084,SA-T018,role_basic,basic,qwen,MOD-048,Controversial Questions,13,Priya Patel,182,175,,175,-0.03922071315328127,1.04,True,SA-B10:role=B;SA-B23:role=A

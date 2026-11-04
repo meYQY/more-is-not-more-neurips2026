@@ -1,0 +1,6 @@
+# MT-NONE: Sequential × None — 5 independent multi-turn conversations, no persona
+# Reduced from 20 to 5: no persona variation, only temperature drives differences.
+name: "SEQUENTIAL-NONE"
+persona_depth: "none"
+framework: "sequential"
+n_responses: 5

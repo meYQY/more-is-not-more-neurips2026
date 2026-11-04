@@ -1,0 +1,7 @@
+# TEMP-HIGH: Independent × None — SINGLE but with temperature=1.0
+# Ablation: does higher temperature alone increase diversity?
+name: "INDEPENDENT-TEMP-HIGH"
+persona_depth: "none"
+framework: "independent"
+generation:
+  temperature: 1.0

@@ -1,0 +1,457 @@
+{
+  "method": {
+    "metric": "per-task MPD from released OpenAI text-embedding-3-small results",
+    "task_bootstrap": "10000 resamples of task IDs, preserving cross-model dependence",
+    "model_bootstrap": "10000 resamples of model IDs",
+    "crossed_bootstrap": "10000 independent resamples of model and task IDs",
+    "subsample": "5000 random subsets without replacement at n=10,25,50,75",
+    "leave_one_category_out": "drop each of the 10 released task subcategories in turn",
+    "estimand": "equal-weight mean over included models and common tasks",
+    "seed": 1529
+  },
+  "aggregate_contrasts": {
+    "SC_None_to_Role": {
+      "estimate": 0.05823063696589638,
+      "task_boot_ci_low": 0.05283760105864439,
+      "task_boot_ci_high": 0.06384949121528526,
+      "model_boot_ci_low": 0.04122421788985018,
+      "model_boot_ci_high": 0.07429418344206805,
+      "crossed_boot_ci_low": 0.0402105616574746,
+      "crossed_boot_ci_high": 0.07581481042641357,
+      "task_boot_p_positive": 1.0,
+      "crossed_boot_p_positive": 1.0,
+      "models": [
+        "deepseek",
+        "gemini",
+        "gpt54mini",
+        "grok",
+        "kimi",
+        "llama",
+        "qwen"
+      ],
+      "n_models": 7,
+      "n_common_tasks": 97
+    },
+    "AllArch_None_to_Role": {
+      "estimate": 0.06649636937845335,
+      "task_boot_ci_low": 0.06243293424716452,
+      "task_boot_ci_high": 0.07058298683995422,
+      "model_boot_ci_low": 0.05328014045088273,
+      "model_boot_ci_high": 0.077510126273504,
+      "crossed_boot_ci_low": 0.053015425310363164,
+      "crossed_boot_ci_high": 0.0788298664888937,
+      "task_boot_p_positive": 1.0,
+      "crossed_boot_p_positive": 1.0,
+      "models": [
+        "deepseek",
+        "gemini",
+        "kimi",
+        "llama",
+        "grok",
+        "qwen"
+      ],
+      "n_models": 6,
+      "n_common_tasks": 96
+    },
+    "AllArch_Role_to_Pro": {
+      "estimate": 0.010014387663665997,
+      "task_boot_ci_low": 0.0073145637462857125,
+      "task_boot_ci_high": 0.012724362842192541,
+      "model_boot_ci_low": 0.0002933464308528449,
+      "model_boot_ci_high": 0.021357713862632185,
+      "crossed_boot_ci_low": -0.0003545246185885434,
+      "crossed_boot_ci_high": 0.02174326645169489,
+      "task_boot_p_positive": 1.0,
+      "crossed_boot_p_positive": 0.9707,
+      "models": [
+        "deepseek",
+        "gemini",
+        "kimi",
+        "llama",
+        "grok",
+        "qwen"
+      ],
+      "n_models": 6,
+      "n_common_tasks": 96
+    },
+    "AllArch_InitialMinusExtraDepth": {
+      "estimate": 0.056603033249015715,
+      "task_boot_ci_low": 0.05162997870013713,
+      "task_boot_ci_high": 0.06188127173015645,
+      "model_boot_ci_low": 0.039883539267648,
+      "model_boot_ci_high": 0.07416481881876483,
+      "crossed_boot_ci_low": 0.037915276374503835,
+      "crossed_boot_ci_high": 0.075687339847694,
+      "task_boot_p_positive": 1.0,
+      "crossed_boot_p_positive": 1.0,
+      "models": [
+        "deepseek",
+        "gemini",
+        "kimi",
+        "llama",
+        "grok",
+        "qwen"
+      ],
+      "n_models": 6,
+      "n_common_tasks": 95
+    },
+    "AllArch_Basic_to_Mid": {
+      "estimate": 0.0017903215431321854,
+      "task_boot_ci_low": 0.0004559190163302183,
+      "task_boot_ci_high": 0.003113334140340088,
+      "model_boot_ci_low": -0.0038875499483660026,
+      "model_boot_ci_high": 0.0053654137983962956,
+      "crossed_boot_ci_low": -0.004248523159845671,
+      "crossed_boot_ci_high": 0.006041739616283172,
+      "task_boot_p_positive": 0.9969,
+      "crossed_boot_p_positive": 0.7529,
+      "models": [
+        "deepseek",
+        "gemini",
+        "kimi",
+        "llama",
+        "grok",
+        "qwen"
+      ],
+      "n_models": 6,
+      "n_common_tasks": 98
+    },
+    "SC_None_to_Pro": {
+      "estimate": 0.07152018011648925,
+      "task_boot_ci_low": 0.06575971411318618,
+      "task_boot_ci_high": 0.07732174644274711,
+      "model_boot_ci_low": 0.04853078211716435,
+      "model_boot_ci_high": 0.09110625060353114,
+      "crossed_boot_ci_low": 0.047808226224517324,
+      "crossed_boot_ci_high": 0.09250224520442836,
+      "task_boot_p_positive": 1.0,
+      "crossed_boot_p_positive": 1.0,
+      "models": [
+        "deepseek",
+        "gemini",
+        "gpt54mini",
+        "grok",
+        "kimi",
+        "llama",
+        "qwen"
+      ],
+      "n_models": 7,
+      "n_common_tasks": 99
+    },
+    "Matched5_SC_to_MT_Pro": {
+      "estimate": 0.053235281008777995,
+      "task_boot_ci_low": 0.047654179000528846,
+      "task_boot_ci_high": 0.05934069730951052,
+      "model_boot_ci_low": 0.04127758015455762,
+      "model_boot_ci_high": 0.06469521291647791,
+      "crossed_boot_ci_low": 0.04018194904903349,
+      "crossed_boot_ci_high": 0.06702330118587721,
+      "task_boot_p_positive": 1.0,
+      "crossed_boot_p_positive": 1.0,
+      "models": [
+        "deepseek",
+        "gemini",
+        "gpt54mini",
+        "grok",
+        "kimi",
+        "llama",
+        "qwen"
+      ],
+      "n_models": 7,
+      "n_common_tasks": 97
+    },
+    "Matched5_SC_to_MA_Pro": {
+      "estimate": 0.04157717217937626,
+      "task_boot_ci_low": 0.03555188880927494,
+      "task_boot_ci_high": 0.04780755883082907,
+      "model_boot_ci_low": 0.029185682553115808,
+      "model_boot_ci_high": 0.05559613922268823,
+      "crossed_boot_ci_low": 0.02722853465703167,
+      "crossed_boot_ci_high": 0.056845835729262696,
+      "task_boot_p_positive": 1.0,
+      "crossed_boot_p_positive": 1.0,
+      "models": [
+        "deepseek",
+        "gemini",
+        "kimi",
+        "llama",
+        "grok",
+        "qwen"
+      ],
+      "n_models": 6,
+      "n_common_tasks": 98
+    },
+    "Matched5_MT_to_MA_Pro": {
+      "estimate": -0.006930853346875198,
+      "task_boot_ci_low": -0.01013792909651564,
+      "task_boot_ci_high": -0.0036516345475259737,
+      "model_boot_ci_low": -0.019705723836037775,
+      "model_boot_ci_high": 0.005935565458145964,
+      "crossed_boot_ci_low": -0.02054920968942408,
+      "crossed_boot_ci_high": 0.006332060034694299,
+      "task_boot_p_positive": 0.0,
+      "crossed_boot_p_positive": 0.1567,
+      "models": [
+        "deepseek",
+        "gemini",
+        "kimi",
+        "llama",
+        "grok",
+        "qwen"
+      ],
+      "n_models": 6,
+      "n_common_tasks": 98
+    },
+    "SC_5_to_20_Personas_Pro": {
+      "estimate": 0.0076954569464789,
+      "task_boot_ci_low": 0.0053532251729660795,
+      "task_boot_ci_high": 0.010057182715943268,
+      "model_boot_ci_low": 0.004622863769548662,
+      "model_boot_ci_high": 0.010947547489307376,
+      "crossed_boot_ci_low": 0.003341449664150963,
+      "crossed_boot_ci_high": 0.012427829247183475,
+      "task_boot_p_positive": 1.0,
+      "crossed_boot_p_positive": 0.9996,
+      "models": [
+        "deepseek",
+        "gemini",
+        "gpt54mini",
+        "grok",
+        "kimi",
+        "llama",
+        "qwen"
+      ],
+      "n_models": 7,
+      "n_common_tasks": 98
+    },
+    "SC_None_to_PersonalityLabel": {
+      "estimate": 0.02459952554787729,
+      "task_boot_ci_low": 0.02139927628126911,
+      "task_boot_ci_high": 0.027928722409485993,
+      "model_boot_ci_low": 0.013860093409126377,
+      "model_boot_ci_high": 0.03467557540153355,
+      "crossed_boot_ci_low": 0.013211521438419188,
+      "crossed_boot_ci_high": 0.03578158918984746,
+      "task_boot_p_positive": 1.0,
+      "crossed_boot_p_positive": 1.0,
+      "models": [
+        "deepseek",
+        "gemini",
+        "grok",
+        "kimi",
+        "llama",
+        "qwen"
+      ],
+      "n_models": 6,
+      "n_common_tasks": 99
+    },
+    "SC_PersonalityLabel_to_Role": {
+      "estimate": 0.03827093768883518,
+      "task_boot_ci_low": 0.03407816527574096,
+      "task_boot_ci_high": 0.042546219359519896,
+      "model_boot_ci_low": 0.029343084124489698,
+      "model_boot_ci_high": 0.04490945463694131,
+      "crossed_boot_ci_low": 0.028192940347989495,
+      "crossed_boot_ci_high": 0.046918589173567844,
+      "task_boot_p_positive": 1.0,
+      "crossed_boot_p_positive": 1.0,
+      "models": [
+        "deepseek",
+        "gemini",
+        "grok",
+        "kimi",
+        "llama",
+        "qwen"
+      ],
+      "n_models": 6,
+      "n_common_tasks": 98
+    }
+  },
+  "difference_in_differences": {
+    "DiD_MT_minus_SC_NoneToPro": {
+      "estimate": -0.005738592629413122,
+      "task_boot_ci_low": -0.010302483221180702,
+      "task_boot_ci_high": -0.001255108813416135,
+      "model_boot_ci_low": -0.014340820376143516,
+      "model_boot_ci_high": 0.0027975931811746032,
+      "crossed_boot_ci_low": -0.01661008714723533,
+      "crossed_boot_ci_high": 0.005339708509025206,
+      "task_boot_p_positive": 0.0058,
+      "crossed_boot_p_positive": 0.1517,
+      "models": [
+        "deepseek",
+        "gemini",
+        "kimi",
+        "llama",
+        "grok",
+        "qwen"
+      ],
+      "n_models": 6,
+      "n_common_tasks": 98
+    },
+    "DiD_MA_minus_SC_NoneToPro": {
+      "estimate": -0.004531703350717342,
+      "task_boot_ci_low": -0.010616678722026486,
+      "task_boot_ci_high": 0.0014854660787616042,
+      "model_boot_ci_low": -0.008175299366237376,
+      "model_boot_ci_high": -0.0013843883374331063,
+      "crossed_boot_ci_low": -0.012578647657903504,
+      "crossed_boot_ci_high": 0.0035667417238011315,
+      "task_boot_p_positive": 0.0717,
+      "crossed_boot_p_positive": 0.1243,
+      "models": [
+        "deepseek",
+        "gemini",
+        "kimi",
+        "llama",
+        "grok",
+        "qwen"
+      ],
+      "n_models": 6,
+      "n_common_tasks": 98
+    },
+    "DiD_MA_minus_MT_NoneToPro": {
+      "estimate": 0.0009016157947747988,
+      "task_boot_ci_low": -0.0033530015761112702,
+      "task_boot_ci_high": 0.005151039813132824,
+      "model_boot_ci_low": -0.00987205247074924,
+      "model_boot_ci_high": 0.011927852217009455,
+      "crossed_boot_ci_low": -0.01124479565845971,
+      "crossed_boot_ci_high": 0.012748456528073462,
+      "task_boot_p_positive": 0.6675,
+      "crossed_boot_p_positive": 0.5587,
+      "models": [
+        "deepseek",
+        "gemini",
+        "kimi",
+        "llama",
+        "grok",
+        "qwen"
+      ],
+      "n_models": 6,
+      "n_common_tasks": 97
+    }
+  },
+  "diagnostics": {
+    "SC_None_to_PersonalityLabel": {
+      "loo_min": 0.023184061669787794,
+      "loo_max": 0.026490863808009864,
+      "loo_all_same_direction": true,
+      "max_abs_loo_change": 0.0018913382601325746,
+      "categories_same_direction": 10,
+      "n_categories": 10
+    },
+    "AllArch_InitialMinusExtraDepth": {
+      "loo_min": 0.05392134739304337,
+      "loo_max": 0.05903990513533989,
+      "loo_all_same_direction": true,
+      "max_abs_loo_change": 0.0026816858559723447,
+      "categories_same_direction": 10,
+      "n_categories": 10
+    },
+    "AllArch_None_to_Role": {
+      "loo_min": 0.06353466667804593,
+      "loo_max": 0.06756394630295526,
+      "loo_all_same_direction": true,
+      "max_abs_loo_change": 0.002961702700407423,
+      "categories_same_direction": 10,
+      "n_categories": 10
+    },
+    "DiD_MA_minus_SC_NoneToPro": {
+      "loo_min": -0.005292487280926181,
+      "loo_max": -0.0036124665162473304,
+      "loo_all_same_direction": true,
+      "max_abs_loo_change": 0.0009192368344700117,
+      "categories_same_direction": 8,
+      "n_categories": 10
+    },
+    "SC_5_to_20_Personas_Pro": {
+      "loo_min": 0.0070049228389764615,
+      "loo_max": 0.008402690446994552,
+      "loo_all_same_direction": true,
+      "max_abs_loo_change": 0.0007072335005156513,
+      "categories_same_direction": 10,
+      "n_categories": 10
+    },
+    "Matched5_SC_to_MA_Pro": {
+      "loo_min": 0.03879836764953732,
+      "loo_max": 0.04342519501912155,
+      "loo_all_same_direction": true,
+      "max_abs_loo_change": 0.0027788045298389394,
+      "categories_same_direction": 9,
+      "n_categories": 10
+    },
+    "SC_None_to_Role": {
+      "loo_min": 0.05532503861772012,
+      "loo_max": 0.060182977815045655,
+      "loo_all_same_direction": true,
+      "max_abs_loo_change": 0.002905598348176261,
+      "categories_same_direction": 10,
+      "n_categories": 10
+    },
+    "SC_None_to_Pro": {
+      "loo_min": 0.0683704581268859,
+      "loo_max": 0.07307917256242766,
+      "loo_all_same_direction": true,
+      "max_abs_loo_change": 0.003149721989603352,
+      "categories_same_direction": 10,
+      "n_categories": 10
+    },
+    "Matched5_SC_to_MT_Pro": {
+      "loo_min": 0.050314190744827625,
+      "loo_max": 0.055887167060866536,
+      "loo_all_same_direction": true,
+      "max_abs_loo_change": 0.0029210902639503697,
+      "categories_same_direction": 10,
+      "n_categories": 10
+    },
+    "DiD_MT_minus_SC_NoneToPro": {
+      "loo_min": -0.006813899755589822,
+      "loo_max": -0.0035189770136795605,
+      "loo_all_same_direction": true,
+      "max_abs_loo_change": 0.0022196156157335617,
+      "categories_same_direction": 7,
+      "n_categories": 10
+    },
+    "Matched5_MT_to_MA_Pro": {
+      "loo_min": -0.00809953811140022,
+      "loo_max": -0.006228830174383004,
+      "loo_all_same_direction": true,
+      "max_abs_loo_change": 0.0011686847645250228,
+      "categories_same_direction": 10,
+      "n_categories": 10
+    },
+    "DiD_MA_minus_MT_NoneToPro": {
+      "loo_min": -0.0007078157203198289,
+      "loo_max": 0.002106944045982756,
+      "loo_all_same_direction": false,
+      "max_abs_loo_change": 0.0016094315150946277,
+      "categories_same_direction": 5,
+      "n_categories": 10
+    },
+    "AllArch_Role_to_Pro": {
+      "loo_min": 0.008563737159109859,
+      "loo_max": 0.011026605819706412,
+      "loo_all_same_direction": true,
+      "max_abs_loo_change": 0.0014506505045561377,
+      "categories_same_direction": 10,
+      "n_categories": 10
+    },
+    "AllArch_Basic_to_Mid": {
+      "loo_min": 0.0013264106243403265,
+      "loo_max": 0.0027130908341565616,
+      "loo_all_same_direction": true,
+      "max_abs_loo_change": 0.0009227692910243762,
+      "categories_same_direction": 7,
+      "n_categories": 10
+    },
+    "SC_PersonalityLabel_to_Role": {
+      "loo_min": 0.03645117865544303,
+      "loo_max": 0.04029341049843019,
+      "loo_all_same_direction": true,
+      "max_abs_loo_change": 0.0020224728095950065,
+      "categories_same_direction": 10,
+      "n_categories": 10
+    }
+  }
+}

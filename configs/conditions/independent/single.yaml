@@ -1,0 +1,5 @@
+# SINGLE: Independent × None — baseline
+# No persona, no framework. Direct query to LLM.
+name: "INDEPENDENT-NONE"
+persona_depth: "none"
+framework: "independent"

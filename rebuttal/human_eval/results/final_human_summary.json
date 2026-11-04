@@ -1,0 +1,83 @@
+{
+  "status": "final_scientific_sample",
+  "source_exported_at": "2026-07-29T08:27:24.452Z",
+  "sample": {
+    "sessions": 28,
+    "main_sessions": 25,
+    "pilot_sessions": 3,
+    "unique_annotators": 27,
+    "bundles": 28,
+    "comparison_items": 84,
+    "judgments": 168,
+    "ratings_per_item": 2,
+    "participant_item_repeats": 1,
+    "paid_field_present": false
+  },
+  "quality": {
+    "comprehension_passed": 28,
+    "complete_formal_judgments": 28,
+    "complete_confidence": 28,
+    "nonempty_rationales": 28,
+    "unique_final_commit": 28,
+    "objective_invalid_records": 0,
+    "analysis_inclusion_sessions": 28,
+    "payment_decision": "not_assessed_no_paid_field"
+  },
+  "primary": {
+    "role_basic": {
+      "n": 84,
+      "counts": {"role": 32, "basic": 24, "tie": 27, "unable": 1},
+      "triplet_cluster": {
+        "D": -0.09523809523809523,
+        "ci_low": -0.2857142857142857,
+        "ci_high": 0.09523809523809523
+      },
+      "pid_cluster": {
+        "D": -0.09523809523809523,
+        "ci_low": -0.26436781609195403,
+        "ci_high": 0.07407407407407407
+      },
+      "pair_agreement": 0.5238095238095238,
+      "nominal_alpha": 0.2975031739314431
+    },
+    "role_pro": {
+      "n": 84,
+      "counts": {"role": 37, "pro": 23, "tie": 24, "unable": 0},
+      "triplet_cluster": {
+        "D": -0.16666666666666666,
+        "ci_low": -0.35714285714285715,
+        "ci_high": 0.023809523809523808
+      },
+      "pid_cluster": {
+        "D": -0.16666666666666666,
+        "ci_low": -0.35714285714285715,
+        "ci_high": 0.011111111111111112
+      },
+      "pair_agreement": 0.42857142857142855,
+      "nominal_alpha": 0.13051069402007864
+    }
+  },
+  "first_exposure_sensitivity": {
+    "n": 167,
+    "removed": "later repeated Tie on SA-C045",
+    "role_basic_raw_D": -0.0963855421686747,
+    "role_pro_raw_D": -0.16666666666666666,
+    "conclusion_changed": false
+  },
+  "position": {
+    "other_on_a": 84,
+    "other_on_b": 84,
+    "overall_paired_mcnemar_p": 0.6636238098144531,
+    "role_basic_paired_mcnemar_p": 0.3876953125,
+    "role_pro_paired_mcnemar_p": 1.0
+  },
+  "interpretation": {
+    "supported": "No stable human-perceived Basic or Pro advantage over Role was detected for breadth within a matched complete response.",
+    "guardrails": [
+      "Not an equivalence result",
+      "Not a statistically established Role superiority result",
+      "Not universal MPD validation or invalidation",
+      "Does not measure population fidelity, viewpoint calibration, or overall response quality"
+    ]
+  }
+}

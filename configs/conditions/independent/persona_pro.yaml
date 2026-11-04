@@ -1,0 +1,5 @@
+# PERSONA-PRO: Independent × Pro — 20 personas with ~150-word backstory
+name: "INDEPENDENT-PRO"
+persona_depth: "pro"
+framework: "independent"
+personas_file: "personas.yaml"

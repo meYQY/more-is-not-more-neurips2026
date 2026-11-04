@@ -1,0 +1,83 @@
+[
+  {
+    "a": "independent-none",
+    "b": "independent-role",
+    "label": "None vs Role",
+    "n_tasks": 99,
+    "beta_vs_mean": 9.311692551169731,
+    "unique_cluster_ratio_a": 0.5919328145829152,
+    "unique_cluster_ratio_b": 0.7150946511320808
+  },
+  {
+    "a": "independent-none",
+    "b": "independent-basic",
+    "label": "None vs Basic",
+    "n_tasks": 99,
+    "beta_vs_mean": 9.264837790659382,
+    "unique_cluster_ratio_a": 0.5996416974124217,
+    "unique_cluster_ratio_b": 0.6962021503058103
+  },
+  {
+    "a": "independent-none",
+    "b": "independent-pro",
+    "label": "None vs Pro",
+    "n_tasks": 99,
+    "beta_vs_mean": 10.531314106581592,
+    "unique_cluster_ratio_a": 0.6527026689828966,
+    "unique_cluster_ratio_b": 0.7628980418907031
+  },
+  {
+    "a": "independent-basic",
+    "b": "independent-pro",
+    "label": "Basic vs Pro",
+    "n_tasks": 100,
+    "beta_vs_mean": 10.58789317838351,
+    "unique_cluster_ratio_a": 0.6345965445118804,
+    "unique_cluster_ratio_b": 0.6799356253052588
+  },
+  {
+    "a": "independent-pro-5",
+    "b": "sequential-pro-5",
+    "label": "Indep vs Seq (5-persona Pro)",
+    "n_tasks": 99,
+    "beta_vs_mean": 10.562792465622579,
+    "unique_cluster_ratio_a": 0.8504522881947402,
+    "unique_cluster_ratio_b": 0.8832829369094076
+  },
+  {
+    "a": "independent-pro-5",
+    "b": "interactive-pro",
+    "label": "Indep vs Int (5-persona Pro)",
+    "n_tasks": 100,
+    "beta_vs_mean": 11.33456237490972,
+    "unique_cluster_ratio_a": 0.880032936952271,
+    "unique_cluster_ratio_b": 0.9028137390668242
+  },
+  {
+    "a": "sequential-pro-5",
+    "b": "interactive-pro",
+    "label": "Seq vs Int (5-persona Pro)",
+    "n_tasks": 99,
+    "beta_vs_mean": 17.93894207373211,
+    "unique_cluster_ratio_a": 0.8857559048703663,
+    "unique_cluster_ratio_b": 0.8861791080283409
+  },
+  {
+    "a": "independent-none",
+    "b": "sequential-none",
+    "label": "Indep vs Seq (None)",
+    "n_tasks": 99,
+    "beta_vs_mean": 8.481105202055138,
+    "unique_cluster_ratio_a": 0.49951579138599533,
+    "unique_cluster_ratio_b": 0.7236325260534892
+  },
+  {
+    "a": "independent-none",
+    "b": "interactive-none",
+    "label": "Indep vs Int (None)",
+    "n_tasks": 98,
+    "beta_vs_mean": 10.786095816910674,
+    "unique_cluster_ratio_a": 0.6168858646906743,
+    "unique_cluster_ratio_b": 0.8000200938452575
+  }
+]

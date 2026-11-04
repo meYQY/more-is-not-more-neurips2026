@@ -1,0 +1,46 @@
+{
+  "Independent Main": {
+    "independent-none": {
+      "mpd": 0.5773609642916225,
+      "cc_rarefied": 77.97366666666667,
+      "vs_rarefied": 20.444570938905084
+    },
+    "independent-role": {
+      "mpd": 0.6102025930275268,
+      "cc_rarefied": 96.43699999999998,
+      "vs_rarefied": 24.143909040768946
+    },
+    "independent-basic": {
+      "mpd": 0.579856349333422,
+      "cc_rarefied": 73.89699999999999,
+      "vs_rarefied": 20.034295181194942
+    },
+    "independent-mid": {
+      "mpd": 0.5887201404294637,
+      "cc_rarefied": 84.66533333333332,
+      "vs_rarefied": 22.022485550721484
+    },
+    "independent-pro": {
+      "mpd": 0.5966966431520152,
+      "cc_rarefied": 88.012,
+      "vs_rarefied": 22.963948040644325
+    }
+  },
+  "Cross-Framework (5-persona)": {
+    "independent-pro-5": {
+      "mpd": 0.589887823727776,
+      "cc_rarefied": 26.289333333333335,
+      "vs_rarefied": 11.814781918843591
+    },
+    "sequential-pro-5": {
+      "mpd": 0.6680222482147319,
+      "cc_rarefied": 50.055666666666674,
+      "vs_rarefied": 20.2226299050649
+    },
+    "interactive-pro": {
+      "mpd": 0.6363275589456728,
+      "cc_rarefied": 42.16033333333334,
+      "vs_rarefied": 17.415454564412435
+    }
+  }
+}
